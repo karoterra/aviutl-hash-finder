@@ -1,0 +1,29 @@
+[
+  {
+    "filename": "aviutl.exe",
+    "name": "AviUtl",
+    "author": "ＫＥＮくん",
+    "version": "1.10",
+    "build": "2019/10/3",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "3737D8B0BC1336624BFB7F7C54425C819A208B5FEEE552F5CE9443DD4C6A1A04"
+  },
+  {
+    "filename": "aviutl.exe",
+    "name": "AviUtl",
+    "author": "ＫＥＮくん",
+    "version": "1.00",
+    "build": "2013/4/1",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "B8FFAF79853686C41A8033AF04607325FF9454BE9D3C2365D81D6924FFC34A40"
+  },
+  {
+    "filename": "exedit.auf",
+    "name": "拡張編集Plugin",
+    "author": "ＫＥＮくん",
+    "version": "0.92",
+    "build": "2013/7/15",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "06F2D89D31D6B8F5D1D8B079A2872A467F3C704ED38355E1F19F1FBD9529EE3A"
+  }
+]
