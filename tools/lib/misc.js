@@ -2,6 +2,7 @@ import crypto from "crypto";
 import path from "path";
 import fs from "fs";
 import unzipper from "unzipper";
+import Seven from "node-7z";
 import fetch from "node-fetch";
 
 async function calcSha256(stream) {
@@ -44,7 +45,7 @@ async function calcZipSha256(zipPath, filenames) {
     .pipe(unzipper.Parse({ forceStream: true }));
   for await (const entry of zip) {
     const entryName = path.basename(entry.path);
-    if (!filenames || filenames.find((x) => x === entryName)) {
+    if (!filenames || filenames.includes(entryName)) {
       const sha256 = await calcSha256(entry);
       result[entryName] = sha256;
     } else {
@@ -55,9 +56,49 @@ async function calcZipSha256(zipPath, filenames) {
   return result;
 }
 
+async function extract7z(archive, output) {
+  return new Promise((resolve, reject) => {
+    const stream = Seven.extractFull(archive, output);
+
+    stream.on("end", () => {
+      resolve();
+    });
+
+    stream.on("error", (err) => {
+      console.error(`failed to extract ${archive}`);
+      console.error(err);
+      reject();
+    });
+  });
+}
+
+async function calcDirSha256(dir, filenames, result = []) {
+  const dirents = fs.readdirSync(dir, { withFileTypes: true });
+  for (const dirent of dirents) {
+    const direntPath = path.join(dir, dirent.name);
+    if (dirent.isDirectory()) {
+      calcDirSha256(direntPath, filenames, result);
+    }
+    if (dirent.isFile() && (!filenames || filenames.includes(dirent.name))) {
+      result[dirent.name] = await calcSha256(fs.createReadStream(direntPath));
+    }
+  }
+  return result;
+}
+
+async function calc7zSha256(archive, filenames) {
+  const archivePath = path.parse(archive);
+  const output = path.join(archivePath.dir, archivePath.name);
+  await extract7z(archive, output);
+  return await calcDirSha256(output, filenames);
+}
+
 export default {
   calcSha256,
   downloadFile,
   parseZipEntry,
   calcZipSha256,
+  extract7z,
+  calcDirSha256,
+  calc7zSha256,
 };

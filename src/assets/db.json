@@ -2142,6 +2142,1689 @@
     "sha256": "AE636D41861CF907F44C224D003A0C8284090F01A09AFF0E20B10F0109C78EA1"
   },
   {
+    "filename": "AddColorCode.auf",
+    "name": "カラーコード追加",
+    "author": "hebiiro",
+    "version": "1.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AddColorCode/releases/tag/1.1.0",
+    "sha256": "9821BAD9A7657883771E378676ED10FB65291B6AA31B41849E1EF53753CBD099"
+  },
+  {
+    "filename": "AddColorCode.auf",
+    "name": "カラーコード追加",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AddColorCode/releases/tag/1.0.0",
+    "sha256": "29F90EC5B24EA421ED0D9B39C3446E45894CCF99D34AA0A8990021D1D80993C0"
+  },
+  {
+    "filename": "AdjustDialogPosition.auf",
+    "name": "ダイアログ位置調整",
+    "author": "hebiiro",
+    "version": "1.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustDialogPosition/releases/tag/1.0.1",
+    "sha256": "4BADA22E54FBDE7D67BBBD6CF02B0CC487CE04C59A69E9F2A5DFE33192F69FD2"
+  },
+  {
+    "filename": "AdjustDialogPosition.auf",
+    "name": "ダイアログ位置調整",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustDialogPosition/releases/tag/1.0.0",
+    "sha256": "FFFE9878828D20666D04667F6E23ED41CAE6351EA7D4FCDCB022C5D13A8E339C"
+  },
+  {
+    "filename": "AdjustLastFrame.auf",
+    "name": "最終フレーム自動調整",
+    "author": "hebiiro",
+    "version": "2.2.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.2.1",
+    "sha256": "6325DF72B190CDE597F0D93B5C63BE0A203BD507ACD1617DD24AFCD233E1CF95"
+  },
+  {
+    "filename": "AdjustLastFrame.auf",
+    "name": "最終フレーム自動調整",
+    "author": "hebiiro",
+    "version": "2.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.2.0",
+    "sha256": "8E29446C2E18EEF21052035F5EE8274328AF6AE1431D2C719242C2EB88A4E28F"
+  },
+  {
+    "filename": "AdjustLastFrame.auf",
+    "name": "最終フレーム自動調整",
+    "author": "hebiiro",
+    "version": "2.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.0.1",
+    "sha256": "F463C2EED51382E572ACB569893A03534DC1C6B575C56C264EE4FBA23AC2A65A"
+  },
+  {
+    "filename": "AdjustLastFrame.auf",
+    "name": "最終フレーム自動調整",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.0.0",
+    "sha256": "2E7C9917D5611B58A3EF7562B9D711957C369E54616EEB70CC64359E349ACBE1"
+  },
+  {
+    "filename": "AdjustLastFrame.auf",
+    "name": "最終フレーム自動調整",
+    "author": "hebiiro",
+    "version": "2.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.1.0",
+    "sha256": "2C2D7751E1A4A72C415A6122F48DD8D6D1A27CD2D94771E6F71116D6E4F5BDCF"
+  },
+  {
+    "filename": "AdjustLastFrame.auf",
+    "name": "最終フレーム自動調整",
+    "author": "hebiiro",
+    "version": "1.0.3",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/1.0.3",
+    "sha256": "D8D78B561A272CDAB55F084BD9F28A3EA667E75D6DF622ADD2ACEE3BAF49D5C3"
+  },
+  {
+    "filename": "BigDialog.aul",
+    "name": "ダイアログ巨大化",
+    "author": "hebiiro",
+    "version": "BigDialog.3.0.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-BigDialog/releases/tag/BigDialog.3.0.0.src",
+    "sha256": "FD4995B63C8D94554057EA1D3AA390987DDB7F2B2F5DA495BCF45E796693DBE9"
+  },
+  {
+    "filename": "BigDialog.aul",
+    "name": "ダイアログ巨大化",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-BigDialog/releases/tag/2.0.0",
+    "sha256": "7B5FEF6424E42EDE3D75E06FC70D17908466533727742955979CABACAD1DE46C"
+  },
+  {
+    "filename": "BigDialog.aul",
+    "name": "ダイアログ巨大化",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-BigDialog/releases/tag/1.0.0",
+    "sha256": "3E8A2C751FEE0ACAE2F53FA102EFD7F7DF94B42169312BEE10D55C99DFBF78F7"
+  },
+  {
+    "filename": "BuildStairs.auf",
+    "name": "アイテムずらし",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/2.0.0",
+    "sha256": "8898592897803AD5363974A1396706F61589DE209207620377C3D0DF402359F5"
+  },
+  {
+    "filename": "BuildStairs.auf",
+    "name": "アイテムずらし",
+    "author": "hebiiro",
+    "version": "1.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/1.1.0",
+    "sha256": "D7CD311C15FCADC0D2BE710FC466238DB6E3DCA49D66CC213E69DC657566EA59"
+  },
+  {
+    "filename": "BuildStairs.auf",
+    "name": "アイテムずらし",
+    "author": "hebiiro",
+    "version": "1.0.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/1.0.2",
+    "sha256": "63FD55596A27A8034BC0D2F5A39E1572FAC342268B8DCEFCFC49DD4415699C36"
+  },
+  {
+    "filename": "BuildStairs.auf",
+    "name": "アイテムずらし",
+    "author": "hebiiro",
+    "version": "1.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/1.0.1",
+    "sha256": "3CDF8EAA2C9C2570AD010805DFE676277886DD7F9881A99783EA1584B455D1F7"
+  },
+  {
+    "filename": "BuildStairs.auf",
+    "name": "アイテムずらし",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/1.0.0",
+    "sha256": "B41AFF639EFBD2A6F60B8AE882C39A647CD7277C532118089DCF514C3627618D"
+  },
+  {
+    "filename": "CopyFilter.auf",
+    "name": "フィルタのコピペ",
+    "author": "hebiiro",
+    "version": "CopyFilter.1.0.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-CopyFilter/releases/tag/CopyFilter.1.0.0.src",
+    "sha256": "0BE0195F38AD1B19244C89FBC7B74E976217D1FAE233E64E5F6CAF874F5876BB"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "7.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/7.1.0",
+    "sha256": "BAE3B506EC0AC8E75EA9C9740E4C9A802FFDEF43036C52AD26701021DD17AF0E"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "7.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/7.0.0",
+    "sha256": "62899D22AB2532A8A76B491630E918BDF7F201C258642A1B3A7D616986FE4515"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.9.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.9.0",
+    "sha256": "022148CEE9CC7B47F7FF6BDBE4BD2BCD2DE4885FF11E9EA20F6EE7217AB878F5"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.8.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.8.0",
+    "sha256": "E607E0E1B497DDB362DF6C9044BD14C0244F7FB6375145FDC31C6A01D74B4A40"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.7.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.7.0",
+    "sha256": "2B6A40E4735AE366F03269F1818F3F2948AE4FCA843EBDCF81084BF5E1F3B81F"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.6.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.6.0",
+    "sha256": "F72A6221CEC920B9DDCE63805D523CC6A08301F5C582E4298C75FEB0F3BC2D6E"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.5.7",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.7",
+    "sha256": "EBBCCEA04E846B072B1A9A0BD6F2BACDFBE0C58C6F40F1C8F6E628AFC7DFDFB7"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.5.6",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.6",
+    "sha256": "641222E1282053CC834A09DE29B920945FDF60795F7CB60714B58CBAB001F4B2"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.5.5",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.5",
+    "sha256": "1850EF21DD00F83D2F904011CDE34E94B127CCED2B18E7BF3E3F9E2A9FD6328A"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.5.4",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.4",
+    "sha256": "5610464C4863A9F37F9B1DD3320BD8EF1D40AF85B922184881FC1A4ADE087890"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.5.3",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.3",
+    "sha256": "D20CA22C0555AF20E96724A68B4E98199DDD91C02F5151993EEED0E2B921A8AA"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.5.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.2",
+    "sha256": "6F2D297EEFFD4DA004270215B07A6FC540CE25D7B03FDFC8D323F2361F3967A1"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.5.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.1",
+    "sha256": "3FC924DF9F6070743EC1A9136AB3659EC6E8FFC9C3A236459508C3586C9029BE"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.5.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.0",
+    "sha256": "3FC924DF9F6070743EC1A9136AB3659EC6E8FFC9C3A236459508C3586C9029BE"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.4.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.4.0",
+    "sha256": "628D4BA6703BE5E3F6251AC6AE36B99FE2C6C6CD600C9A5B2392988FD06667B7"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.3.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.3.0",
+    "sha256": "ABAABBA3B99DC67C7C5A261CFBB1976B22E2A778C6811C734A80E80E5069528C"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.2.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.2.2",
+    "sha256": "8DF059F0DCDEA721DF34F9DA2DB03216C22BBDCA3507E6064F7C55E1A98BE8F2"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.2.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.2.1",
+    "sha256": "253E6F70566067C2E54F9FAF62E3AA4C7E92CC4F6ED615ECAEB2ABE192977E8D"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.2.0",
+    "sha256": "529D7C04D01EF8E78227D0EAD2B5271D82366FFCAAA0110BC1FC362084F53AFE"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.1.3",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.1.3",
+    "sha256": "87F96C5F55042CB51C5C8C1E82F9920DFE31B269430A53212390229F6E32DA64"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.1.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.1.2",
+    "sha256": "263A18EBF9A00B7A55DCFEAD4FDAF53DE38B8FF8C3E2809A86F868512820FBDC"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.1.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.1.1",
+    "sha256": "44664C06243890E8F7AB1A565B3411559B2FE09903301B29AAB67C630428DFF1"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.1.0",
+    "sha256": "00710E7DD82AB76905346751D70242FB1DC9DBD4BF832CE84576AFE765522A3B"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "6.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.0.0",
+    "sha256": "B196C8FD9199E356990FB3471C0F7184A41A4059E79177674490CB0EA3E7CB7A"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "5.5.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.5.0",
+    "sha256": "61AD5B5EB88464FC2D041BA5AE296BD6B5EB106CD8D492BCECB351591EBEDF16"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "5.4.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.4.2",
+    "sha256": "61AD5B5EB88464FC2D041BA5AE296BD6B5EB106CD8D492BCECB351591EBEDF16"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "5.4.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.4.1",
+    "sha256": "FC9A29E9A6085961CAB601BA53A551CCE83E385A410674D758E82F11F66F4302"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "5.4.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.4.0",
+    "sha256": "FBDE0ABD3663B4A4CD231D7704F8EBE26506E4C573C057300F9E1FE878343EDA"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "5.3.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.3.0",
+    "sha256": "FBDE0ABD3663B4A4CD231D7704F8EBE26506E4C573C057300F9E1FE878343EDA"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "5.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.2.0",
+    "sha256": "24F3710581E74F17C49BE0B627DD03D81EAEFDE9F3531D15EF978F4F5A69402C"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "5.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.1.0",
+    "sha256": "CE4077023642DCB1851BDF64E672F60FBC243B2FBCC41934BE966895D94922A9"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "5.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.0.0",
+    "sha256": "3EF1FCCB06122AF4E9DDDBFA716A9E2F75AF8880CE1BE5F032B5E4222465C085"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "DarkenWindow.4.2.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/DarkenWindow.4.2.0.src",
+    "sha256": "98D9C7EDB5F54F6D3A3655B931126F17A8D361DDE5E4932177539469A1A0B2D3"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "DarkenWindow.4.1.1.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/DarkenWindow.4.1.1.src",
+    "sha256": "8395CCB62C8514E6E394D81594334E7E527C3F95460853C9641603CEE3776AE6"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "DarkenWindow.4.1.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/DarkenWindow.4.1.0.src",
+    "sha256": "43E6C2D30BB0F9B7A0F2DA3A40022E5914DD74485DB1B2D46578DF675E2379E1"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "DarkenWindow.4.0.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/DarkenWindow.4.0.0.src",
+    "sha256": "EAA0723BC8071F124C77A0F2E699E52921F8D351DDFC9719587865A04D9C1D53"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "3.2.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/3.2.1",
+    "sha256": "847990FEDEFD7FF2BEAC4FE55D2506BD720637078E0D6C928782A1CE71E03065"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "3.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/3.2.0",
+    "sha256": "99EBAE2DBEBE2EE38113026C9CB9503F5301B29620D689AAF432AAA1B9A1243F"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "3.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/3.1.0",
+    "sha256": "38A48CF3C0B6D7718606B7FA1BE32CA4406ADBD39B3288D5FFD086C175A6F2B4"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "3.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/3.0.0",
+    "sha256": "FAB362A339E172DE6DD39A9C7270D3F6962670480E89B9C279B740AA1DE651F6"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "2.0.4",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.4",
+    "sha256": "4E0406FA65D4CE913945C1C4A697E42488744D80F88C6035DB79E12159221B98"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "2.0.3",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.3",
+    "sha256": "F7A9DCEFD94AA985AC5BDEDF080A536C9DB506133585805FA91343C73BA5299A"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "2.0.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.2",
+    "sha256": "5B026343FD3E421E5BED3FD5018DADD5090CD59611FCA52DCAABD3CCA3323DA9"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "2.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.1",
+    "sha256": "5ADC3C66C49ED327012915FD04E9E66690D495C89BD5687EFA2A5BEC1A27D0C5"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.0",
+    "sha256": "7B45C772C7C8892D9E1042D118D64F331CE7A7BBF740548ECC50CBA996C0C851"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "1.1.4",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.4",
+    "sha256": "AF286B84FE11FCC9CF0415161943884CDF10B4676E35D85F369615881D8E6D58"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "1.1.3",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.3",
+    "sha256": "86C8011F1121B3C2F1D73813E04D5F6866575305D68D3BDCC696603626B0144E"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "1.1.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.2",
+    "sha256": "7B65384097FC548BD3522E07C4B54D761EF6E6CC3242203A2F8FE1E546B1B56D"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "1.1.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.1",
+    "sha256": "785FA39F66FDB586484D3B6BB20175CEDF324A5389B43FB08DF2A009A785B48D"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "1.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.0",
+    "sha256": "ED05B54DBF28C78F6C4BBA0DD4C562DC1EAA346D56C8E047F871FC3E6BE36BCA"
+  },
+  {
+    "filename": "DarkenWindow.aul",
+    "name": "黒窓",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.0.0",
+    "sha256": "42C3647E27DD603217E3C1683B92A67D02EF18ADDE6FBBF3036A35E05B90A7C3"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "9.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/9.1.0",
+    "sha256": "CD1C838D85EB4D266F0E1AA89638EFD48248BBBBE9B2B2A20DB27A02061262AF"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "9.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/9.0.0",
+    "sha256": "B060BA8143AF2F83C72396E7309631954B10C4DD7FE1724799049E1DCB7CCEC9"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "8.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/8.0.0",
+    "sha256": "6A0396B3154EC0DAB9FBDC085DCD54532C86427909F6EEDFD4F45C5F72406A0C"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "7.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/7.0.1",
+    "sha256": "259EF0350AEC0CF7EBCFD01C84D20465AC55467D5501A1B67018C1B1F872EA81"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "7.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/7.0.0",
+    "sha256": "7A4140EE34C4B235B77317F07BB2EA41090FC567C75E26DCE24F83E3FD80589E"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "6.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/6.0.0",
+    "sha256": "83F39E6C12A0104A3406012EE48584D13B77ABCFECA357A9FC1E2DD82DC01E6E"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "5.0.5",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.5",
+    "sha256": "F44BEBA23E0549BC83E96D26AB228D43213F3EB49B9825E20983E01F8D628460"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "5.0.4",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.4",
+    "sha256": "820A3D811CE14B0953EB52DA9F285DDFF14497F2D1AA2349EF04F9453DA204E4"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "5.0.3",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.3",
+    "sha256": "1CBD7221A09718B2B14A3DE0907A1B44AB302C74689F71EABACC71D279E7CF1B"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "5.0.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.2",
+    "sha256": "B2978F275A44A21F8171531191391EEABB5C51D404FDBA30B5DE0B76097EF8B2"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "5.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.1",
+    "sha256": "B47A9E6EE523C85895DE4B979AEC6F07FBC997DA36635ACFA7FB02C48F10DB6F"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "5.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.0",
+    "sha256": "9FEAF16D3E95EEA1AD8C66A0AB9F67F756FADCF660DFD7CD1C18FEB2C0D040E7"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "4.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/4.0.1",
+    "sha256": "69E857A9FD5ECF2D958C2DDA23DBC9887247F36E9E55F670767D4ADAAE4A3133"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "4.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/4.0.0",
+    "sha256": "9F54EC0AEF3B9C855F4F8E152D2F1325CA1BF77A51DE3FE7A93BB9DDFCC2D077"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "3.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/3.0.0",
+    "sha256": "183A7F77E9FC43539A823521DDC0D6DD6AE9AA2D048AD68847FE1B9B1E1E63B7"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/2.0.0",
+    "sha256": "1896D9F25D74825A8EA53A7668A39F9BA887B669253647200973E6197C99BB6A"
+  },
+  {
+    "filename": "DragFilter.auf",
+    "name": "フィルタドラッグ移動",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/1.0.0",
+    "sha256": "24B74858DE21A64ED428C8AD8E66CB9E3EDE7D358DF36126905153566E296FB7"
+  },
+  {
+    "filename": "LevelMeter.auf",
+    "name": "レベルメーター",
+    "author": "hebiiro",
+    "version": "1.3.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-LevelMeter/releases/tag/1.3.0",
+    "sha256": "DEB4F1DDA535FB98275C027DC64CA60F2CF4656805224D286F05BB6FC8DA27DD"
+  },
+  {
+    "filename": "LevelMeter.auf",
+    "name": "レベルメーター",
+    "author": "hebiiro",
+    "version": "1.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-LevelMeter/releases/tag/1.2.0",
+    "sha256": "095DF3255F75956F72EE5EBCA1A6BA3DBA4B86640C8716DE588D2A06CFC423CF"
+  },
+  {
+    "filename": "LevelMeter.auf",
+    "name": "レベルメーター",
+    "author": "hebiiro",
+    "version": "1.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-LevelMeter/releases/tag/1.1.0",
+    "sha256": "33F02EE7182DA2F8DEDB4FBAC6AC589EA52E83A0E42A587879D68D9192D28F2D"
+  },
+  {
+    "filename": "LevelMeter.auf",
+    "name": "レベルメーター",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-LevelMeter/releases/tag/1.0.0",
+    "sha256": "7BC3EE1231E07F05914B97DC71751634F392466349E3A95BB89E7ADA3DACC5CC"
+  },
+  {
+    "filename": "ManyView.auf",
+    "name": "複数ビューア",
+    "author": "hebiiro",
+    "version": "1.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ManyView/releases/tag/1.0.1",
+    "sha256": "87DDD8F66D92DDEBD6B8AB7AC5C647DE46BB9611DF67592AA1AB31293530E5DA"
+  },
+  {
+    "filename": "ManyView.auf",
+    "name": "複数ビューア",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ManyView/releases/tag/1.0.0",
+    "sha256": "6D4F22B578421AFCFFC0F74F8D3E5A34C798E5D1DE57F82164CA09CEB171A454"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "3.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/3.2.0",
+    "sha256": "54ABC3B9BA3CB6EFD1A315D675454D0BC8E8F514E07423FB0E61190421796E7C"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "3.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/3.1.0",
+    "sha256": "B086FC9BC8F9AE237B9EEA09A1BD6F55AA1CAFB4EE711985FD2073DDCA03D636"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "3.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/3.0.1",
+    "sha256": "813065B71BED5ED8CDB6F343FD9D3FD0AC761DEAD8762D988D5AC09F5C9BA5F4"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "3.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/3.0.0",
+    "sha256": "BF7390967B7628D7E55273131C3D81EDBA09E63A00E6A3FF4E594047035B8715"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "2.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/2.2.0",
+    "sha256": "B2E0AB364CFCF54AAECF11224AE134114316CFBD58AAFE787910D358E29F7806"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "2.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/2.1.0",
+    "sha256": "2D7386514314A46B19434AE5257CDC99A346402BA4540B4D237D9956E14A0FA5"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "ObjectExplorer.2.0.2.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/ObjectExplorer.2.0.2.src",
+    "sha256": "FD10F538645C639BC2D01CE97BDCE0C287C61D7E01F15AA67AC56AAC11006243"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "ObjectExplorer.2.0.1.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/ObjectExplorer.2.0.1.src",
+    "sha256": "D48695602ACD2DB74FEDEA93CFB79C93D258F31D6866D0DD99813400612882BA"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "ObjectExplorer.2.0.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/ObjectExplorer.2.0.0.src",
+    "sha256": "4659822B2796DEFBA0BD400307CD429BC6CA821D8EB5D7A7BF225F9E5B4892D0"
+  },
+  {
+    "filename": "ObjectExplorer.auf",
+    "name": "オブジェクトエクスプローラ",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/1.0.0",
+    "sha256": "8473C64801803909F7DAFEFA7D00915AD70507EEE01E960209DB682F5B6455F8"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "7.1.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/7.1.1",
+    "sha256": "AFCFD8C35BEDBCE9D009EFDF2939DE2AA1EE0E445267A7089F322630C481B199"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "7.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/7.1.0",
+    "sha256": "D1F1FFC592ED062D2B7A773B1701E58572FA9593C6CFC0301690E9508901DA1A"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "7.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/7.0.1",
+    "sha256": "97986C93090711204E74E6E772B9B78B9853E216E487CB182FE3811417230E48"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "7.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/7.0.0",
+    "sha256": "F352F961953DC266BACBD992AB0D0F80B9DAB4E3673115AD02CDC8457712B417"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "6.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/6.1.0",
+    "sha256": "23C7295A8B6690AD21FEB9F30D4B3B2A85B3141DBE1F8CD932CD79B3D19F7D33"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "6.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/6.0.0",
+    "sha256": "2FCC66402687399BC35B3CE40894BB960FAF33101E58911F8784A70F5EBB55F6"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "5.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/5.0.0",
+    "sha256": "C09EAD35ECEA3603710033F95FD97CADFB2BEA30D1E4C6CB94DCF8B3D65D932E"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "4.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/4.0.0",
+    "sha256": "AA479D70C7E3474FB1AB87F834C806AD870ACA8F613F4EB4F91B359F43E47480"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "3.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/3.0.0",
+    "sha256": "613AFB2F2115B4098469ACDA182C35F7E3046483541466AFDFF0546E712CEB3A"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "2.1.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/2.1.1",
+    "sha256": "AA9659930E206A62953BA407002DE0835B1B2C2496B7D0C8FE8B668A612051C8"
+  },
+  {
+    "filename": "OptimizeEditBox.auf",
+    "name": "エディットボックス最適化",
+    "author": "hebiiro",
+    "version": "2.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/2.1.0",
+    "sha256": "41B381395D8457C11CAEE01BAE60D885C8509ACA89D266822D0696FC69D9DEC5"
+  },
+  {
+    "filename": "script_sort_patch.auf",
+    "name": "スクリプト並び替えパッチ",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-script_sort_patch/releases/tag/2.0.0",
+    "sha256": "91372881570174F14A6E53818E0A5E8ACE1E20FE99B6DF481E6981D31A1C2597"
+  },
+  {
+    "filename": "script_sort_patch.auf",
+    "name": "スクリプト並び替えパッチ",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-script_sort_patch/releases/tag/1.0.0",
+    "sha256": "D31A4D0AC58074F4F5E8DCEC57820C271BC2893FF44FE407431E8EF2D83E272B"
+  },
+  {
+    "filename": "SelectAliasFolder.auf",
+    "name": "エイリアスフォルダ選択",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectAliasFolder/releases/tag/1.0.0",
+    "sha256": "B813CBE5D94F08618988FBBB49DA470E358685D4C741D4A116E3DE185E4F6514"
+  },
+  {
+    "filename": "SelectEasing.auf",
+    "name": "イージング簡単選択",
+    "author": "hebiiro",
+    "version": "4.5.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.5.0",
+    "sha256": "A7F83958AC98CA29607A009B169C3AE5C3AE0DEEA3561B4F3F6C243EDB5337A6"
+  },
+  {
+    "filename": "SelectEasing.auf",
+    "name": "イージング簡単選択",
+    "author": "hebiiro",
+    "version": "4.4.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.4.0",
+    "sha256": "C37364791C5C542F1E9F248E6E4ED7279C72E0CD25EAABBC8C5841EA8F0FB56A"
+  },
+  {
+    "filename": "SelectEasing.auf",
+    "name": "イージング簡単選択",
+    "author": "hebiiro",
+    "version": "4.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.2.0",
+    "sha256": "DFBBC0B23E61CE9AFE5200831E636D14AF78077BD8EDB0B4DCE6F1CA8639A9EB"
+  },
+  {
+    "filename": "SelectEasing.auf",
+    "name": "イージング簡単選択",
+    "author": "hebiiro",
+    "version": "4.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.1.0",
+    "sha256": "8B69072CE48858C79EC9D94B1538FE7228B916088D65CD762C3F66BD4F9A3884"
+  },
+  {
+    "filename": "SelectEasing.auf",
+    "name": "イージング簡単選択",
+    "author": "hebiiro",
+    "version": "4.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.0.0",
+    "sha256": "0152F770DFA3039C4F41CBA01FD24D52DBE9F37ED8BE83A8B01771E020D7A5DC"
+  },
+  {
+    "filename": "SelectEasing.auf",
+    "name": "イージング簡単選択",
+    "author": "hebiiro",
+    "version": "3.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/3.0.0",
+    "sha256": "BE51F7E76A51DB09CA3C73BD8F9619B1E1DC03010D1F020D24C207281EEB6100"
+  },
+  {
+    "filename": "SelectEasing.auf",
+    "name": "イージング簡単選択",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/2.0.0",
+    "sha256": "32010256DD4EDEBE0F02E24642D98D9126AC8FA337AAA43E8729D684B4506E92"
+  },
+  {
+    "filename": "SelectEasing.auf",
+    "name": "イージング簡単選択",
+    "author": "hebiiro",
+    "version": "1.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/1.1.0",
+    "sha256": "6C0D84BEB4C3F96983954A1B868A041121FC1CFF566BEE28E3A9F0E55DBE8291"
+  },
+  {
+    "filename": "SelectEasing.auf",
+    "name": "イージング簡単選択",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/1.0.0",
+    "sha256": "3AE028A61A1179E081A8AB3C8DB5B70A9C6F9204A5D6E0AA92B73616DCE0904A"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "6.0.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/6.0.2",
+    "sha256": "8E94AA59833EF54A81C3797F9317EFBE354D6F82957B6D61EA8AF0690DE6DB74"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "6.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/6.0.1",
+    "sha256": "273DEF111E9015B4ADB75714FF44C004FACEB8939F4093B58960767948A6DE06"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "6.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/6.0.0",
+    "sha256": "082A5D9B548E37E65069808CCDBD833E6141ECD691CCFE378DFAC21B34CAF16A"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "5.2.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.2.1",
+    "sha256": "9B28D8ED217FEB08AE693CD549BA788887FCB3B8B1315AE1FF5D1CD0AFB25D13"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "5.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.2.0",
+    "sha256": "B25D53BEFA70E28C1BF191A57A91B8A3B88CE5913348B2DD229A56B9DD671DE1"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "5.1.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.1.2",
+    "sha256": "E4A7C7E442DCA79C7B2533E57C2D62897CA8E7D6061C810C2B9088714CF3A9E6"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "5.1.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.1.1",
+    "sha256": "47C8DF9B3FD7E4DBD42D54EC0BDA72B7C038CED4BEE7D9C2DCF226510A1A9EA3"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "5.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.1.0",
+    "sha256": "870FA1AC5D8C6959DFEAA96F6206CE0C9A8D3FEC8759178CA411891D1D1BED05"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "5.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.0.0",
+    "sha256": "E8A351060571375AA1881877E2E53B098CC28C85671CC0DBBAF7AC1FC7218A0E"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "4.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/4.0.0",
+    "sha256": "F4777480BD267B677A4B609DF2EA67245122A1EB38D93FDD419677F403CC9F68"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "3.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/3.0.0",
+    "sha256": "8E3F04619BBCF5031197D9AC66C2B05AF54121E74AE7F41FBD299C15B3C3D32F"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/2.0.0",
+    "sha256": "70AAE68849D7E45E32D3DD79582B89C2C196E2CB693435E5DD9B38A3369298CB"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "1.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/1.1.0",
+    "sha256": "8656FAA36608556AEE1952E8ABA4070ACCAC01474ACE1FD83125D09B6E0B2C89"
+  },
+  {
+    "filename": "SelectFavoriteFont.auf",
+    "name": "お気に入りフォント選択",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/1.0.0",
+    "sha256": "B4BE1F70DCBF2E327D972B773099EC5506613A2EE68679E4712D81D3F9E14FF9"
+  },
+  {
+    "filename": "SelectScene.auf",
+    "name": "シーン簡単選択",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectScene/releases/tag/2.0.0",
+    "sha256": "EE55425E10326AA3661BDE21D31B499C705CBB127B74BA85D7852249436BA387"
+  },
+  {
+    "filename": "SelectScene.auf",
+    "name": "シーン簡単選択",
+    "author": "hebiiro",
+    "version": "1.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectScene/releases/tag/1.1.0",
+    "sha256": "F518738A6552D0EA1F236903B117A17687664BD04ED2AE3C430A4C21CACF42C4"
+  },
+  {
+    "filename": "SelectScene.auf",
+    "name": "シーン簡単選択",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectScene/releases/tag/1.0.0",
+    "sha256": "8268483C936FEA9E66140E5F9C2024C570E9EE341F59A98687EC764DB33D6868"
+  },
+  {
+    "filename": "SetZoom.auf",
+    "name": "ズーム変更",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SetZoom/releases/tag/1.0.0",
+    "sha256": "921801C746AF797A7390F8AC470E4BC30CDED2BBCE3299A73F8C45CABFE85C0C"
+  },
+  {
+    "filename": "ShowWaveform.auf",
+    "name": "アイテム内音声波形",
+    "author": "hebiiro",
+    "version": "2.3.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/2.3.0",
+    "sha256": "8CD3C0B679B35C53E7F8A4CFB6E95E9EC02E1F022C68DA5140224F04C16B7189"
+  },
+  {
+    "filename": "ShowWaveform.auf",
+    "name": "アイテム内音声波形",
+    "author": "hebiiro",
+    "version": "2.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/2.2.0",
+    "sha256": "0C1036C18D42D1D6CA6B9D9736B47E8A73F88E2C10A94171C7E1A8922F6A8A97"
+  },
+  {
+    "filename": "ShowWaveform.auf",
+    "name": "アイテム内音声波形",
+    "author": "hebiiro",
+    "version": "2.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/2.1.0",
+    "sha256": "33E9DA6312C6E3F62311773C9D58FE2B0157BF1D059B69793740C8979637F738"
+  },
+  {
+    "filename": "ShowWaveform.auf",
+    "name": "アイテム内音声波形",
+    "author": "hebiiro",
+    "version": "ShowWaveform_2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/ShowWaveform_2.0.0",
+    "sha256": "9292C14506CFBD3025656587C8971746B150DEBB00BC4087E5E792D71CBC753D"
+  },
+  {
+    "filename": "ShowWaveform.auf",
+    "name": "アイテム内音声波形",
+    "author": "hebiiro",
+    "version": "ShowWaveform.1.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/ShowWaveform.1.0.1",
+    "sha256": "D4726F942ED5DC140DBA437F2B843B47714C90FFCABC434F993018BA1736E486"
+  },
+  {
+    "filename": "ShowWaveform.auf",
+    "name": "アイテム内音声波形",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/1.0.0",
+    "sha256": "0C7F7F8BD3C9473AA709020B51B3FBC644D8B440342D69E7333222092EED2692"
+  },
+  {
+    "filename": "SplitText.auf",
+    "name": "テキスト分解",
+    "author": "hebiiro",
+    "version": "1.6.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.6.0",
+    "sha256": "D42C5DF97D49D500CA80131866A16E98D90A6722088597147D07EBAF751EA20C"
+  },
+  {
+    "filename": "SplitText.auf",
+    "name": "テキスト分解",
+    "author": "hebiiro",
+    "version": "1.5.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.5.0",
+    "sha256": "79E21201655ACBC103D3EA50EC3BF1475ACC86302CAD85B3CF601B44FE06EDA9"
+  },
+  {
+    "filename": "SplitText.auf",
+    "name": "テキスト分解",
+    "author": "hebiiro",
+    "version": "1.4.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.4.0",
+    "sha256": "CED90FAE0E64620B7E4823B2AD197B4ED7DFA59ABF4BB86D654CC508728BD99A"
+  },
+  {
+    "filename": "SplitText.auf",
+    "name": "テキスト分解",
+    "author": "hebiiro",
+    "version": "1.3.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.3.0",
+    "sha256": "C78BFBD8110EC594951BE688A16DA6D74D0E17C236E8C2058ADC6C8298C24A96"
+  },
+  {
+    "filename": "SplitText.auf",
+    "name": "テキスト分解",
+    "author": "hebiiro",
+    "version": "1.2.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.2.0",
+    "sha256": "ED45BA516B2E3BC42183B3A154D2848B087DD472846246F25D0A75A54887E8E4"
+  },
+  {
+    "filename": "SplitText.auf",
+    "name": "テキスト分解",
+    "author": "hebiiro",
+    "version": "1.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.0.1",
+    "sha256": "4D47EB0F60094191E612CB39AFEAE45CB01981F9448B6F1026A2BB756BFC530B"
+  },
+  {
+    "filename": "SplitText.auf",
+    "name": "テキスト分解",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.0.0",
+    "sha256": "A0765ED69D4408C2A7BDFE68F921395D72C12741DC96BD010E23F04E922315BC"
+  },
+  {
+    "filename": "SwitchSettings.dll",
+    "name": "設定切り替え",
+    "author": "hebiiro",
+    "version": "1.0.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SwitchSettings/releases/tag/1.0.1",
+    "sha256": "24CE3100C15B2943835B1AAE69CCDEBBB8E0D3CDAF1FD65B70480B02554C2BE8"
+  },
+  {
+    "filename": "SwitchSettings.dll",
+    "name": "設定切り替え",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SwitchSettings/releases/tag/1.0.0",
+    "sha256": "2899EAD747F0353C4F9B6811AD98B7C2E478B22505F545EF0E203126B536077A"
+  },
+  {
+    "filename": "Toumei.auf",
+    "name": "拡張編集透明化",
+    "author": "hebiiro",
+    "version": "2.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-Toumei/releases/tag/2.0.0",
+    "sha256": "9549D8E51879DD87E0E417308653D6D2CA929AE48EA846D8768E6135E7233B17"
+  },
+  {
+    "filename": "Toumei.auf",
+    "name": "拡張編集透明化",
+    "author": "hebiiro",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-Toumei/releases/tag/1.0.0",
+    "sha256": "DB707AA87160F5989BFEB12D0E7B26953E8EDB3D15AEA181B44C657FB41B1BAD"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "3.5.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.5.0",
+    "sha256": "A144E267F6CF96E5D5C608B1A6487CE7C39F5811DFEBF4250675CFBD0D9064AD"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "3.4.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.4.0",
+    "sha256": "D84B865E4DA5AB3768434FE999E9DE40C737E60C6FF1D69AB6D046308093553C"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "3.3.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.3.1",
+    "sha256": "0F8C35726CD66A06CB05F6F3EB89BB389A16D9074373A1B969280317AF13060C"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "3.3.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.3.0",
+    "sha256": "CF1CE5B48568EB9D235F9AE777C45D9936D996638B84BA08632E6D5207594CFB"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "3.0.5",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.0.5",
+    "sha256": "A6FFC04295739784416C061179854DE9C4F7E7939F9CAE2FAB390BADFD3CD906"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "3.0.4",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.0.4",
+    "sha256": "F041554B8418BCD1CD865064B2AA22827C51CE264F176B638A2144D08100DDD3"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "3.0.3",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.0.3",
+    "sha256": "7788FC0454B6D6C12E16C665274FCADF37A5A4E174258FACFEA00268625A0D4A"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "3.0.2",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.0.2",
+    "sha256": "8012ADFE3206B060BCA96C2F1456E35D7D6687F562C2A5A383784FB3CC8926C0"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.3.0.1.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.3.0.1.src",
+    "sha256": "BDB83F902272B63390BC6BB9FB6C55980F5990A85976C5A6E6858CDE18A6E226"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.3.0.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.3.0.0.src",
+    "sha256": "CDFE046C29C2959273B28BA226B5CCF5BA128CD0B338C036CE68491C79A5F14D"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.2.0.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.2.0.0.src",
+    "sha256": "26687C8EECBAB392F016090DB9A3661033EF79CA9302CB1E6578F0502BE8D508"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.1.6.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.6.src",
+    "sha256": "5EDEF3EDF28E61FE22A16658A5EBEBFE1344BDC3629C414B4FF541BF1CEA7771"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.1.5.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.5.src",
+    "sha256": "FC63B314C8CCD7B5EA9C56C797707E904568B0062ECCEBFA428679C5638CB706"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.1.4.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.4.src",
+    "sha256": "422C52A08547EEB47AC3F981E4D573CF2BF8284AC9AF986A7A3D01EA803C5601"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.1.3.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.3.src",
+    "sha256": "213088935D302FC0E6A541224AB64E3744C285D99C7A558FB692ACB5E4F996EF"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.1.2.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.2.src",
+    "sha256": "26BE378420E9B9C0B3ECC5B7402A794EF2066B47F4ECAAAB06E43B45FB34DC85"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.1.1.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.1.src",
+    "sha256": "C2CFA445A32069B33CAF7303F7EF77FD373989F7AC8D4CFA9CEF0BF161A4AB6E"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.1.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.0.src",
+    "sha256": "F8F3089C11B37963E9AF6C26D94516BBA99150C62CB68D4BDA2AC20BFAFAA00E"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.0.7.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.7.src",
+    "sha256": "31FCC1F6CD34B3E177858E2E3895A5277CD888A98169D30DBCDD030B3092ADF6"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.0.6.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.6.src",
+    "sha256": "962B50323595D23474FB38F91B914A4EE1A3770CB986CACB2CB420A0912D7B28"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.0.5.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.5.src",
+    "sha256": "5FA66B474094B04720ABADC5D5E99CF70FFBF98C6F84E54F9C7BC81AE7F38041"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.0.4.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.4.src",
+    "sha256": "86F17981C0A3B88F54145D4223F02CACDCD88F3E8F67AC4CFF4B40DCD088375A"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.0.3.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.3.src",
+    "sha256": "9EFBCA303F04B08742AA394D05D50C3E31F4F7C97D657E13F37A2E584AE704DE"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.0.2.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.2.src",
+    "sha256": "8D07F80E6E8B88577CCE465BDE592DE6E33A1F694413A9373E4C170ABEADFEB3"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.0.1.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.1.src",
+    "sha256": "01C27C6E4CDACD2A3013E3EF8326739A8BEEBDAFCD8B04ABBA84953A5E011E37"
+  },
+  {
+    "filename": "UniteWindow.aul",
+    "name": "UniteWindow",
+    "author": "hebiiro",
+    "version": "UniteWindow.1.0.0.src",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.0.src",
+    "sha256": "B20AE4DEBBBBC38FC85C1DBEEC86B5511D3CD95595810C7286F21BDEFC0FD330"
+  },
+  {
     "filename": "ShowLimit.auf",
     "name": "上限確認",
     "author": "karoterra",
