@@ -1,6 +1,8 @@
 import { Octokit } from "@octokit/rest";
+import secret from "../../secret.js";
 
 const octokit = new Octokit({
+  auth: secret.githubAuth,
   userAgent: "aviutl-hash-finder v0.0.0",
 });
 

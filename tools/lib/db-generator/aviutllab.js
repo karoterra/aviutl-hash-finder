@@ -77,7 +77,7 @@ export default async () => {
       build: "",
       url: URL,
       sha256:
-        "8791221929760B9E6D01E8F7BD47B08F6DB1080B28680EC5B366FBA8C35DF504",
+        "80F6797D58E1734E9A107060602524D8CC4AF4443741463A56F7E0DB8AE324D1",
     },
     {
       filename: "x264out.auo",
