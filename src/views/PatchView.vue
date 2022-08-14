@@ -11,6 +11,7 @@ interface KnownModule {
   name: string;
   version: string;
   build: string;
+  author: string;
   url: string;
   sha256: string;
 }
@@ -40,6 +41,7 @@ watch(file, async (newFile) => {
           name: fi.name,
           version: fi.version,
           build: fi.build,
+          author: fi.author,
           url: fi.url,
           sha256: fi.sha256,
         });
@@ -52,7 +54,12 @@ watch(file, async (newFile) => {
 </script>
 
 <template>
-  <va-file-upload v-model="file" dropzone type="single" />
+  <va-file-upload
+    v-model="file"
+    dropzone
+    type="single"
+    drop-zone-text="Drag'n'drop a patch.aul debug info file or"
+  />
   <va-tabs v-model="currentTab">
     <template #tabs>
       <va-tab v-for="tab in tabs" :key="tab" :name="tab">
@@ -61,9 +68,13 @@ watch(file, async (newFile) => {
     </template>
   </va-tabs>
   <template v-if="currentTab === 'known'">
-    <va-data-table :items="known" />
+    <va-data-table :items="known" striped>
+      <template #cell(url)="{ value }">
+        <a :href="value">{{ value }}</a>
+      </template>
+    </va-data-table>
   </template>
   <template v-else-if="currentTab === 'unknown'">
-    <va-data-table :items="unknown" />
+    <va-data-table :items="unknown" striped></va-data-table>
   </template>
 </template>

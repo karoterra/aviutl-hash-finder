@@ -1,28 +1,28 @@
 <script setup lang="ts">
 import { ref, computed } from "vue";
 import { AviUtlModuleRepository } from "@/lib/aviutlModuleRepository";
+import type { DataTableColumn } from "vuestic-ui";
 
 const repository = await AviUtlModuleRepository.getInstance();
 
-const searchSha256 = ref("");
+const searchText = ref("");
 
 const items = computed(() => {
-  return repository.findAllBySha256(searchSha256.value).map((fi) => {
-    return {
-      filename: fi.filename,
-      name: fi.name,
-      version: fi.version,
-      build: fi.build,
-      author: fi.author,
-      url: fi.url,
-      sha256: fi.sha256,
-    };
-  });
+  return repository.search(searchText.value);
 });
+
+function onChange(e: Event) {
+  const input = e.target as HTMLInputElement;
+  searchText.value = input.value;
+}
 </script>
 
 <template>
-  <va-input v-model="searchSha256" />
+  <va-input :model-value="searchText" @change="onChange" />
 
-  <va-data-table :items="items"></va-data-table>
+  <va-data-table :items="items" striped>
+    <template #cell(url)="{ value }">
+      <a :href="value">{{ value }}</a>
+    </template>
+  </va-data-table>
 </template>

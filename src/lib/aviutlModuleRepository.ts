@@ -1,4 +1,4 @@
-import { AviUtlModule } from "./aviutlModule";
+import type { AviUtlModule } from "./aviutlModule";
 
 export class AviUtlModuleRepository {
   private static dbUrl = new URL("../assets/db.json", import.meta.url).href;
@@ -16,17 +16,7 @@ export class AviUtlModuleRepository {
       .then((data) => {
         const array: AviUtlModule[] = [];
         for (const x of data) {
-          array.push(
-            new AviUtlModule(
-              x.filename,
-              x.name,
-              x.author,
-              x.version,
-              x.build,
-              x.url,
-              x.sha256
-            )
-          );
+          array.push(x);
         }
         return array;
       });
@@ -44,7 +34,16 @@ export class AviUtlModuleRepository {
     return this.data.find((x) => x.sha256 === sha256);
   }
 
-  public findAllBySha256(sha256: string): AviUtlModule[] {
-    return this.data.filter((x) => x.sha256.startsWith(sha256));
+  public search(text: string): AviUtlModule[] {
+    return this.data.filter(
+      (x) =>
+        x.sha256.includes(text.toUpperCase()) ||
+        x.filename.includes(text) ||
+        x.name.includes(text) ||
+        x.author.includes(text) ||
+        x.version.includes(text) ||
+        x.build.includes(text) ||
+        x.url.includes(text)
+    );
   }
 }

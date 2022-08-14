@@ -24,7 +24,7 @@ const sidebar = computed(() =>
   </va-navbar>
 
   <div class="row">
-    <va-sidebar width="10rem">
+    <va-sidebar width="8rem">
       <va-sidebar-item v-for="s in sidebar" :key="s.title" :active="s.active">
         <RouterLink :to="s.path">
           <va-sidebar-item-content>
@@ -51,6 +51,6 @@ const sidebar = computed(() =>
 
 main {
   margin: 10px;
-  width: calc(100% - 10rem - 20px);
+  width: calc(100% - 8rem - 20px);
 }
 </style>
