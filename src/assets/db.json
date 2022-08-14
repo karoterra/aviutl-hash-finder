@@ -1294,5 +1294,833 @@
     "build": "",
     "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
     "sha256": "319BA428C4528A528171A8F898DA7AD2D246E4A6A7FDF9136C3296986C015E05"
+  },
+  {
+    "filename": "exedit.aui",
+    "name": "拡張編集 File Reader",
+    "author": "ＫＥＮくん",
+    "version": "0.01",
+    "build": "exedit.auf <= 0.70a",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "C12B3726E447B66D562CB294D17C1CDFC35423F0B8772149A9CA5740AF797929"
+  },
+  {
+    "filename": "exedit.aui",
+    "name": "拡張編集 File Reader",
+    "author": "ＫＥＮくん",
+    "version": "0.01",
+    "build": "0.71 <= exedit.auf <= 0.92",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "CF6F57E33F662CE6C7D4BE43ACA72303D0B86323A11BF6C244D78BFE1ED0FAC9"
+  },
+  {
+    "filename": "exedit.aui",
+    "name": "拡張編集 File Reader",
+    "author": "ＫＥＮくん",
+    "version": "0.02",
+    "build": "exedit.auf >= 0.93rc1",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "38DC2E541D4BEA24F283BC2E7108CEE96C042018D38A5D06DAF9F87ECABBCA44"
+  },
+  {
+    "filename": "exedit.auo",
+    "name": "拡張編集AVI/BMP出力 (RGBA)",
+    "author": "ＫＥＮくん",
+    "version": "0.01",
+    "build": "exedit.auf <= 0.70a",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "E930E0751A72FD996C9BCA71EF2EDBA868D8B2433EFA4526072E7ED283CFAE6E"
+  },
+  {
+    "filename": "exedit.auo",
+    "name": "拡張編集AVI/BMP出力 (RGBA)",
+    "author": "ＫＥＮくん",
+    "version": "0.01",
+    "build": "0.71 <= exedit.auf <= 0.84b",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "EE3C6E0217681ADBA63B6B7B738D1D57230AC66BB5C721F06546C633734587E2"
+  },
+  {
+    "filename": "exedit.auo",
+    "name": "拡張編集AVI/BMP出力 (RGBA)",
+    "author": "ＫＥＮくん",
+    "version": "0.02",
+    "build": "0.84c <= exedit.auf <= 0.87e",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "D1CF24CF3EF6572CCDC197E0B03C8F18B3983EEDE792B89CBB250104A49ED37B"
+  },
+  {
+    "filename": "exedit.auo",
+    "name": "拡張編集AVI/BMP出力 (RGBA)",
+    "author": "ＫＥＮくん",
+    "version": "0.03",
+    "build": "0.87f <= exedit.auf <= 0.92",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "B021B4E6F93140CB15121C064F7410D5D41FA078D70040EA3DD5A119955970DE"
+  },
+  {
+    "filename": "exedit.auo",
+    "name": "拡張編集AVI/BMP出力 (RGBA)",
+    "author": "ＫＥＮくん",
+    "version": "0.04",
+    "build": "exedit.auf >= 0.93rc1",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "sha256": "8B9C9D4D0D19961803FA578751E480E52A554AD8BF0DBAFB301CC5EC917208F7"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.9",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.9",
+    "sha256": "CBDB747F112325C7F5415BFB73C99799059545B0D12C53A7EBF7EDB97520D6C9"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.8",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.8",
+    "sha256": "0C7B23EE0E1953704FE4A3C8F1BE2A3F348C108C0EB6D2C3A40D1E4DA84943BA"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.7",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.7",
+    "sha256": "67D64299EC2BFF2008721F4D31290AE3E102F2D4147AB0BD16D9E101820F89E4"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.6",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.6",
+    "sha256": "6AB63B50228318A0792C9ED4CD86C0AB29E4D788F39349570F3DC304D7A4236C"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.5",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.5",
+    "sha256": "C7720F91A3771057C002A505C58DF6EC96ED63D2DA3869944B1F0321C4E171C8"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.4",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.4",
+    "sha256": "51B64C3A5D3C73D848C99B4A20FC0AB0331783E39625031F14251A109F302B9B"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.3",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.3",
+    "sha256": "20A0832B720EEC29D8A81A54224DEE5ACB07D13568478A22E39E9F128CC5B4B8"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.2",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.2",
+    "sha256": "FB65B4E8AA48D6FBE4C4DAA3112BEC7E9385FEF1CC3D0B177CFD27F3DE66E408"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.1",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.1",
+    "sha256": "32964EEED94482649CB303A7D3A8347A851D222DA9CAF6078FD4B7960D860409"
+  },
+  {
+    "filename": "InputPipePlugin.aui",
+    "name": "InputPipePlugin",
+    "author": "amate",
+    "version": "v1.0",
+    "build": "",
+    "url": "https://github.com/amate/InputPipePlugin/releases/tag/v1.0",
+    "sha256": "8CCD108BC07D67CC0267D9E30489BA7BB9201F466B37D08D2508C8414ECDEF96"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v2.6",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v2.6",
+    "sha256": "8EBA05D6C303DB92E694E8C67C89C6C9FAF3AD605AFFC4DB18A9B19A55D2E45E"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v2.5",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v2.5",
+    "sha256": "7345E2B3CDF57D7EFA93C0A8F9D4AB487AE3F5B2FF32C6B96443EAA4D7A2DFCA"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v2.4",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v2.4",
+    "sha256": "4CADEB498129E291C65FB8464A81902C2A852A3B698A20AA9BA4E829A3916BB5"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v2.3",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v2.3",
+    "sha256": "B207ED3E4C27373A16B02D7702FF9A9D73934D964C8D76CC30B62768F122FA26"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v2.2",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v2.2",
+    "sha256": "7E00FF484F1D4747BC4522CFB4D53BB5C6E88D4AC6E939C2C841DFBC002089DC"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v2.1",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v2.1",
+    "sha256": "688FAE67D18399F46F33296C207757F3B9BC836BD94CCF21A1F4437C08D83C9F"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v2.0",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v2.0",
+    "sha256": "2B3669CAFDB677769836591B5C13F8BA5B8127312CA362136A67CCD686DF4FF1"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v1.2",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v1.2",
+    "sha256": "B11B5094BFEDB2376FD3615698814E8F8D4B8203C3417D3997E139E75CFDFE6E"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v1.1",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v1.1",
+    "sha256": "B11B5094BFEDB2376FD3615698814E8F8D4B8203C3417D3997E139E75CFDFE6E"
+  },
+  {
+    "filename": "PropertyWindowFixerPlugin.auf",
+    "name": "設定ダイアログ画面サイズ固定化プラグイン",
+    "author": "amate",
+    "version": "v1.0",
+    "build": "",
+    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v1.0",
+    "sha256": "596B995B1B17AA12349A61CA2214D072479C23197A6C554C5BAD53F4467972AA"
+  },
+  {
+    "filename": "MFVideoReaderPlugin.aui",
+    "name": "MFVideoReaderPlugin",
+    "author": "amate",
+    "version": "v1.0",
+    "build": "",
+    "url": "https://github.com/amate/MFVideoReader/releases/tag/v1.0",
+    "sha256": "592FAD080D153F2A98A342D225BCA56015D3C48A0D83F7BEF4D962135C295F20"
+  },
+  {
+    "filename": "wndman.auf",
+    "name": "ウィンドウマネージャー",
+    "author": "aoytsk",
+    "version": "0.3",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "E51ACAC56A1DFE5F5E936882D980B59EA4ACE9725B15C1035684420A4A78FEA7"
+  },
+  {
+    "filename": "wndman.auf",
+    "name": "ウィンドウマネージャー",
+    "author": "aoytsk",
+    "version": "0.4",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "21C3DF9185A7334E1A1A283390CAA17E88E444D0D89BDD306044778E53155ADA"
+  },
+  {
+    "filename": "autoloader.auf",
+    "name": "オートローダー",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "332FBDE0063A6845D8875BA78D00CE0849305D6CCC2E69EA1F509F6BDED2EF53"
+  },
+  {
+    "filename": "exobjman.auf",
+    "name": "オブジェクトマネージャー",
+    "author": "aoytsk",
+    "version": "0.2b",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "951D6BFC2758C892FF44E538A924A30126DA2012CCEC8E212D95A193796FC72C"
+  },
+  {
+    "filename": "adjustaudio.auf",
+    "name": "音声の位置微調整(通常)",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "0CDF9781EC7C4436DC649A24BD768B234FA8B748850C8ADA7941A5FFC4642BAF"
+  },
+  {
+    "filename": "adjustaudioex.auf",
+    "name": "音声の位置微調整(拡張)",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "879194313FA9F01037E4F505D80F0BE134C1B2E5A4107C7F45BF9B46C72627EB"
+  },
+  {
+    "filename": "extoolbar.auf",
+    "name": "拡張ツールバー",
+    "author": "aoytsk",
+    "version": "0.3.6",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "A603B2FF7E4965DF176DE14C13F290E22BFFC886FD9915790E7F6690C9E4182C"
+  },
+  {
+    "filename": "exeditbutton.auf",
+    "name": "拡張編集が...消えた?",
+    "author": "aoytsk",
+    "version": "1.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "5C0203FE26366FC4D323BF30FA4C2B1A72AC5E86E419D6A8C6C3C8BCF153104B"
+  },
+  {
+    "filename": "rec.auf",
+    "name": "簡易録音",
+    "author": "aoytsk",
+    "version": "0.2",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "1B1515CA9BC56B8817506B4835B0A557FE59C3ADCAA13C86ABC88177B611C749"
+  },
+  {
+    "filename": "easymp4v3.auo",
+    "name": "かんたんMP4出力",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "Windows7用 v3",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "834DE990A7ECE6DBC34783B9BF60E42B5DC2DE5B393A212D8C811565DC1EDF95"
+  },
+  {
+    "filename": "easymp4v4.auo",
+    "name": "かんたんMP4出力",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "Windows7用 v4",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "DC9D2449E2B3DDE01F782C61C349052AA9DF833C82C24C99A5E11007C85B2385"
+  },
+  {
+    "filename": "easymp4.auo",
+    "name": "かんたんMP4出力",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "F30836667420E13716FA4DD262AED3A59ACFDC0DA38F4EE91A72837564820AA8"
+  },
+  {
+    "filename": "easymp4.auo",
+    "name": "かんたんMP4出力",
+    "author": "aoytsk",
+    "version": "0.1.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "9196EECBC32558C6DEC9457268DCCDBC178B33505ADEAE3BE2BF6671C7B04419"
+  },
+  {
+    "filename": "easymp4.auo",
+    "name": "かんたんMP4出力",
+    "author": "aoytsk",
+    "version": "0.1.1",
+    "build": "2020-04-23仮修正",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "54C41C832B45642A85E8912FA82C544E4ED46E5A49A98DFBC888B5B6BE37FA68"
+  },
+  {
+    "filename": "quickopen.auf",
+    "name": "クイックオープン",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "455E37479ED4363818CF7A47FC2E8233F352363D6C0717D7D527B6518699524B"
+  },
+  {
+    "filename": "audiopreview.auf",
+    "name": "音声プレビュー",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "28405E53102654FF01D9029F2DB8A40318CF2B515D3CB809FC1DDAC1893BF86B"
+  },
+  {
+    "filename": "blacken.auf",
+    "name": "黒塗り",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "5A2DB4731CAFB9ED84FAB5B5190D26D45D4DDB05D8753EF3666A5DA81D71C93E"
+  },
+  {
+    "filename": "editx.auf",
+    "name": "編集＋",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "1067C4BFB6363B540EB38250B1FB2C348C319657FECA773FCFA6E3AEF97DAB98"
+  },
+  {
+    "filename": "exlayerjump.auf",
+    "name": "レイヤージャンプ",
+    "author": "aoytsk",
+    "version": "0.1.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "1AC57AA2C21F10EA24F017E379998AA19D75CD96B1D65BF3318D4BADD2C3ED5B"
+  },
+  {
+    "filename": "exlayerswitch.auf",
+    "name": "レイヤー表示切替",
+    "author": "aoytsk",
+    "version": "0.1.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "A04A537471D97514C8AE26E6D60378370C8802DF5AE652CBEE776DB1673CDF67"
+  },
+  {
+    "filename": "exscale.auf",
+    "name": "タイムライン拡大率",
+    "author": "aoytsk",
+    "version": "0.2.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "CFDB981BB60A5BA9EDE0F0C326DEE2E62235348DB9A9DD619D6E58E89B1F8AFE"
+  },
+  {
+    "filename": "exsceneswitch.auf",
+    "name": "シーン切替",
+    "author": "aoytsk",
+    "version": "0.1.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "0689EFAF31E05374CF6CA93DD18DB34A72AB5621805C4295FAA6DBD9AD9F8C68"
+  },
+  {
+    "filename": "exsceneswitch.auf",
+    "name": "シーン切替",
+    "author": "aoytsk",
+    "version": "0.2.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "1BB673F158514AC86170D21D7EFA2236AF69B24B16640A7FE24744FDCAE7F23A"
+  },
+  {
+    "filename": "memo.auf",
+    "name": "メモ",
+    "author": "aoytsk",
+    "version": "0.1.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "ADE5C567B7540BECAAFB50D21A0D05EFFE64717B2D5BC0315B5AB99EE1DBE754"
+  },
+  {
+    "filename": "nextfile.auf",
+    "name": "次のファイル",
+    "author": "aoytsk",
+    "version": "0.1.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "F4A2D499F1E9954D30E5D7BDBDC516721A34C3CBBA49B960D862810613AE45C0"
+  },
+  {
+    "filename": "pointmute.auf",
+    "name": "ポイントミュート",
+    "author": "aoytsk",
+    "version": "0.1.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "CA7623CB7F0AE62EB9A87036AE66F29ACBA3859D15DBEF9B04399DB3D624B199"
+  },
+  {
+    "filename": "selector.auf",
+    "name": "選択範囲編集",
+    "author": "aoytsk",
+    "version": "0.1.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "254C799E6EB6183ED6AFB65A12C2B687FCCC2800D91FC86AEFE5CC3E2F768803"
+  },
+  {
+    "filename": "timestamp.auf",
+    "name": "タイムスタンプ合わせ",
+    "author": "aoytsk",
+    "version": "0.1.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "0938C0E94B619F4076960593EA3E849A8881B89035A1CD84924BF05E2DD30AF0"
+  },
+  {
+    "filename": "seekbarx.auf",
+    "name": "シークバー＋",
+    "author": "aoytsk",
+    "version": "0.3.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "F2B4F3F60A5C9A619B52D4F34A4E506F6D51869A06124A504FD2CE46318481D5"
+  },
+  {
+    "filename": "extext.auf",
+    "name": "字幕アシスト",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "0B5254FC53332ECD979AD08E724BD5276E5E68D046F29FAAC105CA5C5E20B34A"
+  },
+  {
+    "filename": "jumpdlg.auf",
+    "name": "ジャンプダイアログ",
+    "author": "aoytsk",
+    "version": "0.4",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "BF6F3363D410339ED8C403598A6A90EF598BA2657B11DADC89B717E860690E5E"
+  },
+  {
+    "filename": "jumpdlg32.auf",
+    "name": "ジャンプダイアログ32",
+    "author": "aoytsk",
+    "version": "0.4",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "0FA8DF5BA84468A184CF4050142A00D9DF99F710F7F3F67FE896962A1310BBE0"
+  },
+  {
+    "filename": "jumpbarx.auf",
+    "name": "ジャンプバー＋",
+    "author": "aoytsk",
+    "version": "0.4.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "23B2F6603D63A239FF9C67F5348480E38B76F9576A9889F94F6FA520FE380C03"
+  },
+  {
+    "filename": "statbarx.auf",
+    "name": "ステータスバー＋",
+    "author": "aoytsk",
+    "version": "0.4.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "E3F1B60EF003ED0E5AA710D3EA411E6573268B1AA140F6E4D35B27E72C1516EA"
+  },
+  {
+    "filename": "statbarx.auf",
+    "name": "ステータスバー＋",
+    "author": "aoytsk",
+    "version": "0.5.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "80D69809B1450A6AD800A21EE101FBA008C7DADE66306197939B188471CB6FC3"
+  },
+  {
+    "filename": "dummy.aui",
+    "name": "ダミーファイル入力",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "24144FB2364CB3B1BB1F9CBF0DA70E9F45401415AD0D0E6FBD961815ACA65955"
+  },
+  {
+    "filename": "tegaki.aui",
+    "name": "手書きツール",
+    "author": "aoytsk",
+    "version": "0.0.1a",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "645778A870947A8351E9CCC08DA872019E0EDA4AA64F383AE7B3819646900843"
+  },
+  {
+    "filename": "dbgwnd.auf",
+    "name": "デバッグウィンドウ",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "D389152932321FC028D7DE2AE297AD6273B36BA5D2AF36D439D95CEB17E3FF51"
+  },
+  {
+    "filename": "trayiconx.auf",
+    "name": "トレイアイコン＋",
+    "author": "aoytsk",
+    "version": "0.4",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "A8CD12C15C7F3848AF25286C2FCD4D94D907C051161A5C08C2A54E904982E0AA"
+  },
+  {
+    "filename": "inputprofile.auf",
+    "name": "入力優先度変更",
+    "author": "aoytsk",
+    "version": "0.2b",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "4349775B4D39CDE380BFB8FB838D09DA8551EE69EBA3FB136CD073CFECAE9B4A"
+  },
+  {
+    "filename": "cmpwnd.auf",
+    "name": "比較ウィンドウ",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "52150643241B33E918E5830E24DED91F0464CB6370D22F1708C11FB168579D2C"
+  },
+  {
+    "filename": "translatorx.auf",
+    "name": "翻訳＋",
+    "author": "aoytsk",
+    "version": "0.1b",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "5C08A394A4BFA5E4501F8B05DCFC0D788E81F5E00946979750CAF3E55A361D3E"
+  },
+  {
+    "filename": "pluginlist.auf",
+    "name": "プラグインリスト",
+    "author": "aoytsk",
+    "version": "0.1",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "6F47A040E2481814A21A5624FC8B0955DA5D41E810B9446EE155E12A0733FDEF"
+  },
+  {
+    "filename": "recovery.auf",
+    "name": "リカバリ",
+    "author": "aoytsk",
+    "version": "0.1.0",
+    "build": "",
+    "url": "https://aoytsk.blog.jp",
+    "sha256": "31BB91FBF8432DC51D215894138F6985EA6967DDD4A97F99DE6E1B7D1C6FD9FB"
+  },
+  {
+    "filename": "ds_input.auf",
+    "name": "DirectShow File Reader",
+    "author": "AviUtl実験室",
+    "version": "0.26a",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "FEEE689B5EFC666D767526EF6C23181D81B65F1D3094FFF75D3E9650A119F8A8"
+  },
+  {
+    "filename": "animate.auf",
+    "name": "アニメーション編集",
+    "author": "AviUtl実験室",
+    "version": "1.4",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "CBFF873599E338F1BE4EC79184A46FC4346CD7B5F57F93BF2B8A0DE28136F757"
+  },
+  {
+    "filename": "croma.auf",
+    "name": "クロマキー画像作成",
+    "author": "AviUtl実験室",
+    "version": "0.1",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "B046B9B6C7AD46C42A51530B6FB887859C2E109007C8EEDE0BC359C9F5656CD4"
+  },
+  {
+    "filename": "cmdex.auo",
+    "name": "コマンド実行",
+    "author": "AviUtl実験室",
+    "version": "0.3",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "7B40FD03C2C7D230CDD37DFC80B40EE9898CE102D9FA616E62219794173744C9"
+  },
+  {
+    "filename": "chapter.auf",
+    "name": "チャプター編集",
+    "author": "AviUtl実験室",
+    "version": "0.6",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "15CECBB1AD3AA1E189945CDCDE1AA4EEA8B4BA919223D9C09B697EEA6B488E10"
+  },
+  {
+    "filename": "itvfr.auf",
+    "name": "可変フレームレート 逆テレシネプラグイン",
+    "author": "AviUtl実験室",
+    "version": "0.9",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "8791221929760B9E6D01E8F7BD47B08F6DB1080B28680EC5B366FBA8C35DF504"
+  },
+  {
+    "filename": "itvfr_deint.auf",
+    "name": "可変フレームレート 逆テレシネプラグイン インターレース解除 ",
+    "author": "AviUtl実験室",
+    "version": "0.9",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "8791221929760B9E6D01E8F7BD47B08F6DB1080B28680EC5B366FBA8C35DF504"
+  },
+  {
+    "filename": "x264out.auo",
+    "name": "可変フレームレート出力 x264出力(mp4/mkv)",
+    "author": "AviUtl実験室",
+    "version": "0.9",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "58D22D3D1FCA5EA840CEC7D00EA85BACCAB261D3507F0397432789B2094730F2"
+  },
+  {
+    "filename": "vfrout.auo",
+    "name": "可変フレームレート出力 AVI出力(VFR)",
+    "author": "AviUtl実験室",
+    "version": "0.5",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "D0CA8421C19359574FE372A90E7504561EC72C3E4ECF33ACD58863EEE8EF2CC4"
+  },
+  {
+    "filename": "wmvout_vfr.auo",
+    "name": "可変フレームレート出力 WMV出力(VFR)",
+    "author": "AviUtl実験室",
+    "version": "0.5a",
+    "build": "",
+    "url": "http://videoinfo.tenchi.ne.jp",
+    "sha256": "AE636D41861CF907F44C224D003A0C8284090F01A09AFF0E20B10F0109C78EA1"
+  },
+  {
+    "filename": "ShowLimit.auf",
+    "name": "上限確認",
+    "author": "karoterra",
+    "version": "v0.3.0",
+    "build": "",
+    "url": "https://github.com/karoterra/aviutl_ShowLimit/releases/tag/v0.3.0",
+    "sha256": "E8AF1030DC90B975E860A506AAA013CC0774F5F04534B0DEAC1E040B7487CBA1"
+  },
+  {
+    "filename": "ShowLimit.auf",
+    "name": "上限確認",
+    "author": "karoterra",
+    "version": "v0.2.1",
+    "build": "",
+    "url": "https://github.com/karoterra/aviutl_ShowLimit/releases/tag/v0.2.1",
+    "sha256": "B88D5C5BC809C65B51EBCCF5EBFE61D00C0C75A49EE37F1475D5DF9C70BEC0A6"
+  },
+  {
+    "filename": "ShowLimit.auf",
+    "name": "上限確認",
+    "author": "karoterra",
+    "version": "v0.2.0",
+    "build": "",
+    "url": "https://github.com/karoterra/aviutl_ShowLimit/releases/tag/v0.2.0",
+    "sha256": "3F36AF7521675D1AA1BD737AE453DD035D6E28EFC0ECFD1F978CC5DE242B4D51"
+  },
+  {
+    "filename": "ShowLimit.auf",
+    "name": "上限確認",
+    "author": "karoterra",
+    "version": "v0.1.0",
+    "build": "",
+    "url": "https://github.com/karoterra/aviutl_ShowLimit/releases/tag/v0.1.0",
+    "sha256": "4DACFF25AF5CAF7B918FF4B6DBDB6FD875948C16D78D2C34D109818E0AD608C2"
+  },
+  {
+    "filename": "WaveformPreview.auf",
+    "name": "波形プレビュー",
+    "author": "karoterra",
+    "version": "v0.3.0",
+    "build": "",
+    "url": "https://github.com/karoterra/aviutl_WaveformPreview/releases/tag/v0.3.0",
+    "sha256": "27AC144353EC900011ABB87331CD521CB2A9D090442CAE1306E653293AC2D22F"
+  },
+  {
+    "filename": "WaveformPreview.auf",
+    "name": "波形プレビュー",
+    "author": "karoterra",
+    "version": "v0.2.0",
+    "build": "",
+    "url": "https://github.com/karoterra/aviutl_WaveformPreview/releases/tag/v0.2.0",
+    "sha256": "83D4CF217E5EA440327C9F8CF6A8DA9A97BA49D94177E8427E52BEC60E1E4D1E"
+  },
+  {
+    "filename": "WaveformPreview.auf",
+    "name": "波形プレビュー",
+    "author": "karoterra",
+    "version": "v0.1.0",
+    "build": "",
+    "url": "https://github.com/karoterra/aviutl_WaveformPreview/releases/tag/v0.1.0",
+    "sha256": "68C28EFD5C80CD4585EB08E97C07383126ABA30B623FFE6A866BB34441DB69C1"
+  },
+  {
+    "filename": "auls_confirmclose.auf",
+    "name": "Auls上限確認",
+    "author": "karoterra",
+    "version": "v1.2",
+    "build": "",
+    "url": "https://scrapbox.io/karoterra/%E6%94%B9%E5%A4%89%E7%89%88Auls%E7%B5%82%E4%BA%86%E7%A2%BA%E8%AA%8D",
+    "sha256": "AC83C837C557950CF48D9E8EC26F961E6F48A92E1702EE77F6B015C5AF131614"
+  },
+  {
+    "filename": "auls_confirmclose.auf",
+    "name": "Auls上限確認",
+    "author": "karoterra",
+    "version": "v1.1",
+    "build": "",
+    "url": "https://scrapbox.io/karoterra/%E6%94%B9%E5%A4%89%E7%89%88Auls%E7%B5%82%E4%BA%86%E7%A2%BA%E8%AA%8D",
+    "sha256": "84693AC7EEB2778C86891F050C1459F14D1E79911EBE7AEA19B0600A424F9C59"
   }
 ]
