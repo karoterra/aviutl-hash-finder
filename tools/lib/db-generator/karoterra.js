@@ -3,6 +3,7 @@ import fs from "fs";
 
 import misc from "../misc.js";
 import github from "../github.js";
+import githubrepo from "../githubrepo.js";
 
 const GITHUB_ID = "karoterra";
 
@@ -38,19 +39,19 @@ async function appendGitHubReleases(dist, repo, file, name) {
 export default async () => {
   const dist = [];
 
-  await appendGitHubReleases(
-    dist,
-    "aviutl_ShowLimit",
-    "ShowLimit.auf",
-    "上限確認"
-  );
+  const arr = [
+    ["aviutl_ShowLimit", [{ filename: "ShowLimit.auf", name: "上限確認" }]],
+    [
+      "aviutl_WaveformPreview",
+      [{ filename: "WaveformPreview.auf", name: "波形プレビュー" }],
+    ],
+  ];
 
-  await appendGitHubReleases(
-    dist,
-    "aviutl_WaveformPreview",
-    "WaveformPreview.auf",
-    "波形プレビュー"
-  );
+  const ghR = new githubrepo.GithubReleases("karoterra", "^${repo}_.*\\.zip$");
+
+  for (let i = 0; i < arr.length; i++) {
+    dist.push(await ghR.appendGitHubReleases(arr[i][0], arr[i][1]));
+  }
 
   const CONFIRMCLOSE_FILE = "auls_confirmclose.auf";
   const CONFIRMCLOSE_NAME = "Auls上限確認";
