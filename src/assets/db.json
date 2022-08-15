@@ -2142,6 +2142,420 @@
     "sha256": "AE636D41861CF907F44C224D003A0C8284090F01A09AFF0E20B10F0109C78EA1"
   },
   {
+    "filename": "discord_rp.auf",
+    "name": "Discord Rich Presence",
+    "author": "ePi5131",
+    "version": "2021/01/21",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/%E3%80%90AviUtl%E3%80%91Discord_Rich_Presence_Plugin",
+    "sha256": "84F997A569F622761F5DBBFAD357F06F5FF6F6DCA2C4DC033FF72740F1AFD4C2"
+  },
+  {
+    "filename": "export2clipboard.auf",
+    "name": "export2clipboard",
+    "author": "ePi5131",
+    "version": "2020/09/04",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/export2clipboard",
+    "sha256": "8941F6335547D18349B387488CB69D0FBF51E1AE7192992CAE00BA8796540081"
+  },
+  {
+    "filename": "auls_memref.auf",
+    "name": "Aulsメモリ参照 for 1.00~/0.92",
+    "author": "ePi5131",
+    "version": "2021/05/23",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/Auls%E3%83%A1%E3%83%A2%E3%83%AA%E5%8F%82%E7%85%A7%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3",
+    "sha256": "C6A4E2AC843B8B9B054CA6B581214D88566D27B2DDC4201E569F467913B33100"
+  },
+  {
+    "filename": "auls_outputpng.auf",
+    "name": "AulsPNG出力 (unofficial fixed by ePi)",
+    "author": "ePi5131",
+    "version": "2020/10/12",
+    "build": "",
+    "url": "https://discordapp.com/channels/411450989040893952/466184911355772930/764891011478323250",
+    "sha256": "5D1F57E112C007D4C750756156EA93BB0F3E216080BFD990B9829634F66BADD5"
+  },
+  {
+    "filename": "auls_outputpng.auf",
+    "name": "AulsPNG出力 (unofficial fixed by ePi)",
+    "author": "ePi5131",
+    "version": "2022/01/22",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/AulsPNG%E5%87%BA%E5%8A%9B_%E3%83%90%E3%82%B0%E4%BF%AE%E6%AD%A3",
+    "sha256": "ACE42EE71FEA87289AEC7F262BE29E0D37CCC1AB147820AEB9DC395C90A3F117"
+  },
+  {
+    "filename": "lua51.dll",
+    "name": "LuaJIT",
+    "author": "ePi5131",
+    "version": "2.1.0-beta3",
+    "build": "2020/12/30",
+    "url": "https://scrapbox.io/ePi5131/LuaJIT",
+    "sha256": "D4DCF173AD5D2762A0ECA229A0191C17C57D79F09FEC6B4A555CDC3E896C97BF"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r1",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "D034F672A97A8FCFE2EFF8BC51E38069C7032BDCD69C4396A72426B95DB7EFF8"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r2",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "246A59660786286B32E4B2A45F9A678A19D942BD544350F9174DFB02C50BE4D4"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r3",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "5DCD2F7C8525628D0D031A6B22BBE6FE6C8476019CFF1BAD4F68EDAD01D9AD9D"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r4",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "B11E8A87AE837C57C0E5FDF9C180085DA2F5673AC56B983339D5BB8F9904E1B4"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r5",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "98F339E8181546CBD2FCA68DDF7A5BAD33F04350F48BC41D1BB03664C7F7F64E"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r6",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "43018AB43D7037DDBCAB25F24DF8BD9CF32F5A68F739BF37888C4E4D10EA6DC5"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r7",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "1D8FEA7BE375ED91F15E7D1DEB2CA16B33E09BE0982F1EB3A72DD93E505E61CC"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r8",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "B40527FA9E8691C010FC8DAD908C9C37CF28558F95451F39D4BCE4278AFA5AF8"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r9",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "2C8E895DE2AD167AB426E7C22BA0124467860608E79CDB581A1C636FCF1F640A"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r10",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "0A5F7F5301220A289800EDABA2428504551931DC0995ECE0C6A6B2AA20488206"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r11",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "486D93125BEDA6771F662E43B740771D8A71C9C49D349E8F72AD17B58DEF22B3"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r12",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "4F051FD67A70224DC85EB692317F24B556EB716A1C06ABAC1666DB060DE09004"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r13",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "154058E6C6CDC99E34F706CEE1911D18A352586B62F90DC47DACBFB85079FB06"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r14",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "E9EE64BE2E86069EF49BF2274A664617A76A313C3AEBA20B0F39BDA134F6A8B4"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r15",
+    "build": "",
+    "url": "https://scrapbox.io/ePi5131/patch.aul_%E6%97%A7%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
+    "sha256": "AFA93FC903E937D78DF46BB8D400603EAA6F91A47C1E1C092FE625437B150A9D"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r41",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r41",
+    "sha256": "C3CE80737F820B494AC2DF51182B6EC0728AA338249471954241CA4D7C8F805D"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r40",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r40",
+    "sha256": "AA41B4E8D592463B7FF898A76677AD10CED1C58511EB1E25B64D0754C8C7648C"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r39",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r39",
+    "sha256": "FEB06EB1125270F6212970C234D94DC24407AF94F232EDB9F899A49A1FE85D28"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r38",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r38",
+    "sha256": "2058B71998526186226E723A9FE96896F19DCE750FC54CE45D02D6C57A4F9410"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r37",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r37",
+    "sha256": "8674A6ACCE1EF73BF9DFE31BEC68F31EEE98C4931671687FAB60A7FB6AB68ABE"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r36",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r36",
+    "sha256": "9845E2C0CA06C8382676FC9122E814A1CF04D8F97F907C657972A2224D3A749A"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r35",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r35",
+    "sha256": "50E91D5750CCAB25E18D0A359A524BB033D23F4C7E5004E65BFCA9CF1AAB5625"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r34",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r34",
+    "sha256": "0064EE10D467D73CC5B7331C1738E920F16EE04C86567BE22016E740BFF13C6C"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r33",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r33",
+    "sha256": "80C40826BD2D0A7ED31C3A274D42817892CF4BB74A8B674013F2931AB21AB466"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r32",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r32",
+    "sha256": "66F2F884F92516522F9EE46DE864E9C9EDE174EDAC647F990F2727FF5B0825F6"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r31",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r31",
+    "sha256": "32AF391926F788E100B35B493DB98E3746A0B329B90A8F3C4243CA1AA8595A6F"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r30",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r30",
+    "sha256": "E61FC8C40A3C0A5FAB21B42BE1E42083CA84CE96052CCA35383807BAC24F29D8"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r29",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r29",
+    "sha256": "E80A36BBB75AC40891D1C7A15A224BAC205FEF164D2081E991FF4148DAE37058"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r28",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r28",
+    "sha256": "13674E3F742CC2FEA297B052FC2CCD922BE84C804457724678A4D9B652FB35DA"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r27",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r27",
+    "sha256": "3B866C438AD2994ABAD7A22D30157A67937501A24181DF35E15B81CF15485721"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r26",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r26",
+    "sha256": "CECF6813F862B4CF573F4E7F72BD085D1AFB81E80D1AD92118C361B80CD754B7"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r25",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r25",
+    "sha256": "99EBB65BAB441B042D24A984201AA4C747788462E3E44AFBA8A66845A26CA908"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r24",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r24",
+    "sha256": "F3C2B5EA3A9EA3875312D9601C3E12E3F9CFD8F1341AB6438A21E68699C10DCF"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r23",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r23",
+    "sha256": "1E3F0D0E1AF25E9B880C8B468479D892D4C46F403E743B4A14182265A9F6A871"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r22",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r22",
+    "sha256": "EF30CDE443278EE699DBE636257D6B880E3655FD80F115706EFBDA59D5086D76"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r21",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r21",
+    "sha256": "EF99E7D4FED53A14DF58A8FBC122A962C9CC00DC98BF3C7617A662CFE7D4E902"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r20",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r20",
+    "sha256": "0AA08D62898BA0666D8CE52DCCD9AD7DDE9DC5E5054A4C1E22E9909A4A2F5744"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r19",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r19",
+    "sha256": "B96CA172F1CBD71216A13B84F3C7828732436757B594A50E74EAF56091C61B12"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r18",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r18",
+    "sha256": "8AAFBD75E503D5A35F6EDCB31C7917E6743A2F8A12AFF2E7C52946F7BE322812"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "ePi5131",
+    "version": "r17",
+    "build": "",
+    "url": "https://github.com/ePi5131/patch.aul/releases/tag/r17",
+    "sha256": "29BB564F173A0634577FC5FE62D3687F3CDF0B4EC7DF42DB55DE0B5D0F67FE65"
+  },
+  {
     "filename": "AddColorCode.auf",
     "name": "カラーコード追加",
     "author": "hebiiro",
@@ -3904,6 +4318,195 @@
     "build": "",
     "url": "https://scrapbox.io/karoterra/%E6%94%B9%E5%A4%89%E7%89%88Auls%E7%B5%82%E4%BA%86%E7%A2%BA%E8%AA%8D",
     "sha256": "84693AC7EEB2778C86891F050C1459F14D1E79911EBE7AEA19B0600A424F9C59"
+  },
+  {
+    "filename": "localfont.aul",
+    "name": "LocalFontPlugin",
+    "author": "khsk",
+    "version": "v3.0",
+    "build": "",
+    "url": "https://github.com/khsk/AviUtl-LocalFontPlugin/releases/tag/v3.0",
+    "sha256": "348C81B2DA6B94148084781455877FC242199C4768201DD2791B8802C6D569EF"
+  },
+  {
+    "filename": "localfont.aul",
+    "name": "LocalFontPlugin",
+    "author": "khsk",
+    "version": "v2.0",
+    "build": "",
+    "url": "https://github.com/khsk/AviUtl-LocalFontPlugin/releases/tag/v2.0",
+    "sha256": "249A59451F2FE03716D0F2D2CDE7C7DC7CF0A71F6B16C58D2E5E4BCC3201E696"
+  },
+  {
+    "filename": "localfont.aul",
+    "name": "LocalFontPlugin",
+    "author": "khsk",
+    "version": "v1.0",
+    "build": "",
+    "url": "https://github.com/khsk/AviUtl-LocalFontPlugin/releases/tag/v1.0",
+    "sha256": "8FC1A492A436E1CD5117F5C1B3E5B41BF438AFDDCD6F1D10E3AA4EEA03B4C3AE"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "6B1BC2481FAD4DDAE5758117711CE07ADB7554B6DC5CDDF39BAEAB533CAC7A90"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "1B32BA74ABC1994B27C29102F634EC2F0EA32179946631427F3A226B45083523"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "08750BA92EDE355504D863CEE5A073D1DC2665D2C38AB678A62F804939A3A754"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "E737497FFD8AD17312B94C1F59584D248FC0C91591B2ADDC64395FEB97BA79B8"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "CADA06595077B6C853078C5C78BF0A21E4A4F78DA57A23833B79B00207AFEE5B"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "8DB89E2DACA8C5C332C1FD80E342B77473D06D8969A89DC72BDD31E0E1FE6F66"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "730ADEB0B44D28BC5D309598976F0E9A408112BDE5ED49C6DF1C126B3F5FDBE3"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "092EC86C8105B13D1E38A0F7A326BFEEB0BE7408020BB5A9940AA91B67D97830"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "BEF223B6BD28FE87DB9786C5A7A1FC63E5047FF5D208DC1E857CB317EB085B18"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "08EE2CB5A10BCC290ABD34B4D779771EA491B97283C48FFCD4C7B52F4A204E71"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "30CABB1C4E527E43AA67B8103DC702E4CD6768D2FCF193E27AC37A1A1BD9CEAA"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "63688C42670340278F5A6E539536A36578F0D68F9D06D83862003FFE79DC9CE1"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "2DEF11441AD95A7611D019F9C1E4AE555475F2F7A9A2F6719733704B548E8618"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "A887F07131832E9D251C59B03911CA4C34E2E0F7F5CBD2A6FD1EA64859033AEB"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "E0E53F1EDA8097AC2DEB8150C8ED39C10AEB6F7B73488A16F295A5A014270416"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "36527919473CD73961951C7A68DB09B21F6792CAB4FD2604F537629FA239AE75"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "E01A9FDF7F8EAA5AB7D22E21DA2F6C0BC3E8458D52CF783A747D7E0560EC3600"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-15-02-38-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-15-02-38-25",
+    "sha256": "F4AC1C81D4056F537372EFE50718A19CD4B4C29F8C7BAC6E5E3D70F6D8700F65"
   },
   {
     "filename": "lwinput.aui",
@@ -44287,5 +44890,68 @@
     "build": "POP",
     "url": "https://pop.4-bit.jp/?page_id=7929",
     "sha256": "1773ADB99CF7DF0F789DCE882DD2148FFE8896592E4EE2546FA9DABCBD974FD9"
+  },
+  {
+    "filename": "aviutl_rpc_en.auf",
+    "name": "AviUtl Discord RPC",
+    "author": "mtripg6666tdr",
+    "version": "1.0",
+    "build": "",
+    "url": "https://github.com/mtripg6666tdr/AviUtl-RPC/releases/tag/1.0",
+    "sha256": "AAF08910A407527853CFF339ECD831BD4EC2B15EFF0AFFAE9421E623FCAD3890"
+  },
+  {
+    "filename": "aviutl_rpc.auf",
+    "name": "AviUtl Discord RPC",
+    "author": "mtripg6666tdr",
+    "version": "1.0",
+    "build": "",
+    "url": "https://github.com/mtripg6666tdr/AviUtl-RPC/releases/tag/1.0",
+    "sha256": "F4B574D4C184ED230C9B785D9DA5D045EDA2FE55100CF6F9CC4C816E0FE11D9F"
+  },
+  {
+    "filename": "aviutl_rpc.auf",
+    "name": "AviUtl Discord RPC",
+    "author": "mtripg6666tdr",
+    "version": "0.99f",
+    "build": "",
+    "url": "https://github.com/mtripg6666tdr/AviUtl-RPC/releases/tag/0.99f",
+    "sha256": "268F465029BC75AC1D5BB579BDCBAC6B6CCD26116DFBF4EE4E93C5FF9EB18AE9"
+  },
+  {
+    "filename": "aviutl_rpc.auf",
+    "name": "AviUtl Discord RPC",
+    "author": "mtripg6666tdr",
+    "version": "0.99e",
+    "build": "",
+    "url": "https://github.com/mtripg6666tdr/AviUtl-RPC/releases/tag/0.99e",
+    "sha256": "56A239BA9494A6B65C2270907FB5085D8FFCFC58DA1EEE0B4D4C9357A56A6309"
+  },
+  {
+    "filename": "aviutl_rpc.auf",
+    "name": "AviUtl Discord RPC",
+    "author": "mtripg6666tdr",
+    "version": "0.99d",
+    "build": "",
+    "url": "https://github.com/mtripg6666tdr/AviUtl-RPC/releases/tag/0.99d",
+    "sha256": "F40D140DC0A0EEF23EA307CC54EE59017A78128BABD2E926C44425833FC9B937"
+  },
+  {
+    "filename": "aviutl_rpc.auf",
+    "name": "AviUtl Discord RPC",
+    "author": "mtripg6666tdr",
+    "version": "0.99c",
+    "build": "",
+    "url": "https://github.com/mtripg6666tdr/AviUtl-RPC/releases/tag/0.99c",
+    "sha256": "13BF9231B870F74903D8EB6C0462606DEB38530A9EAF817C2D66D423BC920919"
+  },
+  {
+    "filename": "aviutl_rpc.auf",
+    "name": "AviUtl Discord RPC",
+    "author": "mtripg6666tdr",
+    "version": "v0.99b",
+    "build": "",
+    "url": "https://github.com/mtripg6666tdr/AviUtl-RPC/releases/tag/v0.99b",
+    "sha256": "C9AD063BB57117E22C9B11BC56A84DFBB3F93E4774A3C181EA1DC63BDB2F6491"
   }
 ]

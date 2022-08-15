@@ -5,6 +5,8 @@ import unzipper from "unzipper";
 import Seven from "node-7z";
 import fetch from "node-fetch";
 
+import github from "./github.js";
+
 async function calcSha256(stream) {
   return new Promise((resolve, reject) => {
     const hash = crypto.createHash("sha256");
@@ -93,6 +95,56 @@ async function calc7zSha256(archive, filenames) {
   return await calcDirSha256(output, filenames);
 }
 
+async function appendGitHubReleases(dist, owner, repo, items) {
+  for await (const response of github.listReleases(owner, repo)) {
+    for (const release of response.data) {
+      for (const asset of release.assets) {
+        const assetExt = path.extname(asset.name).toLowerCase();
+        if (![".zip", ".7z"].includes(assetExt)) {
+          continue;
+        }
+
+        const assetPath = path.join(
+          "temp",
+          owner,
+          repo,
+          release.tag_name,
+          asset.name
+        );
+        if (!fs.existsSync(assetPath)) {
+          await downloadFile(asset.browser_download_url, assetPath);
+        }
+
+        let hash = {};
+        if (assetExt === ".zip") {
+          hash = await calcZipSha256(
+            assetPath,
+            items.map((item) => item.filename)
+          );
+        } else if (assetExt === ".7z") {
+          hash = await calc7zSha256(
+            assetPath,
+            items.map((item) => item.filename)
+          );
+        }
+        for (const item of items) {
+          if (item.filename in hash) {
+            dist.push({
+              filename: item.filename,
+              name: item.name,
+              author: owner,
+              version: release.tag_name,
+              build: "",
+              url: release.html_url,
+              sha256: hash[item.filename],
+            });
+          }
+        }
+      }
+    }
+  }
+}
+
 export default {
   calcSha256,
   downloadFile,
@@ -101,4 +153,5 @@ export default {
   extract7z,
   calcDirSha256,
   calc7zSha256,
+  appendGitHubReleases,
 };
