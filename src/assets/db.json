@@ -2838,15 +2838,6 @@
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
     "author": "hebiiro",
-    "version": "6.5.1",
-    "build": "",
-    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.1",
-    "sha256": "3FC924DF9F6070743EC1A9136AB3659EC6E8FFC9C3A236459508C3586C9029BE"
-  },
-  {
-    "filename": "DarkenWindow.aul",
-    "name": "黒窓",
-    "author": "hebiiro",
     "version": "6.5.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.0",
@@ -2946,15 +2937,6 @@
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
     "author": "hebiiro",
-    "version": "5.5.0",
-    "build": "",
-    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.5.0",
-    "sha256": "61AD5B5EB88464FC2D041BA5AE296BD6B5EB106CD8D492BCECB351591EBEDF16"
-  },
-  {
-    "filename": "DarkenWindow.aul",
-    "name": "黒窓",
-    "author": "hebiiro",
     "version": "5.4.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.4.2",
@@ -2968,15 +2950,6 @@
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.4.1",
     "sha256": "FC9A29E9A6085961CAB601BA53A551CCE83E385A410674D758E82F11F66F4302"
-  },
-  {
-    "filename": "DarkenWindow.aul",
-    "name": "黒窓",
-    "author": "hebiiro",
-    "version": "5.4.0",
-    "build": "",
-    "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.4.0",
-    "sha256": "FBDE0ABD3663B4A4CD231D7704F8EBE26506E4C573C057300F9E1FE878343EDA"
   },
   {
     "filename": "DarkenWindow.aul",

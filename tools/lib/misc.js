@@ -96,6 +96,8 @@ async function calc7zSha256(archive, filenames) {
 }
 
 async function appendGitHubReleases(dist, owner, repo, items) {
+  const data = {};
+
   for await (const response of github.listReleases(owner, repo)) {
     for (const release of response.data) {
       for (const asset of release.assets) {
@@ -129,7 +131,8 @@ async function appendGitHubReleases(dist, owner, repo, items) {
         }
         for (const item of items) {
           if (item.filename in hash) {
-            dist.push({
+            const key = hash[item.filename] + item.filename;
+            data[key] = {
               filename: item.filename,
               name: item.name,
               author: owner,
@@ -137,11 +140,15 @@ async function appendGitHubReleases(dist, owner, repo, items) {
               build: "",
               url: release.html_url,
               sha256: hash[item.filename],
-            });
+            };
           }
         }
       }
     }
+  }
+
+  for (const x of Object.values(data)) {
+    dist.push(x);
   }
 }
 
