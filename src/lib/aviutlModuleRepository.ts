@@ -35,15 +35,19 @@ export class AviUtlModuleRepository {
   }
 
   public search(text: string): AviUtlModule[] {
-    return this.data.filter(
-      (x) =>
-        x.sha256.includes(text.toUpperCase()) ||
-        x.filename.includes(text) ||
-        x.name.includes(text) ||
-        x.author.includes(text) ||
-        x.version.includes(text) ||
-        x.build.includes(text) ||
-        x.url.includes(text)
-    );
+    if (text == "") {
+      return this.data;
+    } else {
+      return this.data.filter(
+        (x) =>
+          x.sha256.includes(text.toUpperCase()) ||
+          x.filename.includes(text) ||
+          x.name.includes(text) ||
+          x.author.includes(text) ||
+          x.version.includes(text) ||
+          x.build.includes(text) ||
+          x.url.includes(text)
+      );
+    }
   }
 }
