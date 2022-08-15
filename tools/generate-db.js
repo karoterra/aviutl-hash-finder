@@ -12,6 +12,7 @@ import karoterra from "./lib/db-generator/karoterra.js";
 import khsk from "./lib/db-generator/khsk.js";
 import lsmash from "./lib/db-generator/lsmash.js";
 import mtripg6666tdr from "./lib/db-generator/mtripg6666tdr.js";
+import oov from "./lib/db-generator/oov.js";
 
 async function main() {
   console.log("-- aviutl --");
@@ -37,6 +38,8 @@ async function main() {
   data.push(...(await lsmash()));
   console.log("-- mtripg6666tdr --");
   data.push(...(await mtripg6666tdr()));
+  console.log("-- oov --");
+  data.push(...(await oov()));
 
   console.log("writing...");
   fs.writeFileSync("./src/assets/db.json", JSON.stringify(data, null, 2));

@@ -35,7 +35,10 @@ async function lsmashWorksAutoBuilds(dist) {
           { filename: "lwinput.aui", name: "L-SMASH Works File Reader" },
           { filename: "lwdumper.auf", name: "L-SMASH Works Dumper" },
           { filename: "lwmuxer.auf", name: "L-SMASH Works Muxer" },
-          { filename: "lwcolor", name: "L-SMASH Works Color Space Converter" },
+          {
+            filename: "lwcolor.auc",
+            name: "L-SMASH Works Color Space Converter",
+          },
         ];
         const zipSha256 = await misc.calcZipSha256(
           assetPath,

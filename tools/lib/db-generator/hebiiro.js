@@ -97,7 +97,7 @@ export default async () => {
     ],
     [
       "AviUtl-Plugin-SplitWindow",
-      [{ filename: "SplitWindow.auf", name: "SplitWindow" }],
+      [{ filename: "SplitWindow.aul", name: "SplitWindow" }],
     ],
     [
       "AviUtl-Plugin-SwitchSettings",
