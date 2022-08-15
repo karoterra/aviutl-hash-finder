@@ -134,7 +134,7 @@ export default async () => {
     dist,
     GITHUB_ID,
     "AviUtl-Plugin-SplitWindow",
-    [{ filename: "SplitWindow.auf", name: "SplitWindow" }]
+    [{ filename: "SplitWindow.aul", name: "SplitWindow" }]
   );
 
   await misc.appendGitHubReleases(
