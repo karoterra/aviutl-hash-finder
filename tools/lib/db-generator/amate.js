@@ -35,7 +35,7 @@ export default async () => {
     ],
   ];
 
-  const ghR = new githubrepo.GithubReleases("amate", "^${repo}.*\\.zip$");
+  const ghR = new githubrepo.GithubReleases("amate", "amate");
 
   for (let i = 0; i < arr.length; i++) {
     dist.push(await ghR.appendGitHubReleases(arr[i][0], arr[i][1]));
