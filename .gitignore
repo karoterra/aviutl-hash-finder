@@ -29,3 +29,5 @@ secret.js
 *.njsproj
 *.sln
 *.sw?
+
+yarn.lock
