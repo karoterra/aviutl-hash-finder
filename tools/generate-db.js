@@ -17,6 +17,7 @@ import oov from "./lib/db-generator/oov.js";
 async function main() {
   console.log("-- aviutl --");
   const data = await aviutl();
+  const data = [];
 
   console.log("-- amate --");
   data.push(...(await amate()));
