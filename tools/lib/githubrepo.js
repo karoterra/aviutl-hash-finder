@@ -12,7 +12,7 @@ class GithubReleases {
 
   async appendGitHubReleases(repo, items) {
     const dist = [];
-    await misc.appendGitHubReleases(dist, this.ghID, repo, items);
+    await misc.appendGitHubReleases(dist, this.owner, this.ghID, repo, items);
     return dist;
   }
 }
