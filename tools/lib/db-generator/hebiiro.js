@@ -114,7 +114,7 @@ export default async () => {
   ];
 
   for (let i = 0; i < arr.length; i++) {
-    dist.push(await ghR.appendGitHubReleases(arr[i][0], arr[i][1]));
+    dist.push(...(await ghR.appendGitHubReleases(arr[i][0], arr[i][1])));
   }
   return dist;
 };

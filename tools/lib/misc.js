@@ -131,6 +131,7 @@ async function appendGitHubReleases(dist, owner, repo, items) {
         }
         for (const item of items) {
           if (item.filename in hash) {
+            //console.log(release.tag_name);
             const key = hash[item.filename] + item.filename;
             data[key] = {
               filename: item.filename,

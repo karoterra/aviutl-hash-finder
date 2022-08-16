@@ -50,7 +50,7 @@ export default async () => {
   const ghR = new githubrepo.GithubReleases("karoterra", "かろてら");
 
   for (let i = 0; i < arr.length; i++) {
-    dist.push(await ghR.appendGitHubReleases(arr[i][0], arr[i][1]));
+    dist.push(...(await ghR.appendGitHubReleases(arr[i][0], arr[i][1])));
   }
 
   const CONFIRMCLOSE_FILE = "auls_confirmclose.auf";
