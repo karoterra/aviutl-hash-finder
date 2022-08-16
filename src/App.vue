@@ -10,7 +10,9 @@ const sidebarDefine = [
 ];
 
 const sidebar = computed(() =>
-  sidebarDefine.map((sd) => Object.assign(sd, { active: sd.path === route.path }))
+  sidebarDefine.map((sd) =>
+    Object.assign(sd, { active: sd.path === route.path })
+  )
 );
 </script>
 
@@ -50,7 +52,7 @@ const sidebar = computed(() =>
 }
 
 main {
-  margin: 10px;
+  margin: 8px 8px 0 8px;
   width: calc(100% - 8rem - 20px);
 }
 </style>
