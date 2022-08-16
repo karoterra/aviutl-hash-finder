@@ -5,14 +5,14 @@ import misc from "./misc.js";
 import github from "./github.js";
 
 class GithubReleases {
-  constructor(GithubID, owner) {
-    this.ghID = GithubID;
+  constructor(ghId, owner) {
+    this.ghId = ghId;
     this.owner = owner;
   }
 
   async appendGitHubReleases(repo, items) {
     const dist = [];
-    await misc.appendGitHubReleases(dist, this.owner, this.ghID, repo, items);
+    await misc.appendGitHubReleases(dist, this.owner, this.ghId, repo, items);
     return dist;
   }
 }
