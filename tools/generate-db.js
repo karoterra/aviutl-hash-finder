@@ -16,8 +16,7 @@ import oov from "./lib/db-generator/oov.js";
 
 async function main() {
   console.log("-- aviutl --");
-  const data = [];
-  //const data = await aviutl();
+  const data = await aviutl();
 
   console.log("-- amate --");
   data.push(...(await amate()));
@@ -36,7 +35,7 @@ async function main() {
   console.log("-- khsk --");
   data.push(...(await khsk()));
   console.log("-- L-SMASH --");
-  //data.push(...(await lsmash()));
+  data.push(...(await lsmash()));
   console.log("-- mtripg6666tdr --");
   data.push(...(await mtripg6666tdr()));
   console.log("-- oov --");
