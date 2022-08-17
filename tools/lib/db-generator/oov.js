@@ -47,7 +47,7 @@ export default async () => {
   ];
 
   for (const elem of arr) {
-    ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
+    await ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
   }
 
   dist.push({

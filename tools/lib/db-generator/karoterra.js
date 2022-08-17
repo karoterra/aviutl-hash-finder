@@ -1,6 +1,6 @@
 import GhReleases from "../gh_releases.js";
 
-const GITHUB_ID = "karoterra";
+const AUTHOR = "かろてら";
 
 export default async () => {
   const dist = [];
@@ -16,7 +16,7 @@ export default async () => {
   const ghR = new GhReleases("karoterra", "かろてら");
 
   for (const elem of arr) {
-    ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
+    await ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
   }
 
   const CONFIRMCLOSE_FILE = "auls_confirmclose.auf";
@@ -27,7 +27,7 @@ export default async () => {
     {
       filename: CONFIRMCLOSE_FILE,
       name: CONFIRMCLOSE_NAME,
-      author: GITHUB_ID,
+      author: AUTHOR,
       version: "v1.2",
       build: "",
       url: CONFIRMCLOSE_URL,
@@ -37,7 +37,7 @@ export default async () => {
     {
       filename: CONFIRMCLOSE_FILE,
       name: CONFIRMCLOSE_NAME,
-      author: GITHUB_ID,
+      author: AUTHOR,
       version: "v1.1",
       build: "",
       url: CONFIRMCLOSE_URL,
