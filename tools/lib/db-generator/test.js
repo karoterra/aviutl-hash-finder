@@ -1,6 +1,6 @@
-import githubrepo from "../githubrepo.js";
-import hebiiro_githubrepo from "./hebiiro.js";
-import amate from "./amate.js";
+//import githubrepo from "../gh_releases.js";
+//import hebiiro_githubrepo from "./hebiiro.js";
+//import amate from "./amate.js";
 import misc from "../misc.js";
 
 async function a() {

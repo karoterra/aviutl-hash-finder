@@ -1,12 +1,9 @@
-import misc from "../misc.js";
-import githubrepo from "../githubrepo.js";
-
-const GITHUB_ID = "hebiiro";
+import GhReleases from "../gh_releases.js";
 
 export default async () => {
   const dist = [];
 
-  const ghR = new githubrepo.GithubReleases(GITHUB_ID, "蛇色");
+  const ghR = new GhReleases("hebiiro", "蛇色");
 
   const arr = [
     [
@@ -113,8 +110,8 @@ export default async () => {
     ],
   ];
 
-  for (let i = 0; i < arr.length; i++) {
-    dist.push(...(await ghR.appendGitHubReleases(arr[i][0], arr[i][1])));
+  for (const elem of arr) {
+    await ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
   }
   return dist;
 };

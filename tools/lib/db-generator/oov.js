@@ -1,12 +1,11 @@
-import misc from "../misc.js";
-import githubrepo from "../githubrepo.js";
+import GhReleases from "../gh_releases.js";
 
 const AUTHOR = "oov";
 
 export default async () => {
   const dist = [];
 
-  const ghR = new githubrepo.GithubReleases("oov", "oov");
+  const ghR = new GhReleases("oov", "oov");
 
   const arr = [
     [
@@ -47,8 +46,8 @@ export default async () => {
     ["aviutl_prima", [{ filename: "prima.aui", name: "PRIMA File Reader" }]],
   ];
 
-  for (let i = 0; i < arr.length; i++) {
-    dist.push(...(await ghR.appendGitHubReleases(arr[i][0], arr[i][1])));
+  for (const elem of arr) {
+    ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
   }
 
   dist.push({

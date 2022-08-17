@@ -1,11 +1,4 @@
-import path from "path";
-import fs from "fs";
-
-import misc from "../misc.js";
-import github from "../github.js";
-import githubrepo from "../githubrepo.js";
-
-const GITHUB_ID = "amate";
+import GhReleases from "../gh_releases.js";
 
 export default async () => {
   const dist = [];
@@ -35,10 +28,10 @@ export default async () => {
     ],
   ];
 
-  const ghR = new githubrepo.GithubReleases("amate", "amate");
+  const ghR = new GhReleases("amate", "amate");
 
-  for (let i = 0; i < arr.length; i++) {
-    dist.push(...(await ghR.appendGitHubReleases(arr[i][0], arr[i][1])));
+  for (const elem of arr) {
+    await ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
   }
 
   return dist;

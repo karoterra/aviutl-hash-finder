@@ -95,7 +95,7 @@ async function calc7zSha256(archive, filenames) {
   return await calcDirSha256(output, filenames);
 }
 
-async function appendGitHubReleases(dist, owner, ghId, repo, items) {
+async function appendGitHubReleases(dist, author, ghId, repo, items) {
   const data = {};
 
   for await (const response of github.listReleases(ghId, repo)) {
@@ -136,7 +136,7 @@ async function appendGitHubReleases(dist, owner, ghId, repo, items) {
             data[key] = {
               filename: item.filename,
               name: item.name,
-              author: owner,
+              author: author,
               version: release.tag_name,
               build: "",
               url: release.html_url,

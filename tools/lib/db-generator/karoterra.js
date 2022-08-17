@@ -1,40 +1,6 @@
-import path from "path";
-import fs from "fs";
-
-import misc from "../misc.js";
-import github from "../github.js";
-import githubrepo from "../githubrepo.js";
+import GhReleases from "../gh_releases.js";
 
 const GITHUB_ID = "karoterra";
-
-async function appendGitHubReleases(dist, repo, file, name) {
-  const assetNameRe = new RegExp(`^${repo}_.*\\.zip$`);
-  for await (const response of github.listReleases(GITHUB_ID, repo)) {
-    for (const release of response.data) {
-      for (const asset of release.assets) {
-        if (assetNameRe.test(asset.name)) {
-          const assetPath = path.join("temp", GITHUB_ID, repo, asset.name);
-          if (!fs.existsSync(assetPath)) {
-            await misc.downloadFile(asset.browser_download_url, assetPath);
-          }
-
-          const zipSha256 = await misc.calcZipSha256(assetPath, [file]);
-          if (file in zipSha256) {
-            dist.push({
-              filename: file,
-              name,
-              author: GITHUB_ID,
-              version: release.tag_name,
-              build: "",
-              url: release.html_url,
-              sha256: zipSha256[file],
-            });
-          }
-        }
-      }
-    }
-  }
-}
 
 export default async () => {
   const dist = [];
@@ -47,10 +13,10 @@ export default async () => {
     ],
   ];
 
-  const ghR = new githubrepo.GithubReleases("karoterra", "かろてら");
+  const ghR = new GhReleases("karoterra", "かろてら");
 
-  for (let i = 0; i < arr.length; i++) {
-    dist.push(...(await ghR.appendGitHubReleases(arr[i][0], arr[i][1])));
+  for (const elem of arr) {
+    ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
   }
 
   const CONFIRMCLOSE_FILE = "auls_confirmclose.auf";
