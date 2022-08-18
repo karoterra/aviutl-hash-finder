@@ -95,10 +95,10 @@ async function calc7zSha256(archive, filenames) {
   return await calcDirSha256(output, filenames);
 }
 
-async function appendGitHubReleases(dist, owner, repo, items) {
+async function appendGitHubReleases(dist, author, ghId, repo, items) {
   const data = {};
 
-  for await (const response of github.listReleases(owner, repo)) {
+  for await (const response of github.listReleases(ghId, repo)) {
     for (const release of response.data) {
       for (const asset of release.assets) {
         const assetExt = path.extname(asset.name).toLowerCase();
@@ -108,7 +108,7 @@ async function appendGitHubReleases(dist, owner, repo, items) {
 
         const assetPath = path.join(
           "temp",
-          owner,
+          ghId,
           repo,
           release.tag_name,
           asset.name
@@ -131,11 +131,12 @@ async function appendGitHubReleases(dist, owner, repo, items) {
         }
         for (const item of items) {
           if (item.filename in hash) {
+            //console.log(release.tag_name);
             const key = hash[item.filename] + item.filename;
             data[key] = {
               filename: item.filename,
               name: item.name,
-              author: owner,
+              author: author,
               version: release.tag_name,
               build: "",
               url: release.html_url,

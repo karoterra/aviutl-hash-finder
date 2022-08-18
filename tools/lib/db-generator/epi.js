@@ -99,7 +99,7 @@ export default async () => {
   });
 
   // patch.aul
-  await misc.appendGitHubReleases(dist, "ePi5131", "patch.aul", [
+  await misc.appendGitHubReleases(dist, "ePi5131", "ePi5131", "patch.aul", [
     { filename: "patch.aul", name: "patch.aul" },
   ]);
 

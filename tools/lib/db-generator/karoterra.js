@@ -1,56 +1,23 @@
-import path from "path";
-import fs from "fs";
+import GitHubReleases from "../gh-releases.js";
 
-import misc from "../misc.js";
-import github from "../github.js";
-
-const GITHUB_ID = "karoterra";
-
-async function appendGitHubReleases(dist, repo, file, name) {
-  const assetNameRe = new RegExp(`^${repo}_.*\\.zip$`);
-  for await (const response of github.listReleases(GITHUB_ID, repo)) {
-    for (const release of response.data) {
-      for (const asset of release.assets) {
-        if (assetNameRe.test(asset.name)) {
-          const assetPath = path.join("temp", GITHUB_ID, repo, asset.name);
-          if (!fs.existsSync(assetPath)) {
-            await misc.downloadFile(asset.browser_download_url, assetPath);
-          }
-
-          const zipSha256 = await misc.calcZipSha256(assetPath, [file]);
-          if (file in zipSha256) {
-            dist.push({
-              filename: file,
-              name,
-              author: GITHUB_ID,
-              version: release.tag_name,
-              build: "",
-              url: release.html_url,
-              sha256: zipSha256[file],
-            });
-          }
-        }
-      }
-    }
-  }
-}
+const AUTHOR = "かろてら";
 
 export default async () => {
   const dist = [];
 
-  await appendGitHubReleases(
-    dist,
-    "aviutl_ShowLimit",
-    "ShowLimit.auf",
-    "上限確認"
-  );
+  const arr = [
+    ["aviutl_ShowLimit", [{ filename: "ShowLimit.auf", name: "上限確認" }]],
+    [
+      "aviutl_WaveformPreview",
+      [{ filename: "WaveformPreview.auf", name: "波形プレビュー" }],
+    ],
+  ];
 
-  await appendGitHubReleases(
-    dist,
-    "aviutl_WaveformPreview",
-    "WaveformPreview.auf",
-    "波形プレビュー"
-  );
+  const ghR = new GitHubReleases("karoterra", "かろてら");
+
+  for (const elem of arr) {
+    await ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
+  }
 
   const CONFIRMCLOSE_FILE = "auls_confirmclose.auf";
   const CONFIRMCLOSE_NAME = "Auls上限確認";
@@ -60,7 +27,7 @@ export default async () => {
     {
       filename: CONFIRMCLOSE_FILE,
       name: CONFIRMCLOSE_NAME,
-      author: GITHUB_ID,
+      author: AUTHOR,
       version: "v1.2",
       build: "",
       url: CONFIRMCLOSE_URL,
@@ -70,7 +37,7 @@ export default async () => {
     {
       filename: CONFIRMCLOSE_FILE,
       name: CONFIRMCLOSE_NAME,
-      author: GITHUB_ID,
+      author: AUTHOR,
       version: "v1.1",
       build: "",
       url: CONFIRMCLOSE_URL,

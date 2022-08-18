@@ -1,45 +1,54 @@
-import misc from "../misc.js";
+import GitHubReleases from "../gh-releases.js";
 
 const AUTHOR = "oov";
 
 export default async () => {
   const dist = [];
 
-  await misc.appendGitHubReleases(dist, AUTHOR, "aviutl_psdtoolkit", [
-    { filename: "PSDToolKit.auf", name: "PSDToolKit" },
-    { filename: "PSDToolKitBridge.dll", name: "PSDToolKit" },
-  ]);
+  const ghR = new GitHubReleases("oov", "oov");
 
-  await misc.appendGitHubReleases(dist, AUTHOR, "aviutl_audiomixer", [
-    { filename: "AudioMixer.auf", name: "AudioMixer" },
-  ]);
+  const arr = [
+    [
+      "aviutl_psdtoolkit",
+      [
+        { filename: "PSDToolKit.auf", name: "PSDToolKit" },
+        { filename: "PSDToolKitBridge.dll", name: "PSDToolKit" },
+      ],
+    ],
+    ["aviutl_audiomixer", [{ filename: "AudioMixer.auf", name: "AudioMixer" }]],
+    [
+      "aviutl_gcmzdrops",
+      [{ filename: "GCMZDrops.auf", name: "ごちゃまぜドロップス" }],
+    ],
+    [
+      "aviutl_textassist",
+      [{ filename: "textassist.auf", name: "テキスト編集補助プラグイン" }],
+    ],
+    [
+      "aviutl_bridge",
+      [
+        { filename: "bridge.dll", name: "bridge.dll" },
+        { filename: "bridge.auf", name: "bridge.dll" },
+      ],
+    ],
+    [
+      "aviutl_rampreview",
+      [
+        { filename: "ZRamPreview.auf", name: "拡張編集RAMプレビュー" },
+        { filename: "ZRamPreview.auo", name: "拡張編集RAMプレビュー" },
+        { filename: "Extram.dll", name: "拡張編集RAMプレビュー Extram" },
+      ],
+    ],
+    [
+      "aviutl_relmoviehandle",
+      [{ filename: "RelMovieHandle.auf", name: "動画ハンドル開放" }],
+    ],
+    ["aviutl_prima", [{ filename: "prima.aui", name: "PRIMA File Reader" }]],
+  ];
 
-  await misc.appendGitHubReleases(dist, AUTHOR, "aviutl_gcmzdrops", [
-    { filename: "GCMZDrops.auf", name: "ごちゃまぜドロップス" },
-  ]);
-
-  await misc.appendGitHubReleases(dist, AUTHOR, "aviutl_textassist", [
-    { filename: "textassist.auf", name: "テキスト編集補助プラグイン" },
-  ]);
-
-  await misc.appendGitHubReleases(dist, AUTHOR, "aviutl_bridge", [
-    { filename: "bridge.dll", name: "bridge.dll" },
-    { filename: "bridge.auf", name: "bridge.dll" },
-  ]);
-
-  await misc.appendGitHubReleases(dist, AUTHOR, "aviutl_rampreview", [
-    { filename: "ZRamPreview.auf", name: "拡張編集RAMプレビュー" },
-    { filename: "ZRamPreview.auo", name: "拡張編集RAMプレビュー" },
-    { filename: "Extram.dll", name: "拡張編集RAMプレビュー Extram" },
-  ]);
-
-  await misc.appendGitHubReleases(dist, AUTHOR, "aviutl_relmoviehandle", [
-    { filename: "RelMovieHandle.auf", name: "動画ハンドル開放" },
-  ]);
-
-  await misc.appendGitHubReleases(dist, AUTHOR, "aviutl_prima", [
-    { filename: "prima.aui", name: "PRIMA File Reader" },
-  ]);
+  for (const elem of arr) {
+    await ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));
+  }
 
   dist.push({
     filename: "loudness.auf",
