@@ -1,4 +1,4 @@
-import GhReleases from "../gh_releases.js";
+import GitHubReleases from "../gh-releases.js";
 
 const AUTHOR = "かろてら";
 
@@ -13,7 +13,7 @@ export default async () => {
     ],
   ];
 
-  const ghR = new GhReleases("karoterra", "かろてら");
+  const ghR = new GitHubReleases("karoterra", "かろてら");
 
   for (const elem of arr) {
     await ghR.get(elem[0], elem[1]).then((x) => dist.push(...x));

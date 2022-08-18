@@ -1,9 +1,9 @@
-import GhReleases from "../gh_releases.js";
+import GitHubReleases from "../gh-releases.js";
 
 export default async () => {
   const dist = [];
 
-  const ghR = new GhReleases("hebiiro", "蛇色");
+  const ghR = new GitHubReleases("hebiiro", "蛇色");
 
   const arr = [
     [

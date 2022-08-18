@@ -1,6 +1,6 @@
 import misc from "./misc.js";
 
-class GhReleases {
+class GitHubReleases {
   constructor(ghId, author) {
     this.ghId = ghId;
     this.author = author;
@@ -13,4 +13,4 @@ class GhReleases {
   }
 }
 
-export default GhReleases;
+export default GitHubReleases;

@@ -1,11 +1,11 @@
-import GhReleases from "../gh_releases.js";
+import GitHubReleases from "../gh-releases.js";
 
 const AUTHOR = "oov";
 
 export default async () => {
   const dist = [];
 
-  const ghR = new GhReleases("oov", "oov");
+  const ghR = new GitHubReleases("oov", "oov");
 
   const arr = [
     [
