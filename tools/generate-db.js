@@ -11,6 +11,7 @@ import hebiiro from "./lib/db-generator/hebiiro.js";
 import karoterra from "./lib/db-generator/karoterra.js";
 import khsk from "./lib/db-generator/khsk.js";
 import lsmash from "./lib/db-generator/lsmash.js";
+import maverickTse from "./lib/db-generator/maverick-tse.js";
 import mtripg6666tdr from "./lib/db-generator/mtripg6666tdr.js";
 import oov from "./lib/db-generator/oov.js";
 
@@ -36,6 +37,8 @@ async function main() {
   data.push(...(await khsk()));
   console.log("-- L-SMASH --");
   data.push(...(await lsmash()));
+  console.log("-- Maverick Tse --");
+  data.push(...(await maverickTse()));
   console.log("-- mtripg6666tdr --");
   data.push(...(await mtripg6666tdr()));
   console.log("-- oov --");
