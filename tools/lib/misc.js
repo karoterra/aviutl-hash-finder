@@ -1,6 +1,6 @@
 import crypto from "crypto";
 import path from "path";
-import fs from "fs";
+import fs, { createReadStream } from "fs";
 import unzipper from "unzipper";
 import Seven from "node-7z";
 import fetch from "node-fetch";
@@ -102,10 +102,6 @@ async function appendGitHubReleases(dist, author, ghId, repo, items) {
     for (const release of response.data) {
       for (const asset of release.assets) {
         const assetExt = path.extname(asset.name).toLowerCase();
-        if (![".zip", ".7z"].includes(assetExt)) {
-          continue;
-        }
-
         const assetPath = path.join(
           "temp",
           ghId,
@@ -118,7 +114,9 @@ async function appendGitHubReleases(dist, author, ghId, repo, items) {
         }
 
         let hash = {};
-        if (assetExt === ".zip") {
+        if (items.some((x) => x.filename === asset.name)) {
+          hash[asset.name] = await calcSha256(createReadStream(assetPath));
+        } else if (assetExt === ".zip") {
           hash = await calcZipSha256(
             assetPath,
             items.map((item) => item.filename)
@@ -131,7 +129,6 @@ async function appendGitHubReleases(dist, author, ghId, repo, items) {
         }
         for (const item of items) {
           if (item.filename in hash) {
-            //console.log(release.tag_name);
             const key = hash[item.filename] + item.filename;
             data[key] = {
               filename: item.filename,
