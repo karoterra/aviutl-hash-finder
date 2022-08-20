@@ -15,7 +15,11 @@ import lsmash from "./lib/db-generator/lsmash.js";
 import maverickTse from "./lib/db-generator/maverick-tse.js";
 import mrOjii from "./lib/db-generator/mr-ojii.js";
 import mtripg6666tdr from "./lib/db-generator/mtripg6666tdr.js";
+import n099 from "./lib/db-generator/n099.js";
+import nazonoSauna from "./lib/db-generator/nazono-sauna.js";
 import oov from "./lib/db-generator/oov.js";
+import ritchan from "./lib/db-generator/ritchan.js";
+import yanagi from "./lib/db-generator/yanagi.js";
 
 async function runGenerators(dist, generators) {
   const keys = Object.keys(generators).sort();
@@ -43,7 +47,11 @@ async function main() {
     maverickTse,
     mrOjii,
     mtripg6666tdr,
+    n099,
+    nazonoSauna,
     oov,
+    ritchan,
+    yanagi,
   });
 
   console.log("writing...");
