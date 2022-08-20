@@ -6,9 +6,16 @@ class GitHubReleases {
     this.author = author;
   }
 
-  async get(repo, items) {
+  async get(repo, items, opt) {
     const dist = [];
-    await misc.appendGitHubReleases(dist, this.author, this.ghId, repo, items);
+    await misc.appendGitHubReleases(
+      dist,
+      this.author,
+      this.ghId,
+      repo,
+      items,
+      opt
+    );
     return dist;
   }
 }

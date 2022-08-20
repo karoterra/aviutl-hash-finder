@@ -10,36 +10,49 @@ import epi from "./lib/db-generator/epi.js";
 import hebiiro from "./lib/db-generator/hebiiro.js";
 import karoterra from "./lib/db-generator/karoterra.js";
 import khsk from "./lib/db-generator/khsk.js";
+import kumrnm from "./lib/db-generator/kumrnm.js";
 import lsmash from "./lib/db-generator/lsmash.js";
+import maverickTse from "./lib/db-generator/maverick-tse.js";
+import mrOjii from "./lib/db-generator/mr-ojii.js";
 import mtripg6666tdr from "./lib/db-generator/mtripg6666tdr.js";
+import n099 from "./lib/db-generator/n099.js";
+import nazonoSauna from "./lib/db-generator/nazono-sauna.js";
 import oov from "./lib/db-generator/oov.js";
+import ritchan from "./lib/db-generator/ritchan.js";
+import yanagi from "./lib/db-generator/yanagi.js";
+
+async function runGenerators(dist, generators) {
+  const keys = Object.keys(generators).sort();
+  for (const key of keys) {
+    console.log(`-- ${key} --`);
+    await generators[key]().then((x) => dist.push(...x));
+  }
+}
 
 async function main() {
-  console.log("-- aviutl --");
-  const data = await aviutl();
+  const data = [];
+  await runGenerators(data, { aviutl });
 
-  console.log("-- amate --");
-  data.push(...(await amate()));
-  console.log("-- aoytsk --");
-  data.push(...(await aoytsk()));
-  console.log("-- auls --");
-  data.push(...(await auls()));
-  console.log("-- aviutl lab --");
-  data.push(...(await aviutllab()));
-  console.log("-- ePi --");
-  data.push(...(await epi()));
-  console.log("-- hebiiro --");
-  data.push(...(await hebiiro()));
-  console.log("-- karoterra --");
-  data.push(...(await karoterra()));
-  console.log("-- khsk --");
-  data.push(...(await khsk()));
-  console.log("-- L-SMASH --");
-  data.push(...(await lsmash()));
-  console.log("-- mtripg6666tdr --");
-  data.push(...(await mtripg6666tdr()));
-  console.log("-- oov --");
-  data.push(...(await oov()));
+  await runGenerators(data, {
+    amate,
+    aoytsk,
+    auls,
+    aviutllab,
+    epi,
+    hebiiro,
+    karoterra,
+    khsk,
+    kumrnm,
+    lsmash,
+    maverickTse,
+    mrOjii,
+    mtripg6666tdr,
+    n099,
+    nazonoSauna,
+    oov,
+    ritchan,
+    yanagi,
+  });
 
   console.log("writing...");
   fs.writeFileSync("./src/assets/db.json", JSON.stringify(data, null, 2));
