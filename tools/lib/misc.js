@@ -95,9 +95,14 @@ async function calc7zSha256(archive, filenames) {
   return await calcDirSha256(output, filenames);
 }
 
-async function appendGitHubReleases(dist, author, ghId, repo, items) {
-  const data = {};
+async function appendGitHubReleases(dist, author, ghId, repo, items, opt = {}) {
+  const defaultOpt = {
+    versionNamer: (data) => data.release.tag_name,
+    buildNamer: () => "",
+  };
+  opt = Object.assign(defaultOpt, opt);
 
+  const data = {};
   for await (const response of github.listReleases(ghId, repo)) {
     for (const release of response.data) {
       for (const asset of release.assets) {
@@ -130,12 +135,18 @@ async function appendGitHubReleases(dist, author, ghId, repo, items) {
         for (const item of items) {
           if (item.filename in hash) {
             const key = hash[item.filename] + item.filename;
+            const namerData = {
+              response,
+              release,
+              asset,
+              item,
+            };
             data[key] = {
               filename: item.filename,
               name: item.name,
               author: author,
-              version: release.tag_name,
-              build: "",
+              version: opt.versionNamer(namerData),
+              build: opt.buildNamer(namerData),
               url: release.html_url,
               sha256: hash[item.filename],
             };
