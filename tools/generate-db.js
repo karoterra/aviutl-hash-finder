@@ -16,36 +16,33 @@ import maverickTse from "./lib/db-generator/maverick-tse.js";
 import mtripg6666tdr from "./lib/db-generator/mtripg6666tdr.js";
 import oov from "./lib/db-generator/oov.js";
 
-async function main() {
-  console.log("-- aviutl --");
-  const data = await aviutl();
+async function runGenerators(dist, generators) {
+  const keys = Object.keys(generators).sort();
+  for (const key of keys) {
+    console.log(`-- ${key} --`);
+    await generators[key]().then((x) => dist.push(...x));
+  }
+}
 
-  console.log("-- amate --");
-  data.push(...(await amate()));
-  console.log("-- aoytsk --");
-  data.push(...(await aoytsk()));
-  console.log("-- auls --");
-  data.push(...(await auls()));
-  console.log("-- aviutl lab --");
-  data.push(...(await aviutllab()));
-  console.log("-- ePi --");
-  data.push(...(await epi()));
-  console.log("-- hebiiro --");
-  data.push(...(await hebiiro()));
-  console.log("-- karoterra --");
-  data.push(...(await karoterra()));
-  console.log("-- khsk --");
-  data.push(...(await khsk()));
-  console.log("-- kumrnm --");
-  data.push(...(await kumrnm()));
-  console.log("-- L-SMASH --");
-  data.push(...(await lsmash()));
-  console.log("-- Maverick Tse --");
-  data.push(...(await maverickTse()));
-  console.log("-- mtripg6666tdr --");
-  data.push(...(await mtripg6666tdr()));
-  console.log("-- oov --");
-  data.push(...(await oov()));
+async function main() {
+  const data = [];
+  await runGenerators(data, { aviutl });
+
+  await runGenerators(data, {
+    amate,
+    aoytsk,
+    auls,
+    aviutllab,
+    epi,
+    hebiiro,
+    karoterra,
+    khsk,
+    kumrnm,
+    lsmash,
+    maverickTse,
+    mtripg6666tdr,
+    oov,
+  });
 
   console.log("writing...");
   fs.writeFileSync("./src/assets/db.json", JSON.stringify(data, null, 2));
