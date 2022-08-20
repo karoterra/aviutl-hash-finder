@@ -1524,15 +1524,6 @@
     "filename": "PropertyWindowFixerPlugin.auf",
     "name": "設定ダイアログ画面サイズ固定化プラグイン",
     "author": "amate",
-    "version": "v1.2",
-    "build": "",
-    "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v1.2",
-    "sha256": "B11B5094BFEDB2376FD3615698814E8F8D4B8203C3417D3997E139E75CFDFE6E"
-  },
-  {
-    "filename": "PropertyWindowFixerPlugin.auf",
-    "name": "設定ダイアログ画面サイズ固定化プラグイン",
-    "author": "amate",
     "version": "v1.1",
     "build": "",
     "url": "https://github.com/amate/PropertyWindowFixerPlugin/releases/tag/v1.1",
@@ -2558,7 +2549,7 @@
   {
     "filename": "AddColorCode.auf",
     "name": "カラーコード追加",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AddColorCode/releases/tag/1.1.0",
@@ -2567,7 +2558,7 @@
   {
     "filename": "AddColorCode.auf",
     "name": "カラーコード追加",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AddColorCode/releases/tag/1.0.0",
@@ -2576,7 +2567,7 @@
   {
     "filename": "AdjustDialogPosition.auf",
     "name": "ダイアログ位置調整",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustDialogPosition/releases/tag/1.0.1",
@@ -2585,7 +2576,7 @@
   {
     "filename": "AdjustDialogPosition.auf",
     "name": "ダイアログ位置調整",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustDialogPosition/releases/tag/1.0.0",
@@ -2594,7 +2585,7 @@
   {
     "filename": "AdjustLastFrame.auf",
     "name": "最終フレーム自動調整",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.2.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.2.1",
@@ -2603,7 +2594,7 @@
   {
     "filename": "AdjustLastFrame.auf",
     "name": "最終フレーム自動調整",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.2.0",
@@ -2612,7 +2603,7 @@
   {
     "filename": "AdjustLastFrame.auf",
     "name": "最終フレーム自動調整",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.0.1",
@@ -2621,7 +2612,7 @@
   {
     "filename": "AdjustLastFrame.auf",
     "name": "最終フレーム自動調整",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.0.0",
@@ -2630,7 +2621,7 @@
   {
     "filename": "AdjustLastFrame.auf",
     "name": "最終フレーム自動調整",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/2.1.0",
@@ -2639,7 +2630,7 @@
   {
     "filename": "AdjustLastFrame.auf",
     "name": "最終フレーム自動調整",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.3",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-AdjustLastFrame/releases/tag/1.0.3",
@@ -2648,7 +2639,7 @@
   {
     "filename": "BigDialog.aul",
     "name": "ダイアログ巨大化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "BigDialog.3.0.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-BigDialog/releases/tag/BigDialog.3.0.0.src",
@@ -2657,7 +2648,7 @@
   {
     "filename": "BigDialog.aul",
     "name": "ダイアログ巨大化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-BigDialog/releases/tag/2.0.0",
@@ -2666,7 +2657,7 @@
   {
     "filename": "BigDialog.aul",
     "name": "ダイアログ巨大化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-BigDialog/releases/tag/1.0.0",
@@ -2675,7 +2666,7 @@
   {
     "filename": "BuildStairs.auf",
     "name": "アイテムずらし",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/2.0.0",
@@ -2684,7 +2675,7 @@
   {
     "filename": "BuildStairs.auf",
     "name": "アイテムずらし",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/1.1.0",
@@ -2693,7 +2684,7 @@
   {
     "filename": "BuildStairs.auf",
     "name": "アイテムずらし",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/1.0.2",
@@ -2702,7 +2693,7 @@
   {
     "filename": "BuildStairs.auf",
     "name": "アイテムずらし",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/1.0.1",
@@ -2711,7 +2702,7 @@
   {
     "filename": "BuildStairs.auf",
     "name": "アイテムずらし",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-BuildStairs/releases/tag/1.0.0",
@@ -2720,7 +2711,7 @@
   {
     "filename": "CopyFilter.auf",
     "name": "フィルタのコピペ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "CopyFilter.1.0.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-CopyFilter/releases/tag/CopyFilter.1.0.0.src",
@@ -2729,7 +2720,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "7.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/7.1.0",
@@ -2738,7 +2729,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "7.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/7.0.0",
@@ -2747,7 +2738,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.9.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.9.0",
@@ -2756,7 +2747,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.8.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.8.0",
@@ -2765,7 +2756,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.7.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.7.0",
@@ -2774,7 +2765,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.6.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.6.0",
@@ -2783,7 +2774,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.5.7",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.7",
@@ -2792,7 +2783,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.5.6",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.6",
@@ -2801,7 +2792,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.5.5",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.5",
@@ -2810,7 +2801,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.5.4",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.4",
@@ -2819,7 +2810,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.5.3",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.3",
@@ -2828,7 +2819,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.5.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.2",
@@ -2837,7 +2828,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.5.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.5.0",
@@ -2846,7 +2837,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.4.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.4.0",
@@ -2855,7 +2846,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.3.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.3.0",
@@ -2864,7 +2855,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.2.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.2.2",
@@ -2873,7 +2864,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.2.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.2.1",
@@ -2882,7 +2873,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.2.0",
@@ -2891,7 +2882,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.1.3",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.1.3",
@@ -2900,7 +2891,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.1.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.1.2",
@@ -2909,7 +2900,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.1.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.1.1",
@@ -2918,7 +2909,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.1.0",
@@ -2927,7 +2918,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/6.0.0",
@@ -2936,7 +2927,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.4.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.4.2",
@@ -2945,7 +2936,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.4.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.4.1",
@@ -2954,7 +2945,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.3.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.3.0",
@@ -2963,7 +2954,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.2.0",
@@ -2972,7 +2963,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.1.0",
@@ -2981,7 +2972,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/5.0.0",
@@ -2990,7 +2981,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "DarkenWindow.4.2.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/DarkenWindow.4.2.0.src",
@@ -2999,7 +2990,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "DarkenWindow.4.1.1.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/DarkenWindow.4.1.1.src",
@@ -3008,7 +2999,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "DarkenWindow.4.1.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/DarkenWindow.4.1.0.src",
@@ -3017,7 +3008,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "DarkenWindow.4.0.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/DarkenWindow.4.0.0.src",
@@ -3026,7 +3017,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.2.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/3.2.1",
@@ -3035,7 +3026,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/3.2.0",
@@ -3044,7 +3035,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/3.1.0",
@@ -3053,7 +3044,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/3.0.0",
@@ -3062,7 +3053,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.4",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.4",
@@ -3071,7 +3062,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.3",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.3",
@@ -3080,7 +3071,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.2",
@@ -3089,7 +3080,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.1",
@@ -3098,7 +3089,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/2.0.0",
@@ -3107,7 +3098,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.4",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.4",
@@ -3116,7 +3107,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.3",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.3",
@@ -3125,7 +3116,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.2",
@@ -3134,7 +3125,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.1",
@@ -3143,7 +3134,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.1.0",
@@ -3152,7 +3143,7 @@
   {
     "filename": "DarkenWindow.aul",
     "name": "黒窓",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DarkenWindow/releases/tag/1.0.0",
@@ -3161,7 +3152,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "9.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/9.1.0",
@@ -3170,7 +3161,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "9.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/9.0.0",
@@ -3179,7 +3170,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "8.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/8.0.0",
@@ -3188,7 +3179,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "7.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/7.0.1",
@@ -3197,7 +3188,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "7.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/7.0.0",
@@ -3206,7 +3197,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/6.0.0",
@@ -3215,7 +3206,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.0.5",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.5",
@@ -3224,7 +3215,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.0.4",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.4",
@@ -3233,7 +3224,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.0.3",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.3",
@@ -3242,7 +3233,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.0.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.2",
@@ -3251,7 +3242,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.1",
@@ -3260,7 +3251,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/5.0.0",
@@ -3269,7 +3260,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "4.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/4.0.1",
@@ -3278,7 +3269,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "4.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/4.0.0",
@@ -3287,7 +3278,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/3.0.0",
@@ -3296,7 +3287,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/2.0.0",
@@ -3305,7 +3296,7 @@
   {
     "filename": "DragFilter.auf",
     "name": "フィルタドラッグ移動",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-DragFilter/releases/tag/1.0.0",
@@ -3314,7 +3305,7 @@
   {
     "filename": "LevelMeter.auf",
     "name": "レベルメーター",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.3.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-LevelMeter/releases/tag/1.3.0",
@@ -3323,7 +3314,7 @@
   {
     "filename": "LevelMeter.auf",
     "name": "レベルメーター",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-LevelMeter/releases/tag/1.2.0",
@@ -3332,7 +3323,7 @@
   {
     "filename": "LevelMeter.auf",
     "name": "レベルメーター",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-LevelMeter/releases/tag/1.1.0",
@@ -3341,7 +3332,7 @@
   {
     "filename": "LevelMeter.auf",
     "name": "レベルメーター",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-LevelMeter/releases/tag/1.0.0",
@@ -3350,7 +3341,7 @@
   {
     "filename": "ManyView.auf",
     "name": "複数ビューア",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ManyView/releases/tag/1.0.1",
@@ -3359,7 +3350,7 @@
   {
     "filename": "ManyView.auf",
     "name": "複数ビューア",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ManyView/releases/tag/1.0.0",
@@ -3368,7 +3359,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/3.2.0",
@@ -3377,7 +3368,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/3.1.0",
@@ -3386,7 +3377,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/3.0.1",
@@ -3395,7 +3386,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/3.0.0",
@@ -3404,7 +3395,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/2.2.0",
@@ -3413,7 +3404,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/2.1.0",
@@ -3422,7 +3413,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "ObjectExplorer.2.0.2.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/ObjectExplorer.2.0.2.src",
@@ -3431,7 +3422,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "ObjectExplorer.2.0.1.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/ObjectExplorer.2.0.1.src",
@@ -3440,7 +3431,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "ObjectExplorer.2.0.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/ObjectExplorer.2.0.0.src",
@@ -3449,7 +3440,7 @@
   {
     "filename": "ObjectExplorer.auf",
     "name": "オブジェクトエクスプローラ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ObjectExplorer/releases/tag/1.0.0",
@@ -3458,7 +3449,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "7.1.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/7.1.1",
@@ -3467,7 +3458,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "7.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/7.1.0",
@@ -3476,7 +3467,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "7.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/7.0.1",
@@ -3485,7 +3476,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "7.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/7.0.0",
@@ -3494,7 +3485,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/6.1.0",
@@ -3503,7 +3494,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/6.0.0",
@@ -3512,7 +3503,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/5.0.0",
@@ -3521,7 +3512,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "4.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/4.0.0",
@@ -3530,7 +3521,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/3.0.0",
@@ -3539,7 +3530,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.1.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/2.1.1",
@@ -3548,7 +3539,7 @@
   {
     "filename": "OptimizeEditBox.auf",
     "name": "エディットボックス最適化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-OptimizeEditBox/releases/tag/2.1.0",
@@ -3557,7 +3548,7 @@
   {
     "filename": "script_sort_patch.auf",
     "name": "スクリプト並び替えパッチ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-script_sort_patch/releases/tag/2.0.0",
@@ -3566,7 +3557,7 @@
   {
     "filename": "script_sort_patch.auf",
     "name": "スクリプト並び替えパッチ",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-script_sort_patch/releases/tag/1.0.0",
@@ -3575,7 +3566,7 @@
   {
     "filename": "SelectAliasFolder.auf",
     "name": "エイリアスフォルダ選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectAliasFolder/releases/tag/1.0.0",
@@ -3584,7 +3575,7 @@
   {
     "filename": "SelectEasing.auf",
     "name": "イージング簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "4.5.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.5.0",
@@ -3593,7 +3584,7 @@
   {
     "filename": "SelectEasing.auf",
     "name": "イージング簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "4.4.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.4.0",
@@ -3602,7 +3593,7 @@
   {
     "filename": "SelectEasing.auf",
     "name": "イージング簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "4.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.2.0",
@@ -3611,7 +3602,7 @@
   {
     "filename": "SelectEasing.auf",
     "name": "イージング簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "4.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.1.0",
@@ -3620,7 +3611,7 @@
   {
     "filename": "SelectEasing.auf",
     "name": "イージング簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "4.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/4.0.0",
@@ -3629,7 +3620,7 @@
   {
     "filename": "SelectEasing.auf",
     "name": "イージング簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/3.0.0",
@@ -3638,7 +3629,7 @@
   {
     "filename": "SelectEasing.auf",
     "name": "イージング簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/2.0.0",
@@ -3647,7 +3638,7 @@
   {
     "filename": "SelectEasing.auf",
     "name": "イージング簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/1.1.0",
@@ -3656,7 +3647,7 @@
   {
     "filename": "SelectEasing.auf",
     "name": "イージング簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectEasing/releases/tag/1.0.0",
@@ -3665,7 +3656,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.0.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/6.0.2",
@@ -3674,7 +3665,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/6.0.1",
@@ -3683,7 +3674,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "6.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/6.0.0",
@@ -3692,7 +3683,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.2.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.2.1",
@@ -3701,7 +3692,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.2.0",
@@ -3710,7 +3701,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.1.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.1.2",
@@ -3719,7 +3710,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.1.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.1.1",
@@ -3728,7 +3719,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.1.0",
@@ -3737,7 +3728,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "5.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/5.0.0",
@@ -3746,7 +3737,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "4.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/4.0.0",
@@ -3755,7 +3746,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/3.0.0",
@@ -3764,7 +3755,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/2.0.0",
@@ -3773,7 +3764,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/1.1.0",
@@ -3782,7 +3773,7 @@
   {
     "filename": "SelectFavoriteFont.auf",
     "name": "お気に入りフォント選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectFavoriteFont/releases/tag/1.0.0",
@@ -3791,7 +3782,7 @@
   {
     "filename": "SelectScene.auf",
     "name": "シーン簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectScene/releases/tag/2.0.0",
@@ -3800,7 +3791,7 @@
   {
     "filename": "SelectScene.auf",
     "name": "シーン簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectScene/releases/tag/1.1.0",
@@ -3809,7 +3800,7 @@
   {
     "filename": "SelectScene.auf",
     "name": "シーン簡単選択",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SelectScene/releases/tag/1.0.0",
@@ -3818,7 +3809,7 @@
   {
     "filename": "SetZoom.auf",
     "name": "ズーム変更",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SetZoom/releases/tag/1.0.0",
@@ -3827,7 +3818,7 @@
   {
     "filename": "ShowWaveform.auf",
     "name": "アイテム内音声波形",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.3.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/2.3.0",
@@ -3836,7 +3827,7 @@
   {
     "filename": "ShowWaveform.auf",
     "name": "アイテム内音声波形",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/2.2.0",
@@ -3845,7 +3836,7 @@
   {
     "filename": "ShowWaveform.auf",
     "name": "アイテム内音声波形",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/2.1.0",
@@ -3854,7 +3845,7 @@
   {
     "filename": "ShowWaveform.auf",
     "name": "アイテム内音声波形",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "ShowWaveform_2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/ShowWaveform_2.0.0",
@@ -3863,7 +3854,7 @@
   {
     "filename": "ShowWaveform.auf",
     "name": "アイテム内音声波形",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "ShowWaveform.1.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/ShowWaveform.1.0.1",
@@ -3872,7 +3863,7 @@
   {
     "filename": "ShowWaveform.auf",
     "name": "アイテム内音声波形",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform/releases/tag/1.0.0",
@@ -3881,7 +3872,7 @@
   {
     "filename": "SplitText.auf",
     "name": "テキスト分解",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.6.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.6.0",
@@ -3890,7 +3881,7 @@
   {
     "filename": "SplitText.auf",
     "name": "テキスト分解",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.5.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.5.0",
@@ -3899,7 +3890,7 @@
   {
     "filename": "SplitText.auf",
     "name": "テキスト分解",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.4.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.4.0",
@@ -3908,7 +3899,7 @@
   {
     "filename": "SplitText.auf",
     "name": "テキスト分解",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.3.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.3.0",
@@ -3917,7 +3908,7 @@
   {
     "filename": "SplitText.auf",
     "name": "テキスト分解",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.2.0",
@@ -3926,7 +3917,7 @@
   {
     "filename": "SplitText.auf",
     "name": "テキスト分解",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.0.1",
@@ -3935,7 +3926,7 @@
   {
     "filename": "SplitText.auf",
     "name": "テキスト分解",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitText/releases/tag/1.0.0",
@@ -3944,7 +3935,16 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
+    "version": "3.0.5",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/3.0.5",
+    "sha256": "4836E596FD0314A1BB6ECF2CF935C7B7CE098C1AD02B7B783B0FB8E0B2F33E9D"
+  },
+  {
+    "filename": "SplitWindow.aul",
+    "name": "SplitWindow",
+    "author": "蛇色",
     "version": "3.0.4",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/3.0.4",
@@ -3953,7 +3953,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.3",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/3.0.3",
@@ -3962,7 +3962,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/3.0.2",
@@ -3971,7 +3971,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/3.0.1",
@@ -3980,7 +3980,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/3.0.0",
@@ -3989,7 +3989,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/2.2.0",
@@ -3998,7 +3998,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/2.1.0",
@@ -4007,7 +4007,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/2.0.0",
@@ -4016,7 +4016,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.1.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.1.0",
@@ -4025,7 +4025,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.9",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.9",
@@ -4034,7 +4034,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.8",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.8",
@@ -4043,7 +4043,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.7",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.7",
@@ -4052,7 +4052,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.6",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.6",
@@ -4061,7 +4061,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.5",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.5",
@@ -4070,7 +4070,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.4",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.4",
@@ -4079,7 +4079,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.3",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.3",
@@ -4088,7 +4088,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.2",
@@ -4097,7 +4097,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.1",
@@ -4106,7 +4106,7 @@
   {
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/1.0.0",
@@ -4115,7 +4115,7 @@
   {
     "filename": "SwitchSettings.dll",
     "name": "設定切り替え",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SwitchSettings/releases/tag/1.0.1",
@@ -4124,7 +4124,7 @@
   {
     "filename": "SwitchSettings.dll",
     "name": "設定切り替え",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SwitchSettings/releases/tag/1.0.0",
@@ -4133,7 +4133,7 @@
   {
     "filename": "Toumei.auf",
     "name": "拡張編集透明化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "2.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-Toumei/releases/tag/2.0.0",
@@ -4142,7 +4142,7 @@
   {
     "filename": "Toumei.auf",
     "name": "拡張編集透明化",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "1.0.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-Toumei/releases/tag/1.0.0",
@@ -4151,7 +4151,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.5.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.5.0",
@@ -4160,7 +4160,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.4.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.4.0",
@@ -4169,7 +4169,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.3.1",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.3.1",
@@ -4178,7 +4178,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.3.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.3.0",
@@ -4187,7 +4187,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.5",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.0.5",
@@ -4196,7 +4196,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.4",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.0.4",
@@ -4205,7 +4205,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.3",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.0.3",
@@ -4214,7 +4214,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "3.0.2",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/3.0.2",
@@ -4223,7 +4223,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.3.0.1.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.3.0.1.src",
@@ -4232,7 +4232,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.3.0.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.3.0.0.src",
@@ -4241,7 +4241,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.2.0.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.2.0.0.src",
@@ -4250,7 +4250,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.1.6.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.6.src",
@@ -4259,7 +4259,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.1.5.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.5.src",
@@ -4268,7 +4268,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.1.4.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.4.src",
@@ -4277,7 +4277,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.1.3.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.3.src",
@@ -4286,7 +4286,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.1.2.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.2.src",
@@ -4295,7 +4295,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.1.1.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.1.src",
@@ -4304,7 +4304,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.1.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.1.0.src",
@@ -4313,7 +4313,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.0.7.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.7.src",
@@ -4322,7 +4322,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.0.6.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.6.src",
@@ -4331,7 +4331,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.0.5.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.5.src",
@@ -4340,7 +4340,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.0.4.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.4.src",
@@ -4349,7 +4349,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.0.3.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.3.src",
@@ -4358,7 +4358,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.0.2.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.2.src",
@@ -4367,7 +4367,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.0.1.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.1.src",
@@ -4376,7 +4376,7 @@
   {
     "filename": "UniteWindow.aul",
     "name": "UniteWindow",
-    "author": "hebiiro",
+    "author": "蛇色",
     "version": "UniteWindow.1.0.0.src",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-UniteWindow/releases/tag/UniteWindow.1.0.0.src",
@@ -4385,7 +4385,7 @@
   {
     "filename": "ShowLimit.auf",
     "name": "上限確認",
-    "author": "karoterra",
+    "author": "かろてら",
     "version": "v0.3.0",
     "build": "",
     "url": "https://github.com/karoterra/aviutl_ShowLimit/releases/tag/v0.3.0",
@@ -4394,7 +4394,7 @@
   {
     "filename": "ShowLimit.auf",
     "name": "上限確認",
-    "author": "karoterra",
+    "author": "かろてら",
     "version": "v0.2.1",
     "build": "",
     "url": "https://github.com/karoterra/aviutl_ShowLimit/releases/tag/v0.2.1",
@@ -4403,7 +4403,7 @@
   {
     "filename": "ShowLimit.auf",
     "name": "上限確認",
-    "author": "karoterra",
+    "author": "かろてら",
     "version": "v0.2.0",
     "build": "",
     "url": "https://github.com/karoterra/aviutl_ShowLimit/releases/tag/v0.2.0",
@@ -4412,7 +4412,7 @@
   {
     "filename": "ShowLimit.auf",
     "name": "上限確認",
-    "author": "karoterra",
+    "author": "かろてら",
     "version": "v0.1.0",
     "build": "",
     "url": "https://github.com/karoterra/aviutl_ShowLimit/releases/tag/v0.1.0",
@@ -4421,7 +4421,7 @@
   {
     "filename": "WaveformPreview.auf",
     "name": "波形プレビュー",
-    "author": "karoterra",
+    "author": "かろてら",
     "version": "v0.3.0",
     "build": "",
     "url": "https://github.com/karoterra/aviutl_WaveformPreview/releases/tag/v0.3.0",
@@ -4430,7 +4430,7 @@
   {
     "filename": "WaveformPreview.auf",
     "name": "波形プレビュー",
-    "author": "karoterra",
+    "author": "かろてら",
     "version": "v0.2.0",
     "build": "",
     "url": "https://github.com/karoterra/aviutl_WaveformPreview/releases/tag/v0.2.0",
@@ -4439,7 +4439,7 @@
   {
     "filename": "WaveformPreview.auf",
     "name": "波形プレビュー",
-    "author": "karoterra",
+    "author": "かろてら",
     "version": "v0.1.0",
     "build": "",
     "url": "https://github.com/karoterra/aviutl_WaveformPreview/releases/tag/v0.1.0",
@@ -4448,7 +4448,7 @@
   {
     "filename": "auls_confirmclose.auf",
     "name": "Auls上限確認",
-    "author": "karoterra",
+    "author": "かろてら",
     "version": "v1.2",
     "build": "",
     "url": "https://scrapbox.io/karoterra/%E6%94%B9%E5%A4%89%E7%89%88Auls%E7%B5%82%E4%BA%86%E7%A2%BA%E8%AA%8D",
@@ -4457,7 +4457,7 @@
   {
     "filename": "auls_confirmclose.auf",
     "name": "Auls上限確認",
-    "author": "karoterra",
+    "author": "かろてら",
     "version": "v1.1",
     "build": "",
     "url": "https://scrapbox.io/karoterra/%E6%94%B9%E5%A4%89%E7%89%88Auls%E7%B5%82%E4%BA%86%E7%A2%BA%E8%AA%8D",
@@ -4489,6 +4489,1131 @@
     "build": "",
     "url": "https://github.com/khsk/AviUtl-LocalFontPlugin/releases/tag/v1.0",
     "sha256": "8FC1A492A436E1CD5117F5C1B3E5B41BF438AFDDCD6F1D10E3AA4EEA03B4C3AE"
+  },
+  {
+    "filename": "authentic_grouping.auf",
+    "name": "真・グループ制御",
+    "author": "蝙蝠の目",
+    "version": "v1.1.0",
+    "build": "",
+    "url": "https://github.com/kumrnm/aviutl-authentic-grouping/releases/tag/v1.1.0",
+    "sha256": "8FE487FCA11178DE95CFA64C9BABE29B684AAB00FA5F89C35AD26EFF08147D77"
+  },
+  {
+    "filename": "authentic_grouping.auf",
+    "name": "真・グループ制御",
+    "author": "蝙蝠の目",
+    "version": "v1.0.0",
+    "build": "",
+    "url": "https://github.com/kumrnm/aviutl-authentic-grouping/releases/tag/v1.0.0",
+    "sha256": "8FFE4B4DFF572716C4FBC01180C72CCEE2A035611A351628FEBE8F624DC75D2A"
+  },
+  {
+    "filename": "easing_quick_setup.auf",
+    "name": "イージング設定時短プラグイン",
+    "author": "蝙蝠の目",
+    "version": "v1.0.1",
+    "build": "",
+    "url": "https://github.com/kumrnm/aviutl-easing-quick-setup/releases/tag/v1.0.1",
+    "sha256": "2F2874B5CBA46AAAE231084F4D451EA9E621694FD4EB85DA6C135412951F8C8F"
+  },
+  {
+    "filename": "easing_quick_setup.auf",
+    "name": "イージング設定時短プラグイン",
+    "author": "蝙蝠の目",
+    "version": "v1.0.0",
+    "build": "",
+    "url": "https://github.com/kumrnm/aviutl-easing-quick-setup/releases/tag/v1.0.0",
+    "sha256": "81BF29A88B51AA89F61BB8A8EDF5B23FA6444D9814A7A7AE7AB5725CDE81DE5C"
+  },
+  {
+    "filename": "AdvancedMouseOperation.auf",
+    "name": "マウスオペレーション改",
+    "author": "蝙蝠の目",
+    "version": "v1.0.0",
+    "build": "",
+    "url": "https://github.com/kumrnm/aviutl-advanced-mouse-operation/releases/tag/v1.0.0",
+    "sha256": "85E718C34265685A5C3EB05E4E3B5E53DBB7A5D4EF54BC7EB78C8A1D4E142727"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "D5349B1FD851CD23245EA1AE52B3BC18CDA7730DED6D8BAB9062D6059F8C1028"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "8E43787917D4E664EBF1942F9DC0DBAAA96E0E70FF192F0566D168C6D3A1FC8C"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "D3ADFCDD3B8078A81DCB80DD1799FCB8CB76B07CB27D2C96355EBD630873CFF3"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "651DFAA61542F6A62216CA7D9B8D67D40B2B26CA3E21EBFA8F76C0248479023F"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "CA859F7FEFF75688B0FCA946E2E3A685AD5B36746D05774E3B9EE8191193CE89"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "C89FB7BE519038101F2C7084C4451E7DA1EC6804630DD27B80DF418F4627C8FB"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "20B90FD53A3698A2DCFF5509CD2BE4C26085002505B5AB853F0566004FE3B16E"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "2DE944D1788A484265FD4149A33C04D5CF4795A396DFD6E38686DE23FB592B91"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "DE1E77F38CEF52BBD41BFBDE19570D390FDA37B074F00F41F83E834A31A7A6C0"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "DA28A708C3135C4A8692B1B3E766E6873C9C0B9235558767AD77C0C39B3A2E82"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "4E63A0239C35EC564AF8465A613D906576B67710CEDD970977307FBEFE0923B3"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "736D738AC9F89A66C53138C5155A274B0B285ACA9842E583D49C2AC54CA3071D"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "0A823289C59FACAAAF94773711FA0BFA0C72AFF6E0B77E59070EE930D094484F"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "27C691E59013EE945E60EB5FBA46944BA6AA185B0B6DB3552B961E8458489D31"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "6AD5179A12548BE83EE68908437771E503DF4AE42C69F8FB2E7158BA89DD4C29"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "56DA61FC1BAA9A64A62750A132059C1E7287E4963FA1696F20A52A1E93F7DF87"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "363221AD9494B33C15123ADC62DD7CE4F8442F881D6D373F1B938ADEC29A2B54"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "455FE48D0F8383F4492754C7F7B075FF90A9F4DF464CB975BA9BB3308BE00D5B"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "4E9659E34000D1F1A5964BD5C68D9D3DAE91CE866E5B603DCD08EC963953B144"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "6FA41FD7F66733DC2B047D7E70C6184E484A8E2E19592CBEB3949E1821BCD9F1"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "ADE1AE0D1CC8665D2CBB9D77F2FE2423A794C7A26847C95181AAB22688E906FF"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "9B725DBB3B8D41127C4F1B1FB0910982E7D56A17FFEE1D24CBD182EA4DFF1102"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "B5D495A8284611A1FE254DDCA378954BD8A0638CDE1A4ADB621B2A72346D250E"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-20-02-37-17",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-20-02-37-17",
+    "sha256": "8C8CC36E838FAEE6F95662C57AEB0082160C77FFC2FD650E728D4964126ADBAB"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "711DC6206A5C86719EDC912980076EDA395D00FE88E3D91A2D97ABC5D3AC89DF"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "BD99F34CA229D2F53F5CB1697F326E6B0EC04718C23CDE9AD5EF669862AB3A75"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "89BD52D6D76B4F1B8E2DAD1E991974DDD6ED8BFAF7E850113CB35CA3E0B34C79"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "3FE9BF857A74D4ECC2CF47383DEFF71DEC419DB0BDF229D5ED94F8F0FE85929F"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "827C01B19A34142C487C01E9DD1BAB11E5773F5611A4A667447FE4BFD52CDDC7"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "3EE2985E64CA95385291B4CCD3F9C906ADBCAEFB6E698A93EBA80DC34F43FF59"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "ACD4E80CAD20DC58714CDC7B017B7A46EDE21D771681379C740D00205D35D4B3"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "229397BE79E8D8AF8BA937EA751F53155F9A7A9A865FDFB40DB9593736373C00"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "FE1E26F54995D481D68BA2DCB6A2F6221BFDA29D8E2779AD3A7B9DF3DC0B0413"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "6CBFC4E23B56E9CF402D6FF8D62DDC8CC818315974C193D71CA8FAE2072DB7D5"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "F577F49D870ACEF2CE9F41C604FB2B2A2FF24CDC9A2F4DFCDF65C4E630243796"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "C42BAEA01A5F8DEFC936C66306530016D68882F0AC091FAC1A3CDA7FD4F90573"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "E42E7FFEAB8D5A80D18F0F58DE98691538F457F0E2A727D96CEAE00B1A0AF0CE"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "6F5EA79E7972D2C04FBCCE94C0385A17840EDF419CD3E275DB06D09D55E2188F"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "45C1CB2100CE459AE40B18A8FAE5753D675686B25DBCC9BC4C9A8D89A79AB6DA"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "5F68767CE113D94BDA42C8E0E1C464808F04000E19CCF27D27DAF79CDA17871B"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "69A0F32D48E82B3F1DC9F70485EB757705E2CB28F4C120117072CE24D87A810F"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "E57819C4E58362A65B966445F69EEB1D2D48ECDBF5FBDB79321B3C62D443100D"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "E25AE8E451A47D670FEA20E9FFCEB3CBDBC3B7D4D79E7AF43AD38B2BF9511A13"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "A28E817A65010A4E49FFF0C412DC919BFDCF06A840FA961BBCD837BB063177A7"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "3499ECD860C4111AE496070BB58450BDC5DD2B24CEBF9B7DA7DD580F5C2BA8E9"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "BC84F0DB6F53A6A211D0E3503F9ACAEB73A859FE21D9381E0C84EAC9EE052976"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "24DEBD65CD7EF6A2C4AD18869DABC734ABB542708F31A7577C58C4E3C2B7D7AF"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-19-02-40-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-19-02-40-21",
+    "sha256": "F2EF574F5EF303B646D0C5E2DBC7D744B0F872EFCB279EFFA2273FC1CCEB5D53"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "61B9017290AEA45E50CA1D257CB1BE66B8BF03D7E62BAE5E469A81EAAE03AAF9"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "D46E614B3375F662DF43783CBF4A183FD1A82EC88738AB4767CC920BC4B2A5A5"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "8ED65BDF77ADE9AFCE14EDA3D7B3B8FDF8A9F531301AA058C16571F745948D86"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "DB562E9FF20A606E769F9A357CF420CB035147A63C981AAE518A72DDD93872BB"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "F137612341F189B7B1B5DEE60FD28A4D75CD11A1DD25282A47F2675C6F970711"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "8F2B46DF8B025DD7FD551F980EAA398F2718233134B8EC901704434810A6EC17"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "BFAACB11BBD9ECCF7DFDBDC1A71E2282FB10959417D4F12973C3B24744CB2E0F"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "CB3DF48A0B3D408F435CBEEBB9B48FF09A8EB672A2259329B59973741DACB1EA"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "14203672CFC6FA66718E3BDF2ACE2E848749934C975DF2BE8BB5FFD82C0A1EF9"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "F3CF26AFA2E02769481FC37ECB60FA1B86AF3579DEF1DF9C2402EACE69CE9CBE"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "9BCB0B57D85136783E243C107EEDBDBB5F157D2E8D8317DF643A432AC357AEC9"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "3F4075D0F4E6590F10FB6F140E755F27FBB043D6A668339564E7234673BF664D"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "D848D7C4BBA9F8EBB5036722603F9C834517F035F94DD0B95958E76A92D7454E"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "C4A24AF28B396CD7A6BE64FEC4E56B35372FD5A4DAE174EF7CCA5784C492EE07"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "6D66158647A4D1E9FBAC57933A6D27A2025B6EE0B37FA9855C566F7EB7FB6296"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "771215D340B84F5D8C017A89765ABB6232BA594DBE1B736BAFDB8DF7CE657FF7"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "E359227C91BBB2DCD880216690894D0C0ED2450AC190117FD845B9458C5640A1"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "3656A30B933A91CD89A380189C05C6BC0324EC0F76ABA51F884CFD78770EC8D0"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "DB7E520EC91278B594020853AEA8AB94288B0F8C2DC87537E594F3284DDD5E70"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "B51A64FB4D3092F0756304A1E3C1111050BB80450E482E3F7B1AA94C2EA62E16"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "0E5E4D6AB4BC59011E4181A140922F6FB9C71421DE1B72B811A328D6DF485B79"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "10862880A2ADE2E6BA1B815380421709C73B13190E13DCD52D0770746A8B8DD7"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "BC12DA1C53D8814692ECF1CB0B7E824309C55EDBA739E8C3DF95015C60A42A1F"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-18-02-48-24",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-18-02-48-24",
+    "sha256": "9EAFAAB64C2E3DB7A8E46DCC4A74CDD4EDF29FCD0B5BB2408DEB4761405FE00E"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "F6902CC31360F2060BF45AB10035C3B614008FE48224CAFDE4A895DB999EEDF8"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "713F5CB7F06B5D9D6AAB11BE08E4B97939FD3BA59D9B68F5A1813690C8A62E2B"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "4DC899E1CB6568EC71636BC8ECDBA87DB87FEF9F97D05B8D9FE9F2A1A3BFBA2E"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "19F53A9BDD57A6C4DE5F8C687893EBABFE77B8B61EBF9DAD252C5B12F3CDDE1A"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "DA28D28E9AA74D12224DFDD8B13B7D47A08870257CD1E80F02870DF0E3F69A01"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "CF648C0BA365469D04E34134CD03E9C3DB99DA4D78B3B3C33B7834D34696ECDB"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "0FF0C68E02C067806FFC5A138162E65C3A58CE1057A783F1B031F8B37F8C4225"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "EDDFFBF691FF7B7AA3259A52885CDFFF92A8C0241510EBDE345D90509E959CCF"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "FEE5CD6744A2943D4E1DBC025C5B64472DCA66434EF4B34D8F3D61922C3759D3"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "47B3F3C1BDE3307EC42EB11ECABEFD5DEC08D48506EE8621ED71AC0C61EEFF5C"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "6C0433A27316BE5F700FAB77E5336A7D9DAAAFF7DE0526FF3B686B2D20C1011A"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "2893BD97A6AD119D5F78C732F4FEA144642FBC1DBE1F9501C24E5EB365AB39C2"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "C5A4A839156CCFDF588FF4FAD696F849EEBADEC84FDFC45E8A3F6C407D83D502"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "8E4DD5D3057AA56D6F58CCAEDAC8DA541131A9AB58EA1EE6DAC1031B10919FD3"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "A4BB5C4D995F6630050DAA7300F9DB94316728555197A0BC0AA8BF29D69D1B0A"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "4D471CBE49F1800E5F04DDD0592181867B6949A943E7012BAB16A1A789E99D76"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "2D89D6694D98E29BB7EE40DAD58B971D36516F2869EB03DF060482CD6C448941"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "2605465A3D9EE62DCB9B367180D31660A32BF643C8A799CE1B45E7405D2C6EC7"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "29B27D400072CAA396C0A7370902322FDC475CAC3810BCF60358201DE3CCC55D"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "4FCB2B1556AC4708DAB2B65FEF64209225782AAD049AF4DF847E6E1C55B95B14"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "0F13AFADAB2F4804002C7DF8ABA1F8A72F080522577E959A593AA7AE3E9CE639"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "49D1784FB8FB59DE49868666D1EEF8C730D2579078080020AD4B5C54CFB7768A"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "A1E34DDA01041F5AF4FAD1B33D87F0E062551451585E1904896C32ADEF15430C"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-17-02-47-21",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-17-02-47-21",
+    "sha256": "E947BFE19E59C9C0EDCF123345D6356E049A5652A863FF23AC88BA437F6C2E0D"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "6AA4E612EFBEFEEC096B711C30A15C9DE941F15C08E31053E19427A7103BC514"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "28B81BEEEFB0C55A6D3D4526CF09EEF0B10BD5F9529FFE15D4F5BED3E105D218"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "34FEA209D5C6165E649CD4CECEEB2A3ED49E61C34F24E68B517F76DAD422F24E"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "6E69720FF77D85AAA28F4745540350A780295F4F5C8832E718A1D619942CC936"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "E736C83A4ED46D590E1CB8A0A0B45123D26A1FF95A0A591845894911B13972BA"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "233EC2BACAD90E9676310378422D84907544EEAA41498AB2D96D6FA1A09B82FC"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "4F64EC4726B64C9A35A125AA271D981FE1948AC5886B35500F862011EDE6EB18"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "1ED8F58551F5B31DF405BD85C120CA2CFB6FF823540C2D5462F09D2F71DB5311"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "59C37FFC066EF4766D2554039986031C8AAF55E187D8677DAFB0D7A63B1177F1"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "4E0C4E190A0FEB36490CFD707CB8738621DD0B408759CB9C370BCA241F4D6F9A"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "18C5ECDEEA077F9A0F637114653FCBB94F5CDF3722590DF4E4C24B001A7949A3"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "3F97C8051EA836EB0329EC102B3B5C224C5DF5ECE8A087CB61043FACE5BB113E"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "FC08320E34B4738D13EC38C40FE83AD3028C970792F6D1807B102F3999F20541"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "A15D3DB61EC729F0D76148C81F6A0F08DA39681542FA0986B9A59DECE820F3A0"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "D9705E1B075357F59781AD0A8FB419452B24B531F1D03ACB3978FD15F874FD92"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "031AE7C6F603C87FFE68817F79089BEC332DAB01FC17929ABD72720CFBA7F831"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "698A78AF499EB1CE26AD287193C3BA0EC39B20F9917ABD0BC0F29188DE850954"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "617965DC2EF0729C883B8EDFEAA29A9F82E454D63072B7FEDE01BB6F060DD6A0"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "FB89019B3840F5E02640AF361717B477E7333CD0E9B72D83EAE5261EC1A4268C"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "77B96740111EFA70E83D4C14CB661EEDCD68B9B810D316201A6D804F5FEB4F26"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "2C097E25C610051E820BF0B7A7D4872EC72CC2E66F2C1F36394DD95F693D8AEA"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "4DAD75247905B1DF9D5AFFDBEAA1E8D3119D383DFC996757489B3A291A3FD5F0"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "CA04452D19F43980B5B50818BA2707D3F6C8DE4C6E866FE2F71C270E617101BB"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-08-16-02-34-27",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-08-16-02-34-27",
+    "sha256": "DAA044D39525719BABEA1F76D2862BFC890926B281BFAD8759CB7EED4D3E8EAA"
   },
   {
     "filename": "lwinput.aui",
@@ -58527,6 +59652,492 @@
     "sha256": "1773ADB99CF7DF0F789DCE882DD2148FFE8896592E4EE2546FA9DABCBD974FD9"
   },
   {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Maverick Tse",
+    "version": "r733",
+    "build": "2014/12/25",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "8192441F6E16C23E75FE44609D625E95A12E671BC2ABD8BF00EA0A4A78EDD963"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Maverick Tse",
+    "version": "r733",
+    "build": "2014/12/25",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "C4C8E52E365DD3CBE0DDE8A143C1349F191EEBBCDCB0EB698B3C06FB1833239D"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Maverick Tse",
+    "version": "r733",
+    "build": "2014/12/25",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "BF7CA665B9713A8AD163C88076CF4C61B914A1ED34119FB995E63C819AD123D3"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Maverick Tse",
+    "version": "r733",
+    "build": "2014/12/25",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "C7EEDC1016B576C3C344046B6CE0CF642E5CB19EF3F2A8D19FD8D658432A0E90"
+  },
+  {
+    "filename": "AutoShrinkBitmapReader.aui",
+    "name": "AutoShrink Image Reader",
+    "author": "Maverick Tse",
+    "version": "2014/11/19",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "DF96F2904CFEF2966A75F6485889EFEBD787C7ED016C968ABC8E171C52ADAB60"
+  },
+  {
+    "filename": "csriFileReader.aui",
+    "name": "CSRI Subtitle Reader",
+    "author": "Maverick Tse",
+    "version": "1.0",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "4DD4A7B995114A1DD97B200D3C97C71E543A979030F0ECEC8D887FE52F33392E"
+  },
+  {
+    "filename": "csriFileReader.aui",
+    "name": "CSRI Subtitle Reader",
+    "author": "Maverick Tse",
+    "version": "0.9",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "233FAC2C4D605E51A87AE47A7E77BC6A9AE99A299B2066C8B1981E79B2BA3F47"
+  },
+  {
+    "filename": "csriFileReader.aui",
+    "name": "CSRI Subtitle Reader",
+    "author": "Maverick Tse",
+    "version": "0.3",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "58D673BB04D9028B18B0167F16559544914719033BF426D1DBE577F2F2AC8D81"
+  },
+  {
+    "filename": "AGifExport.auo",
+    "name": "Animated GIF Export",
+    "author": "Maverick Tse",
+    "version": "0.51beta",
+    "build": "2014/10/16",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "EE1738026E552A8C56611A896E8FED8FCB11ADE952900CA331C93888CCB262D4"
+  },
+  {
+    "filename": "AGifExport.auo",
+    "name": "Animated GIF Export",
+    "author": "Maverick Tse",
+    "version": "0.5beta",
+    "build": "2014/09/12",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "A37EBFC62881387DC127FEFC594C764D6AB8489E5235F08BC78A5A2EED31DE90"
+  },
+  {
+    "filename": "AGifExport.auo",
+    "name": "Animated GIF Export",
+    "author": "Maverick Tse",
+    "version": "0.1beta",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "54DB966821F73CDF8A49DC3A83AD4BD00B710496F91E7B4F132993F4CC380094"
+  },
+  {
+    "filename": "AGifExport.auo",
+    "name": "Animated GIF Export",
+    "author": "Maverick Tse",
+    "version": "0.07",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "F46083D3E093FC66744E4AC76796E0C7916CC99B79BAD2B30BC341C0D672B0A6"
+  },
+  {
+    "filename": "AGifExport.auo",
+    "name": "Animated GIF Export",
+    "author": "Maverick Tse",
+    "version": "0.06",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "62A31D1D8E053A5C92E32A5590B9B018B7D5325305359ACC050846D3DBA1B3D1"
+  },
+  {
+    "filename": "DirectGIFExport2.auo",
+    "name": "Direct Animated GIF Export 2",
+    "author": "Maverick Tse",
+    "version": "v1.1",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "70B8127CEDE36E04EE29EB5855BE1116A8E6E7985261329B290E4A6713F6FCFD"
+  },
+  {
+    "filename": "DirectGIFExport2.auo",
+    "name": "Direct Animated GIF Export 2",
+    "author": "Maverick Tse",
+    "version": "v1.0",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "DE9AE45C80567A1FBCF76CDB1FF3CC585E5FF891FDEB798BAC7100AE3FD3F62E"
+  },
+  {
+    "filename": "AutoCrop.auf",
+    "name": "Auto Crop",
+    "author": "Maverick Tse",
+    "version": "2014/09/16",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "C81134903B09FE746A0E3BB11F017CA490F338622492CDCF24BD47D5B8476A8C"
+  },
+  {
+    "filename": "ColorLevel.auf",
+    "name": "ColorLevels",
+    "author": "Maverick Tse",
+    "version": "2014/08/28",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "B85F2939406D93E0939941D5D6E88450CEF392A2FD9202F9276CCA5CC5DB7D0F"
+  },
+  {
+    "filename": "SigmoidalContrast.auf",
+    "name": "Sigmoidal Contrast",
+    "author": "Maverick Tse",
+    "version": "2014/08/30",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "B959991615E90DE8886612A0E3B133318B513A1BC5CE8FA0BEECE9E12ADA6828"
+  },
+  {
+    "filename": "SigmoidalDeContrast.auf",
+    "name": "Sigmoidal DeContrast",
+    "author": "Maverick Tse",
+    "version": "2014/08/30",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "D95E52624DE600848AFA3EBEDF4E6DD3ECA778AE31DEC6B811A208DC703A53E1"
+  },
+  {
+    "filename": "UnsharpMask.auf",
+    "name": "Unsharp Mask",
+    "author": "Maverick Tse",
+    "version": "2014/08/30",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "DE1CB93B579DE769777690A18C98FE1FAE09AEFDEC8C894FE6DA6EA5D6243C35"
+  },
+  {
+    "filename": "SigmoidalColor.auf",
+    "name": "SigmoidalColor",
+    "author": "Maverick Tse",
+    "version": "v1.0",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "7BD4FA9047CAD66EFC41E846BFBA2F1CA8D94AB034A58ADCA874FA97A3FA7CF3"
+  },
+  {
+    "filename": "LiquidRescale.auf",
+    "name": "Liquid Rescale",
+    "author": "Maverick Tse",
+    "version": "2014/08/29",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "F37BBA12C738A491E7E6AA1F6BBE8C28A4858A244D46F4425E0468B6C032B52F"
+  },
+  {
+    "filename": "MotionTrackingMKI.auf",
+    "name": "MotionTracking MK-I",
+    "author": "Maverick Tse",
+    "version": "rev.Aug 20 2014 SSE2",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "1D677D1E267A41ECA22347F4485055CDF62D759775E8F11AC69E60D50C5ED2A9"
+  },
+  {
+    "filename": "MotionTrackingMKI.auf",
+    "name": "MotionTracking MK-I",
+    "author": "Maverick Tse",
+    "version": "rev.Jul 31 2014 SSE2",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "7F1F58CE4BCAB1EA839E049E5FAE4DBF4D491FD607A66EFFA7C93C59DB404F4A"
+  },
+  {
+    "filename": "MotionTrackingMKII.auf",
+    "name": "MotionTracking MK-II",
+    "author": "Maverick Tse",
+    "version": "AVX 2014",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "846601A74122B1B61E20784FC1FDB937D1CD6D202B127B71159195BD060A45AF"
+  },
+  {
+    "filename": "MotionTrackingMKII.auf",
+    "name": "MotionTracking MK-II",
+    "author": "Maverick Tse",
+    "version": "2014/11/12",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "2A6B1F716207B671EC4006D8F861076DFE66E47414902CB0EE3DB19B148A691C"
+  },
+  {
+    "filename": "MotionTrackingMKII.auf",
+    "name": "MotionTracking MK-II",
+    "author": "Maverick Tse",
+    "version": "SSE2",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "B88F4042D281137DC1CFF5FB88B7C11796916175C452823C828B99128F047D94"
+  },
+  {
+    "filename": "MotionTrackingMKII.auf",
+    "name": "MotionTracking MK-II",
+    "author": "Maverick Tse",
+    "version": "SSE2 2014/11/13",
+    "build": "",
+    "url": "https://onedrive.live.com/?authkey=%21AHg31ARXSfIHQUc&id=26840CDF9818EB8E%21245&cid=26840CDF9818EB8E",
+    "sha256": "1EECF4B4076FBE357570E8470930B4E6693D8586B760997884230939DFCF5F79"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r42",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r42",
+    "sha256": "1B3EF12155B55DF1BF4D2D5CAAB629DAE53EFD6E6F6EC8321A2208C9771FAD53"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r41",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r41",
+    "sha256": "F3FD74E88FBD413B41CBAF10F686507D6C2E137A68B5FB776A27C8DF5AEC4CBB"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r40",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r40",
+    "sha256": "BA82A5A93B6CAEDDA0877A526243F3B2FC91D7CE6093ED77F04446273D88F701"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r39",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r39",
+    "sha256": "B5C6090AF4D820E4C59BF2265ED358F60CE4AADBF30551E71CE47A12F24B32D7"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r37",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r37",
+    "sha256": "AF57E6EF02CD0960B71DBFD69ECE799142EE2182A3F549C262849EB27CC4A91F"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r35",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r35",
+    "sha256": "1287F67AC4E47F9DBCED449A8C82CB3EDC1311C0BBB37BA7B9CA2F7883D05F5A"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r34",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r34",
+    "sha256": "BE92C2C88C7F91CA3CC0FBC9AD821C5B5D232908391EA0ADA3E4DC9D918560FE"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r33",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r33",
+    "sha256": "4D96C1892BA16FBDDB8FD99F3B55C19559AF37B931052EDA2BD7BCD8C3AED271"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r17",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r17",
+    "sha256": "74664A9E4947A85380E7504DC7B63DDD103E0B37D9A63D0DA8141B42ED11909F"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r16",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r16",
+    "sha256": "E20A4498AAB313D0E7F921B1F99D25E4FADF76A6E9F42822F92220E17EBC1A56"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r15",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r15",
+    "sha256": "D53F3C5E5056E8CDC047B78B303BEDDE9A71CDE27D02085A4EAD04EA4F6D44AE"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r11",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r11",
+    "sha256": "171036C235C508DC8E94BC136CAB5F3FEEFA62F131E7EF9C31F56FBCBDF357D7"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r7",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r7",
+    "sha256": "2E0FE20F4F47626DAFE0D6B3C768319C1C790B9D4F37D3ECBE7278D8F73B302C"
+  },
+  {
+    "filename": "MotionTrackingMKIIPlus.auf",
+    "name": "MotionTracking MK-II Plus",
+    "author": "Mr-Ojii",
+    "version": "r6",
+    "build": "",
+    "url": "https://github.com/Mr-Ojii/MotionTracking_MKII_Plus/releases/tag/r6",
+    "sha256": "2A8E4AD4BAE35CDFD392E478B5A1430F901BF1FB6B1844191E8320C99B7EBC33"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-57",
+    "build": "MinGW",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-57",
+    "sha256": "335E068E01242210F7553BD2088A1E40B3B15333E3071A432553295414E6A37D"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-57",
+    "build": "MSVC",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-57",
+    "sha256": "EAEBBCFAA974DAEE61DD898AE4B229FBEC48514E69FA3F356A0B37B69124EFB2"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-56",
+    "build": "MinGW",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-56",
+    "sha256": "C93431BD18DE714C1722453D7FAAD94D085C75CDDE62248242E209CBAA127073"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-56",
+    "build": "MSVC",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-56",
+    "sha256": "172375666959D1367179E838B326962529F0141C349386551A47DA61A8E3AC3C"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-c3db69ccf8d59294f954dac212a239979b68b16e",
+    "build": "MinGW",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-c3db69ccf8d59294f954dac212a239979b68b16e",
+    "sha256": "E0440406592ED0768B10C1D0DE9778AA968F4C10C7D92E1B61CA84433A357637"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-c3db69ccf8d59294f954dac212a239979b68b16e",
+    "build": "MSVC",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-c3db69ccf8d59294f954dac212a239979b68b16e",
+    "sha256": "7E440BEFE04B3C5007E8EDF10554CBF3287806CC692252BACF32D5C5A05777EB"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-d2e55a0234e2aba17eb8e8aaef51a290e5c8c699",
+    "build": "MinGW",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-d2e55a0234e2aba17eb8e8aaef51a290e5c8c699",
+    "sha256": "785D70C28921BA740941886FB66AAD6E29535C8B845716ED62555980131FA25C"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-d2e55a0234e2aba17eb8e8aaef51a290e5c8c699",
+    "build": "MSVC",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-d2e55a0234e2aba17eb8e8aaef51a290e5c8c699",
+    "sha256": "02F1541C20D48BEC15C0F19A6A0FCFDAA310CAC101747114BCD49F0A4F81C879"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-98eae58cb702a6a068abb6a49d4947d6430d0457",
+    "build": "MinGW",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-98eae58cb702a6a068abb6a49d4947d6430d0457",
+    "sha256": "B019139A713EBA072BFBD135242901D688162B992A8B9D1837F905E4F66CC66A"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-98eae58cb702a6a068abb6a49d4947d6430d0457",
+    "build": "MSVC",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-98eae58cb702a6a068abb6a49d4947d6430d0457",
+    "sha256": "2D0B9E9EF5F22FEF46B8A9923CF4B0CFC1FFBFD5ACA6786B0499DBBDCE345AEB"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-13f856a5140198c62d30c28bd320e2a160d33fea",
+    "build": "MinGW",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-13f856a5140198c62d30c28bd320e2a160d33fea",
+    "sha256": "60ABD7FC79A0464AD11A3D06AAC810AC8869D25CEAA986F7AECFD3782999C343"
+  },
+  {
+    "filename": "shutdown_plugin.auf",
+    "name": "Shutdown",
+    "author": "Mr-Ojii",
+    "version": "release-13f856a5140198c62d30c28bd320e2a160d33fea",
+    "build": "MSVC",
+    "url": "https://github.com/Mr-Ojii/AviUtl-Shutdown-Plugin/releases/tag/release-13f856a5140198c62d30c28bd320e2a160d33fea",
+    "sha256": "FF32E003F456E29C075C7FA2DC7AEFE7ABB94315465EC9612C48B8B1CC347452"
+  },
+  {
     "filename": "aviutl_rpc_en.auf",
     "name": "AviUtl Discord RPC",
     "author": "mtripg6666tdr",
@@ -58588,6 +60199,330 @@
     "build": "",
     "url": "https://github.com/mtripg6666tdr/AviUtl-RPC/releases/tag/v0.99b",
     "sha256": "C9AD063BB57117E22C9B11BC56A84DFBB3F93E4774A3C181EA1DC63BDB2F6491"
+  },
+  {
+    "filename": "auftrace.auf",
+    "name": "Aufトレーサ",
+    "author": "N099",
+    "version": "v1.3",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "29E9D94CA7F283C2A0DF81190E3319C93CD444A6FB07205C8CC6F3D356A10981"
+  },
+  {
+    "filename": "auftrace.auf",
+    "name": "Aufトレーサ",
+    "author": "N099",
+    "version": "v1.2",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "55504C76B78E52256486FE39AA257252B615F049F65EDA8AF2273550408DCB12"
+  },
+  {
+    "filename": "auo_mt.auo",
+    "name": "出力 別スレッド化",
+    "author": "N099",
+    "version": "v0.9",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "1553A8C710C6F0280E7D0665E87C58267C7CE37CF0F366747C70308AB1CE2C08"
+  },
+  {
+    "filename": "cspline.auf",
+    "name": "Cスプライン補間",
+    "author": "N099",
+    "version": "v1.4",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "DDF57E50133E3A6B005CA771ADF374F07D7403082865A35A95956C0AB8694A23"
+  },
+  {
+    "filename": "getclock.auf",
+    "name": "クロック計測",
+    "author": "N099",
+    "version": "v1.1",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "DD2424FC145A5CC3F04AF8A22DDD6807A903EF61BC8E518B70DCC466B0349A28"
+  },
+  {
+    "filename": "getclk_p.auf",
+    "name": "クロック計測FP",
+    "author": "N099",
+    "version": "v1.1",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "875C9CED4999EBB5CF0A52833586E6B8EABEDE421BCC86F334C6DBB33F5BF372"
+  },
+  {
+    "filename": "gpu_custom.auf",
+    "name": "GPUカスタム",
+    "author": "N099",
+    "version": "v1.0a",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "ACF170C2CE66484CEE4A0567431949628CD90CC2B6EE26733C00C375E80D0AA2"
+  },
+  {
+    "filename": "gpu_custom.auf",
+    "name": "GPUカスタム",
+    "author": "N099",
+    "version": "v1.0",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "284BF173C378CA40BEB932AB31A7C6A34F939EF917576FAACB944A8CB298EA1E"
+  },
+  {
+    "filename": "gpu_lancx.auf",
+    "name": "GPU Lanczos Resize",
+    "author": "N099",
+    "version": "v0.6",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "7761C824C6B08D49B0A95CD5CDD0439A62177821E5FCD64EEE901605C9F46588"
+  },
+  {
+    "filename": "gpu_resize.auf",
+    "name": "GPU Resize",
+    "author": "N099",
+    "version": "v0.9",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "BBE925DD20002640D1437C1C6D0B8A11C7602D0EC36BA771C9F30E60036F31C7"
+  },
+  {
+    "filename": "gpu_resize.auf",
+    "name": "GPU Resize",
+    "author": "N099",
+    "version": "v0.8",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "057752B7910DE2FCF77D60625DC03FD99C9D164E7348AFECFB5665082F98726C"
+  },
+  {
+    "filename": "lpfd_pp.auf",
+    "name": "インタレ縞低減＋＋",
+    "author": "N099",
+    "version": "v1.4.3",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "99F9FBE70EC0365BA294F9BE51107E0F0A0622C7DB2B7D693C48376C53442065"
+  },
+  {
+    "filename": "mm_srv.auo",
+    "name": "MM Server",
+    "author": "N099",
+    "version": "v0.5",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "A17A133C49CC7BE08B7E58A9C203756F03FE97D7E2A0C1A3B63EF46D075300D3"
+  },
+  {
+    "filename": "wait.auo",
+    "name": "出力ウェイト",
+    "author": "N099",
+    "version": "v1.2.0",
+    "build": "",
+    "url": "http://www.geocities.jp/mosd7500/index.html",
+    "sha256": "4661C9A44BD73E763EF404222DFB7B71304FB11A949D6125D542BBE87E012F6B"
+  },
+  {
+    "filename": "SortEffect.auf",
+    "name": "エフェクト並び替え",
+    "author": "謎の生物(さうなさうな)",
+    "version": "1.0",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/SortEffect/releases/tag/1.0",
+    "sha256": "573DF17BDD6AE30979AF3E7A57F2111B8EF59BF5BB7E5DDCAE304FA9A3EEBDE2"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "謎の生物(さうなさうな)",
+    "version": "r41.4",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/patch.aul/releases/tag/r41.4",
+    "sha256": "07DED6D9C8432B5291E71F1FABB34DB86B0DA2B410DF904F1970A5AF5A4F5DD2"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "謎の生物(さうなさうな)",
+    "version": "r41.3",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/patch.aul/releases/tag/r41.3",
+    "sha256": "6D62C0B1720B26E905029E2E34BCF3A3D6FF3C2BAC4275B5ABC7BF6DF6BA6853"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "謎の生物(さうなさうな)",
+    "version": "r41.2",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/patch.aul/releases/tag/r41.2",
+    "sha256": "4D14B18B8402B52263B35FE4E9EED4FF28979BF60F620AEC98CE0178FA6AFF86"
+  },
+  {
+    "filename": "patch.aul",
+    "name": "patch.aul",
+    "author": "謎の生物(さうなさうな)",
+    "version": "r41.1",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/patch.aul/releases/tag/r41.1",
+    "sha256": "618995FD097F6EBFD1B8C9C722C201631FC45481004E8901C16CCA49AB35AE76"
+  },
+  {
+    "filename": "Redo.auf",
+    "name": "Redo",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v2.7",
+    "build": "ランタイム不要",
+    "url": "https://www.nicovideo.jp/watch/sm39263447",
+    "sha256": "7C8A22AE57267378F220E1862E33C1EAB5EE9A6907829FD877B34F0AD90C9236"
+  },
+  {
+    "filename": "Redo.auf",
+    "name": "Redo",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v2.6",
+    "build": "ランタイム不要",
+    "url": "https://www.nicovideo.jp/watch/sm39263447",
+    "sha256": "3BA4C6864802AC4267D8B5E330A04DCEBD55590C401F5D9550A55FE431E52B50"
+  },
+  {
+    "filename": "Redo.auf",
+    "name": "Redo",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v2.5",
+    "build": "ランタイム不要",
+    "url": "https://www.nicovideo.jp/watch/sm39263447",
+    "sha256": "6503FFA749937CC8AD7C7BDF43EED94C71021930F397A47966C349011F36F3C3"
+  },
+  {
+    "filename": "Redo.auf",
+    "name": "Redo",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v2.4",
+    "build": "ランタイム不要",
+    "url": "https://www.nicovideo.jp/watch/sm39263447",
+    "sha256": "41AEEE41EF80A486F2A17336686B84AD4892E29B0AC46EB4185FB16517DA8E2D"
+  },
+  {
+    "filename": "Redo.auf",
+    "name": "Redo",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v2.7",
+    "build": "要ランタイム",
+    "url": "https://www.nicovideo.jp/watch/sm39263447",
+    "sha256": "F5B3DFC4E541DC42828FD538BC74C376546225BD6C335A6553B9BD71CB06B231"
+  },
+  {
+    "filename": "Redo.auf",
+    "name": "Redo",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v2.6",
+    "build": "要ランタイム",
+    "url": "https://www.nicovideo.jp/watch/sm39263447",
+    "sha256": "33D42E2FEEC4648AAADC5C46924C979E84D4F23890DE5FF72CA96E8D907BC76C"
+  },
+  {
+    "filename": "Redo.auf",
+    "name": "Redo",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v2.5",
+    "build": "要ランタイム",
+    "url": "https://www.nicovideo.jp/watch/sm39263447",
+    "sha256": "D9B4BF20AEDCE5524E6A8FE514521050EA48CB022AB69548978AED1E87DBF16F"
+  },
+  {
+    "filename": "Redo.auf",
+    "name": "Redo",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v2.4",
+    "build": "要ランタイム",
+    "url": "https://www.nicovideo.jp/watch/sm39263447",
+    "sha256": "1861BB216963D2C1CEB8CEBC1295FCCA9A73435BC88EC6486D43AE357D3CA4DE"
+  },
+  {
+    "filename": "xCameraAssist.auf",
+    "name": "カメラ補助",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v1.7",
+    "build": "ランタイム不要",
+    "url": "https://www.nicovideo.jp/watch/sm39701988",
+    "sha256": "F84A2E9354435B87229EEEF6FE39F1359C55C49BA632006D9B776D89A9C7F42E"
+  },
+  {
+    "filename": "xCameraAssist.auf",
+    "name": "カメラ補助",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v1.7",
+    "build": "要ランタイム",
+    "url": "https://www.nicovideo.jp/watch/sm39701988",
+    "sha256": "5B9E4379812D655FB70BC44F1B6EBC9AEF3F49A587BB889F5DD4A2D0E1E8C975"
+  },
+  {
+    "filename": "auls_framesound_fix.auf",
+    "name": "編集中フレーム移動時に音を鳴らす",
+    "author": "謎の生物(さうなさうな)",
+    "version": "2022/05/04",
+    "build": "ランタイム不要",
+    "url": "https://drive.google.com/drive/folders/1CxvZLgsrjsBXDZS14k8UC7Oz17j74Zl9",
+    "sha256": "5E8F2615A02B2F8943756FACF520DEAB5249E4AC87B3D995AF4F9C12C6BF1FE7"
+  },
+  {
+    "filename": "auls_framesound_fix.auf",
+    "name": "編集中フレーム移動時に音を鳴らす",
+    "author": "謎の生物(さうなさうな)",
+    "version": "2022/05/04",
+    "build": "要ランタイム",
+    "url": "https://drive.google.com/drive/folders/1CxvZLgsrjsBXDZS14k8UC7Oz17j74Zl9",
+    "sha256": "46F763EA40124ACEC993D4F8CDBBE2DF2C44925FE4746877C5EA76B29AEFB407"
+  },
+  {
+    "filename": "BottomClickCtrl.auf",
+    "name": "ボタン周囲の判定無効",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v0.3",
+    "build": "ランタイム不要",
+    "url": "https://www.nicovideo.jp/watch/sm39078844",
+    "sha256": "6E2718C2DCF8595A8697CBD3F39BCAA5158635DA3BE1AE1BE9F5D21F364D3664"
+  },
+  {
+    "filename": "BottomClickCtrl.auf",
+    "name": "ボタン周囲の判定無効",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v0.3",
+    "build": "要ランタイム",
+    "url": "https://www.nicovideo.jp/watch/sm39078844",
+    "sha256": "7D0EF5D4DE43F546A5F83D370DC806C7556BAA9761B0DBAEA0325FCE13F1DAB8"
+  },
+  {
+    "filename": "0_MaxWnd.auf",
+    "name": "最大化時メインウィンドウのみ",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v0.3",
+    "build": "ランタイム不要",
+    "url": "https://www.nicovideo.jp/watch/sm38900149",
+    "sha256": "EBFF039E2131A1672E75991182A36CCBF9A03BE2C069E760E838EA659628E232"
+  },
+  {
+    "filename": "0_MaxWnd.auf",
+    "name": "最大化時メインウィンドウのみ",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v0.3",
+    "build": "要ランタイム",
+    "url": "https://www.nicovideo.jp/watch/sm38900149",
+    "sha256": "AAE1FCE58D74422C279CD3E420B5F8B4471EBFFE3AF4F1311712378E51C4299C"
+  },
+  {
+    "filename": "objLayerDisp.auf",
+    "name": "消えたオブジェ表示",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v0.2",
+    "build": "",
+    "url": "https://drive.google.com/drive/folders/1CxvZLgsrjsBXDZS14k8UC7Oz17j74Zl9",
+    "sha256": "FD342D42F243908899D9DBF086D95689659C2E4C25A8A470F0844D84F9757325"
   },
   {
     "filename": "PSDToolKit.auf",
@@ -60739,5 +62674,122 @@
     "build": "",
     "url": "https://www.nicovideo.jp/watch/sm34877728",
     "sha256": "E80BD1E0BEDD087876263ABA08C7B89D60F372C2B734A87C8442F0F87A2AE7DE"
+  },
+  {
+    "filename": "vsthost_1.auf",
+    "name": "VST Hosting #1",
+    "author": "しし/りっちゃん",
+    "version": "v0.1",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm29926034",
+    "sha256": "68D73E69F6BF1B529DD60EF6F00BED239D2112805A01115F62FE8757D62B83C7"
+  },
+  {
+    "filename": "vsthost_2.auf",
+    "name": "VST Hosting #2",
+    "author": "しし/りっちゃん",
+    "version": "v0.1",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm29926034",
+    "sha256": "AC66B050E5EBA198C4E24B0E1F6E5F349E6D280339DD49783A66DBD9C8201870"
+  },
+  {
+    "filename": "vsthost_3.auf",
+    "name": "VST Hosting #3",
+    "author": "しし/りっちゃん",
+    "version": "v0.1",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm29926034",
+    "sha256": "BE86AFA7C3E872FFCFDF6B8942FC14E06A78BED7264D45CB903A237332FD9A18"
+  },
+  {
+    "filename": "vsthost_4.auf",
+    "name": "VST Hosting #4",
+    "author": "しし/りっちゃん",
+    "version": "v0.1",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm29926034",
+    "sha256": "FA14582F365197EC97F2CA9DA3DBC0585706776D568BB5A3DF43F09273A92344"
+  },
+  {
+    "filename": "wavpatch.auf",
+    "name": "音声パッチャー",
+    "author": "しし/りっちゃん",
+    "version": "v1.0",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm29926034",
+    "sha256": "DCE9A3CEBD1078D3C32046800D4E0ADB046CC35DE713580B75F347856D53C990"
+  },
+  {
+    "filename": "Boost.auf",
+    "name": "Boost",
+    "author": "柳",
+    "version": "v0.7",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm40499092",
+    "sha256": "ADC819487755D585FF6285346D3BD723B6685D107E578BA5B305CC253E83C60A"
+  },
+  {
+    "filename": "Boost.auf",
+    "name": "Boost",
+    "author": "柳",
+    "version": "v0.6",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm40499092",
+    "sha256": "E9302CA10FB8D793DB1635C13F6A8EB036A4761D69A917EABB815DC9C675E61E"
+  },
+  {
+    "filename": "Boost.auf",
+    "name": "Boost",
+    "author": "柳",
+    "version": "v0.5",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm40499092",
+    "sha256": "107430B09679AFA140F934C3703B11B4C0EDAE62FAC81FED5716471FBCA8E0EC"
+  },
+  {
+    "filename": "Boost.auf",
+    "name": "Boost",
+    "author": "柳",
+    "version": "v0.4",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm40499092",
+    "sha256": "290D8D1A99F0B486A32DD1A2F77EE6F698777B5CA8299730350D0E58656A8685"
+  },
+  {
+    "filename": "Boost.auf",
+    "name": "Boost",
+    "author": "柳",
+    "version": "v0.2",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm40499092",
+    "sha256": "E521AE4A5BDAEF68738FFB097CC21569C59394376EF7446F6C6DB552E2462644"
+  },
+  {
+    "filename": "Boost.auf",
+    "name": "Boost",
+    "author": "柳",
+    "version": "v0.1",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm40499092",
+    "sha256": "BBEFE0343A9B12837072C1AE09388255C851FAE39F5FD145645CDED8CC2CB860"
+  },
+  {
+    "filename": "ContentsTree.auf",
+    "name": "ContentsTree",
+    "author": "柳",
+    "version": "v0.2",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm40465457",
+    "sha256": "CD41F7B6ADF0A679A144493593E518EB7DA424E27FB0E9172379EFCC03168486"
+  },
+  {
+    "filename": "ContentsTree.auf",
+    "name": "ContentsTree",
+    "author": "柳",
+    "version": "v0.1",
+    "build": "",
+    "url": "https://www.nicovideo.jp/watch/sm40465457",
+    "sha256": "95CCDA2C7174AA21F4B590CDA53A026D12CA4E10A31A594887B28C5CBBE00101"
   }
 ]
