@@ -3972,6 +3972,15 @@
     "filename": "SplitWindow.aul",
     "name": "SplitWindow",
     "author": "蛇色",
+    "version": "3.2.1",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/3.2.1",
+    "sha256": "1B7EA502F8D4EF1DD9A5B70EA8FFCAA632F8CCB05906672591D8B70FA2D996FC"
+  },
+  {
+    "filename": "SplitWindow.aul",
+    "name": "SplitWindow",
+    "author": "蛇色",
     "version": "3.2.0",
     "build": "",
     "url": "https://github.com/hebiiro/AviUtl-Plugin-SplitWindow/releases/tag/3.2.0",
@@ -4597,6 +4606,1302 @@
     "build": "",
     "url": "https://github.com/kumrnm/aviutl-advanced-mouse-operation/releases/tag/v1.0.0",
     "sha256": "85E718C34265685A5C3EB05E4E3B5E53DBB7A5D4EF54BC7EB78C8A1D4E142727"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "2C00E12ADCD487B05D83760BDB8577BA867983CB3BDA0665D8030711E0787017"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "797E33DEE34C3EFC3475CD871F1AC96D419A52C5F1BEBC9B53931F562EA8579B"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "85C93021532AA8AD50169085B1A9F6F15ECF571C69B57AD611DCB313031E698A"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "516C46DA7371913EC06C6BAA16D6D79D843DF6BB5A4EED48B3888C86656BD1B3"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "C737BCFD4484E496E5C84A2CB47E8E00F2A318577875EEBBE796B6FD495623B1"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "286CF203AA0906E83DFFFB1C3DD2B3DC21B6A6680EFF9293D1604F25C9593FD8"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "BCB59E701218724AC79000F04C0E079A61EA15F491C4591D9F805072FD7713EC"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "8C6C4723D6E7B8A52391852C1870CBE2DD8BE8934AD6472F7D48C77CECFA25F8"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "86B74C3BCF00E18375ADAAF5E6A9DDEBFA5F0E1D5CE5C74EC8C40F25158785FC"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "05AC32590FBABEBCDF80FFFC856A6C6F86AC960E046D5452FC2971327CC87B2E"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "282A90B45BF4C185B5BD6CE873F8332BDE07625FBF2740E47101177424B53AE5"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "FC411E9C8A79E9BB075E2669C4B81DA9EBE59D6F35226FC9EACDE2DE3AE8DB94"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "262C682C868555E0272AE5B84340E3E96B66974AB7035808883DDF888D3F8444"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "BC7F136626CEDD5D22158AA3E4B935D6499E57BC0F4948A093C52F19DC56C090"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "35E3BEEFBFA8452EE4908F19862C2A9CD10C5C920B5BCAA2C7F89443EFB15F5D"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "8824AE8F68D710CAEEE5D46450D3C5C23B82137C4A385E5E870F390D41155CD4"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "F4400D15FA5BA8CACF783436ACD1DB69D29E2D8F0401EBB8D66D56771377A293"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "B0A541292CC090AC08A53BE80858FFEA3D40D520646EEF45B1933C3E0832ACAB"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "E28287B316BB206E4ACC6D5DDD9FD2BF69DDB571331A9F80E12402DBA99C3388"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "3C97119C3C89A06182C9AA7A44AE64AA1972E6B64B6901FF60165BD4499F53F5"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "0326E26323E38B88D98CD604439A2E799711E8AC9D81D9C4AA6D02117DE43D5B"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "2FBBDCCB57C354AB01A406CF45FAE1B4283D008DD41A7791B555FF702E85D459"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "2E0D677AB0B31814B738C7EA942AD7071F47BEFA7C25A763D7072B00275F8980"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-09-02-55-33",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-09-02-55-33",
+    "sha256": "49E878810CCAA610B546EE0D71045034DCFBD35B127C15A298E9CC16FCCDFA89"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "886B8388799E90EF8472DBC9A1FF445AA939F8C1E43E5B4D47C38450A9CD5228"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "3F23DA49B38A35BB2F0AFBACF7FF838FC687A7B1F8DE43F7A3098060BBB78DDC"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "431792ABE8108D9B5F92A27985F55A257A57F67F8F00CF6DACF0453AF31BE237"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "56B769EF5DC064E5599762471ED297D25A4F1FD109BA9DA3C5669B308529BA0F"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "F5EDBD5BD04AA483950580101D2FCD368C38AC8245EFE442AFE2ECD48DC2C21C"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "437D0EAF1CC5C21FA13A01A07B6E8C35CB6FD338995CA7C0C92757FF0AE3667F"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "05ABC395514ED12540747D5C5E5157FA6ACF3E1DF19C6515ED60628590929056"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "7EB0558804BF3BDD3CAEED0B5FCBFF8C4F61436404B816B6EEC899A280F2E289"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "43DDB7A6B806786302A4D38061CE1FD74097562128A8B40A46059B2058C81DDC"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "CD3F4F9E2D7E32D493F76EC59CAA8F08C552B1EE25C93F21D1D4B4A412913F2F"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "5C94F308A201DC21C79F1D3BE56CB41CFDBA27309C99BC1E894A692138EECCD0"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "6E45123F91E2E96BA041DCC496964536EF2A92AAB88FC776D47F527D97A85CA7"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "08B9DF9E7C1DB0C15865C6B2E7384A229B8F7170C45536327AB73E060D8847B4"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "A67AA2FA879596412211DB492F4DC72880986F4FB97DFC8FFDDBE71D9248E789"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "8C6FF95FC9C2D4CB8F6F503D4A0BAE692B96D28E03926E90D2A6D19AF873D516"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "C22FBD1E6EE85B8BFB0D7454B6A59DD063E3F1F5C325442DCC943B43DD8EF5CD"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "B8DE95C371A9A21FFB3141A27927E59CD6549A1BFD51387C5E170F219FC01C33"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "CB3E84E984DCDCE73EC654627C86FBAD29E3320E3F1CCCAD651E02DF5D52B32F"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "DF07687865AF69719409B739D8B02B0F410ACEF80C7F32DAE3757BC08FF4613A"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "F0A5AF507378C740E7B695E46DDAAF56A8B77CC91A3B5A4AF1DC33BE42899D8C"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "F7607D68AD2E8BD0166D8DE879FAEE90228BC394B27DE9D48EE40BA7EFD700B0"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "DAFF8490AAF2DF94CEDEE0033197753A74D21F6A8CFF9DE36D1F4082558571B0"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "14A2CAC44B6898F9FD936B16475B370AFB6002DBA75DC9C1C636569E44D63640"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-08-02-55-07",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-08-02-55-07",
+    "sha256": "4A4BFE1FA5EEACE431750228438C6BE3B7ADE643B287F8E26B0BD48D37A193C9"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "08F4A646DD4B5D3D3559897491FA0D154D5AA86DF768A0435C2433E501DFE21C"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "A2C85F27ABB245CE3FA2E67EAF54C30A4815A758CB01BD3CA7A5EB9A13D361E8"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "8AD268A8E4A4ED81E6E989A092D322C79141E13227A0479D05506AB88A346AB6"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "AB4EA3609CDCBB2149AE86F00B86CF651D213FB69BB050F90703FD8BF9B9F3F2"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "8E73D535A51F02A8D40736699A8963170BA296EDD4CADA67A8AC45D33361754C"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "BD3E36DAB320B127FD3EFFBA4C4BE66B682B2312511351C9936FB16F4D708E44"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "BAA5B3119F17F5A9F10A6E7554AB6D9601017653670B5CD1B43A932ACE57FDA4"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "C5372D76EF9313B7A0502FCE550E843B931D86DDD0E57528FCF0043ED59F074D"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "0BADE416CA7F8D5722294E2CA8423D5C65C17679B142A5B466B51F4FACE833C0"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "D49B376DB39E1BBB2E590BDDDA97EAF73B569966764B5BB0344AC3680AFDF60B"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "E3D6C7DA453D330D8F5BCFDB0CB52F8AFC38FB5B5792A15A653B281208DCA959"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "7093659827ECBB853D51503B03382BC45B04B11C00263CB7D33725CC4D8AEAD7"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "4EB48DEDE00E5B8BAF6A01474248E1E0ED514C6A6F3CFAA96AE12E605547C754"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "1EE215691E62C7C9916BBA5859FDC53698E32420DFA0C4DD94E8659BCD8B8E3F"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "6C764896EB61EB4DC3FBF899DFED5AA105804848E9467F32F1AF09AF0549A11B"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "1228E8370547F63CF2303F94A17F37B2CD7CAD20D496D332BD4E1B073D3110B6"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "AD20D7A28216AA5C6C6C9D141B2983EB88B02447C1AAB4F25B17BFA31EE55185"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "8C57A693D39A3256A09C3ACA0D7DB76FDB67176395BFC9ECB1C30C79D313B910"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "5C588C4D2B00E23DC2AAAC86B18CB4C784ED324DF393D9AD85112409350A903F"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "ECD2FDA11A7EB0B608397037614A5970028E6DD101EC655FBDFBAD2BB7AE306E"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "4BAE96F31EC467D042759F0CF3D6FA4FEEB1172ABA1E71F79B1561C1BDDF293B"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "C3B96AACA5AA727C88EBFA0E0EEA578920776E1DD247E558848C1B4B220B7BA8"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "2448653788C7138F47C12B82F0BC7E5633805FCCF5EA66685437E23B6403577D"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-07-02-56-57",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-07-02-56-57",
+    "sha256": "F9A3BF815F0A97069DA8EF3A01DFD1566089C2DF25B9334C55DE179A21CB340B"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "0ABE2DBC3A9BF66A39EACC8D9580444F197A930AFB9E3BA1E2F74A8D7D9C47E9"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "86E82818A02DBE5F4D539EBECBB7D2EE0D1F838B7F486C5E1AF96DAE917EF0C2"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "B13BAAEBBAE8FF1042E1518A4A24346502A6754FF6DA394A4940E49D777D6456"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "02FF32344116B8CE770A81FC7340CF5E12DD0C27D4C7D4A030381119263C3ABD"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "53707F9704888A4F349418B2D71C9F7B8F2CEA83A37BE13968C1B5569CC00123"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "A9371B48DD48979E82BBF8F92D8FF5204047FF8901CC360CDEF73C89C38AC4E3"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "4390993D089A5B350E39615B79DF7877AF2EF4BD035AA34801EF63EBDAA2C60F"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "865B9D185FBEEC80472148990AB2E0B20267A0C49990B8749E8D641DF19484A5"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "EBB0B2694C7DA81D97328337C630CA4C77A23142FEB163811818E3B2A264C2AB"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "F45B16BCA9DB043E61004355B6D6AD2788CF3454099190F71D3AAB2DFEB9C8BD"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "60864CD7A0E850C687132FB56FC49CE5FA54DBDE08B7A4DD6B27C8ACE4606A96"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "053E093F18131C3634AD2B17BB5C520FAAD47B513059D230A75B526249CEA40E"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "C201E0ECF625435558266DAA46C2D616A9F02D56F0AD95F9C94F31AF3392BAA2"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "5098166C2A4D45D66D5020DCED4278129D3223E52470ADC9B70700AE712595C3"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "A371E43048D68B809DCE06760E8F250393F6DF8C5013DA708FD7E419EB7B6449"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "FD7551A2D0514A3BD80837FC1A2154ECB40A7D0A553456035F5D6682883A121C"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "E71E9CDF9771C310513C361F5E7C59692DB8A568685757A2D56A8892A8167A2F"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "EFB0C47D9B0C3D90BD464B7E7F5413E636B63D60F45B0C3CEC5F31FCAEDC8A94"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "6C06B58BFAE955B52C544B50E7C064D6DD08A48EF615FE2CF085A73103B65321"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "4F36BF2BA231ED3F27B0E2AC6E71A99C24F970328C1EDABBCD36EA24D44C30B7"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "CC8768091195FFECB783C1C7977A3BE2A591FE4FF44307FF2C52B3C34CB215DA"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "3AC858E182A03E1DE1EEC23A46283D00D313C61E414D77FCD64087778D168A53"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "33AC5FEEB081B4F07874220D529F39C611B0E41A24194E498F9E2ADB78725F0C"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-06-02-57-25",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-06-02-57-25",
+    "sha256": "16C4BFF02FCCF0AF00D68A5CB93E1313315094E72C094C3B7269F938668B50A2"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "66CB683AEC1EDEF36C06588F4A3589A8812E0962374FAF14E93377C4931A40E9"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "E0438C27BF01972A31B84ED9214B2C861AD5D8352BECD97E1C92A80849DE5DC5"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "E908A506EC9E84152C5A88569828B812181B762A2E64B203DDEED36C88A0C53B"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "444E411CC4A694866FCD7020F79E76325A57BDD33EC383822E01C6F39E92B6DA"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "AB43549D36897F737CC81DA07BAD29117F84F2FECC1C9F7828BE90B955351048"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "40926EF31E4CF20B98663A048CB3AF5319B59945783F931BD4CAE58DC08CC1B8"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "6804674DF1494E135C578BFA0054B22C34BFC7F78039E08BD79C5B0FDE0DC443"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "1FDFDE1A51BBBCE441DDF478447652721939BB63BAAE27429A1392610B0D36A1"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "0918DE5694196536659FF5D215BEE41AA4B5D83F9AD9075ACBA4FD2BF8B94190"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "270A50F66F50BFBAE3FCDF58A84D76545842CAC81BF04B6845A1455B291B8EF5"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "C1E37B88A848C63A41B363D8198DB9397E1CC0EA608F04385322A95803A0D92A"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "A58CCDA84C4FBF8D8A6BFFB45EAC8880D994CAEFBD2FC9871CBCF45931E9422D"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "F7C9C9E8FCF1D8652DF6804E8E1D4EC086C8EF3D9CD96086653CCE9703CDAF20"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "6BBC312DE222200D63816B3CD5EFA2BA33C821033825A7DE5CFE59F5F4D736C8"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "78F5F83BDCB8A8FB6E96473CFF15A20D4496D83053821B4D701BDAE6D5C461F5"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "CF8B261E4E87C88A18AA9799DE76D4C0C6D96FB8ABE915245A4C896967AA4C0B"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "3482E924262BC259D55E5A1B697F3E7BA0ECCE48EB0B044814CED4E64EE3EE63"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "81284520437C29AD8CB94DCFA0FBF47457AD9EEAE5D84388DD573B0816172580"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "65274411A568993114290A00612EF96A76DEDBF8D2A88DBB84637579C4648395"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "057DCB978406A537629FD5C875539BCE6DB05D286DCE52B54999FC14AF180D02"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "C0D546A4FBB251B9B619324465FD640F4005E76EE5C84A4160EE7DF7B048DF3C"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "42450154AEE483FE8A7D3664FE9C8E73CF931D79A6DBC832EF940FA80C56AF74"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "2B3579263BAEF632BA1A6F611FCCAAB3E10BC9EC097FC9C00781DE0203C8B39F"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-05-02-52-02",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-05-02-52-02",
+    "sha256": "753C199842C5BF03817B94A899FB058857F6D6E7C095D35A38BFF53703D1FCFC"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "5C7036D81B3DEF384877FC892F7A9BBC71F17FD8CD4FB1A9E13EBA100E39FA58"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "C9D7A131E367F7596D58FB1BF243A955FD2D0D05E72F88DACE41742C1D669D81"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "3885F590AB96C80C169DC5448A136A9EAF0397D4B2E9291D9D1AA5C0D1951D1A"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "FB245648972BEE2103E44690CE162B8CDE71657485B8963684B9BA954FF0AC41"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "F683BA15A838B774B02333978490791CC022F4FA7033E46537BB94BAAAFB9D65"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "C10F8D10CF134360462E33AD41CFA3D62363AE0BF6CD21BE984DD46127C891B9"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "D8AB918C1210A5476455BCF4238A1B7E6E10C2F03144631F48ACD2C677547339"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "EC27F3A1BED1C494980AF1F412DD9441F10193F4339A29815932EC3FD07BBFD9"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "1894AA567A8F8CAE420E812F3D96A4E24B75642ECCE258B6096D3CC7118D176A"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "247F25D1CE5851AEC6F9D55769A6EDDBA25D346D80B4F9AAF1A5A161B47B37DB"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "6B218ED2FFCF2B188235895B0F50130E7D6A1FAA450B21B1FBEED8E6F81EDC56"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "BA7A08D65A5F45959DE48A0358566C0A36C1074D9A8EDA0362ADA0F5035D36CC"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "786C4BF9999976D83063945587CA7FD8BF042796915DABE29C258704A3868C82"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "7E00B724845417237813FC0AC6109622E3476D9D9DF0CD3175F6B7EFCE5C2432"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "77CED04F3866B0A76DECCF04F65158C37026F7DDC0695DD42CCE45F9090D2AD0"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "B0BD041CB70606F3CC143BBEECF75ADB0DF58C35E30F2A5D52495EA1C4F34CA4"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "96762C738EB072B82376CD78F3130744C2828D74BCBCF0723F5374189583F4AD"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "5780ACC126A2A5690F7EF427919E93120B4D55718CE5D482ECD86516520080BA"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "53D15CF91D7B53CE71146ABA145763C69481B6F3D6E142E55CE226A5D74BDC01"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "DED33C7C47114D0580CE97182200919A7E66D48A11EFB647B2124433160EFE36"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "E091B0FE80D987D6BE208DB5B94B6B88F7EF6664E32544EA8BC120C15B0B7EFF"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "2469D52439B8F4F158C41C3B3860B0050A6B6F9688A1752FC461D74108D407CF"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "6BA9F345DA636014D2A5CC0BD2C6F46EE33A62DE93D3AE9DE6DA018525FD0A29"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-04-02-47-45",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-04-02-47-45",
+    "sha256": "6274964F7C13A1893405A86D571B62267ED3FBE2D7A39F070929F56A64051170"
   },
   {
     "filename": "lwinput.aui",
@@ -63628,6 +64933,15 @@
     "build": "",
     "url": "http://www.geocities.jp/mosd7500/index.html",
     "sha256": "4661C9A44BD73E763EF404222DFB7B71304FB11A949D6125D542BBE87E012F6B"
+  },
+  {
+    "filename": "SortEffect.auf",
+    "name": "エフェクト並び替え",
+    "author": "謎の生物(さうなさうな)",
+    "version": "1.1",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/SortEffect/releases/tag/1.1",
+    "sha256": "6316B0B15355DA12F06AE3DD41AD764BCC5FC50066AD78890DF33B987D5A06C4"
   },
   {
     "filename": "SortEffect.auf",
