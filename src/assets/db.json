@@ -3573,6 +3573,15 @@
     "sha256": "41B381395D8457C11CAEE01BAE60D885C8509ACA89D266822D0696FC69D9DEC5"
   },
   {
+    "filename": "OutputSeq.auo",
+    "name": "連番出力",
+    "author": "蛇色",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-OutputSeq/releases/tag/1.0.0",
+    "sha256": "356AD37364611E3E2C0F66C25BD61DF0A7F09350EF8C00EC495499E905935FBA"
+  },
+  {
     "filename": "script_sort_patch.auf",
     "name": "スクリプト並び替えパッチ",
     "author": "蛇色",
@@ -4606,6 +4615,438 @@
     "build": "",
     "url": "https://github.com/kumrnm/aviutl-advanced-mouse-operation/releases/tag/v1.0.0",
     "sha256": "85E718C34265685A5C3EB05E4E3B5E53DBB7A5D4EF54BC7EB78C8A1D4E142727"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "309146B7737FFFD2EF3C0E29AD2993F1BD95EE6008EBB56D90363F61611CC7B7"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "8980DADA32BDA4B85ACE9E951CC9F3410C80443FD0938F021E787255E323653C"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "60B37D22AFBA9450287E8456C7234B5A2152BAA1BD3E2025EF6BD1061C611981"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "08C83378B8D43B70038045CDB178B067A96C2CCB81532FF0F7191B0A43BC57E9"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "C9461084FE2EDCC975E11124381365F3C3F53C980D8B795083271488DEA238E5"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "2E55B0624D18419FE7D6F6E3D9F1D55250793166887DE3A2A556FAF525160286"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "E3F351BC37BBE41E4A435D69A01F5783D5DE92DAD3FE294B82D88C96D0E1FF6F"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "6A250DECD8C1819918227CD1B5357AABF62AEB61276598C160701931A0E63931"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "A6FDB1FA85B303D108EB11D24EC7EF398B236145BD813C25FAE3D31372CFB64C"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "9F7D86814C904DFAAA6796BBAA6495A9D91B165967F9A84333912ED4F9B24599"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "30181F6F7DBD68B37476E60640CFCA62702739A641CCC1B4F31937628D785087"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "4B88305574F66468F4BEF2513BFF58E9E835F5A81ABE8FCD2CF3004B4D7E88D7"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "3CA6BFA6E9D7AB55B35D1B7F8871678A34CAB0C4A3ACDAF2488D13685E8FB0DA"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "403E200549CF349F46C8E1B18D49C649926C55ACBFF6A62BB1AAD5A4F859BEE6"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "72323EA325B990D968BFC8BF7DBDA8945CB9DE7BE6296733C38E0935D23B43AB"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "2ED0DA4BBB1B0E4A9525178AA42DD5875FF2EEB8EB55205B061715D79F6E0A18"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "CC7035C8C0D5B77AC5FA1B126E54B3285BAC4BC35E260C1650BC6DD54B298FF3"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "33BE8A139B350C105FAC776D08D7A9BFEAE2D8467A8DA25C0C07AA4126A52F8B"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "553824A78628114F04567B5F6C479E7496F0C091AD1D90C1B0F7CBB120DD42E4"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "BFA162770ADCCAF3DD1F59FCA5DD718CB88751CCD5A5D895C856218694A01D7C"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "B14E5699277F41EB84A58B73400515041141CE320DF64098B0FF6E82371895AC"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "9CB86B4033D5A91D0F08FB8C98B2CCA555D5D9E55995D297DE9E53384B1C7363"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "6D1F6ED84E889105AE5815AA060FCE6BAAE921FFA637E5E774152207E93C290E"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-11-02-57-32",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-11-02-57-32",
+    "sha256": "CC953F5EACBCE1159D32165D76B0C9140BC0E0881C6BD4E922FD592E5759D22D"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "5EFEA64DB19C93490C95038347684348F43D484EE83F7F16C9E67D18F8A1BC1A"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "FAD77FD565BED869B434638C06982B8F0DF3DFBE6D1DB9D687E2CD7ED8C6C44B"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "625A4318CB4CF4B084C920C284388D58F14B76E6CE9591AD0BE6306589DA9F40"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "E46629ED4819152547FB1569201846A257BF58DAA99E0266B276F24076297744"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "7C4CEE4C74C583258329E504715E6BA12F1CCBFA98B62C17E803D72E50D520D8"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "AE5B8C1E96F1E6B9EAA2929CA2B14C583772EB76621DD2830CB59230E4C07C4E"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "132ED3DE7EA1BD3355F94A46C4975CB73DF77AF709BBF8E267974F37AEAD7EE6"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1069",
+    "build": "HolyWu_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "5414CF94023B3445831DC2903B7EB20E70B03236AC25F364A98C3F529544EACE"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "1C8E9E3EAB8E4AA76686D9947E44FFC8688E3BA2E9E7D1F7AF7BDDD9D5D90A71"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "2F7EAC5D7945F62670BBF555959C2CC28A90001CEDCB496E7DDF799460BBCF9F"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "4B0F80E5B8CB28A416EA33703B6ABA32502533B533291E54871B3DA45A1CD137"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "4DE591A499AC8C924B9C29524933298177AFC05AF8AC7363C2C1C23F59097CB9"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "16CC6142EEEEC7CEE6F7B2B879B60E24AE361BF84C2C399BA4E8509CE9CF9CB7"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "7A45E59DA53688DE0BB6379C5694262E1D53FDDDA5E79E1AB2C0A8FEE9C824F0"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "B6DAACDED0AE8EACC14FA009DC64C2D60753BE8C19CF05F8C0869BCE230D1A1B"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r1098",
+    "build": "Mr-Ojii_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "45667E2C82E3F8534904D01B1F2DBC1E540D19D147EAAB2629BE489998F88447"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "485473AEC1432252995D5CCBDB4B60AE8901E362A8D262C73293E0163A72079A"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "4CB597237BBA2717857BF2BB673CC192E313D055B325C7038D285014A11D9985"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "A72C8DF1105C92C935920220B83B2A3EFA3E3107F9BF69D4A9628BFFF8D13335"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_l-smash build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "B35DAC63A1E63DB3232B06BCE6937F83E2507D7F295BA02C62E7B0C1A15BA124"
+  },
+  {
+    "filename": "lwinput.aui",
+    "name": "L-SMASH Works File Reader",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "144638EEFD0BFF89DB2C59F736FA10E925C5307C03C0460070A01085F3F502EB"
+  },
+  {
+    "filename": "lwdumper.auf",
+    "name": "L-SMASH Works Dumper",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "00FD0676C0FD7557684D455A143B0F54AB6113EF798F52E493F09614004D1191"
+  },
+  {
+    "filename": "lwmuxer.auf",
+    "name": "L-SMASH Works Muxer",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "5E2BDE70C80FEF1D317CE34C4856CB16D9A35940DEE3E0EE80AF417307962526"
+  },
+  {
+    "filename": "lwcolor.auc",
+    "name": "L-SMASH Works Color Space Converter",
+    "author": "Mr-Ojii",
+    "version": "r940",
+    "build": "VFR-maniac_Mr-Ojii build-2022-09-10-02-56-30",
+    "url": "https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/tag/build-2022-09-10-02-56-30",
+    "sha256": "641809A14079FE98F6B01AFC1140C8936B06737277F75E73FD3B8F30E8E509D0"
   },
   {
     "filename": "lwinput.aui",
@@ -67309,6 +67750,1500 @@
     "build": "",
     "url": "https://www.nicovideo.jp/watch/sm34877728",
     "sha256": "E80BD1E0BEDD087876263ABA08C7B89D60F372C2B734A87C8442F0F87A2AE7DE"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.15",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.15",
+    "sha256": "665A3E28A58498DDC3D32FE0CE2AE32D2787C00AF81A52DC4F45238CFDB48903"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.14",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.14",
+    "sha256": "E5596AB93439F89A1AB1E27369A9FC4BE448B1F3249349E29A6B03CBF3E2E546"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.13",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.13",
+    "sha256": "9B9E98189CB2AA7E28C0A354E7208595F7D1EBA2181FB3090A7BB0167799B1CC"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.12",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.12",
+    "sha256": "B8CB6AC52C86D6EF38DF2F227095C200D13980AE1C753000273B79075973E690"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.11",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.11",
+    "sha256": "96EEC5A7C5ADE39D5B7FCA71B3D5E882A3349B7EB9E0101C643D61F49A89107F"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.10",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.10",
+    "sha256": "8CD75CE3656AF5395B1F5EC4F4CCC4C11FB06584271C04E8E67256C34C0E0748"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.09",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.09",
+    "sha256": "A215EE9E14608746694B56D1CD6DC86BF6131BD35A76720B91912EC752D780BD"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.08",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.08",
+    "sha256": "9F341114AEA8501B692ECFF2A03B6EE13FF42A94C3B4832A72C50F47096CB840"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.07",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.07",
+    "sha256": "0A31DAFB1A12300A0742E2AC8D77C773E2E5DA1901A9179E5E3C4A0795361206"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.06",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.06",
+    "sha256": "8CE5619B2BB3CD59D8289EFE0548EA17CDA4584B13736934122668E762FCCDE0"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.05",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.05",
+    "sha256": "14004735D5035B79D16B90C7A91DB339E866C71BE7502F3A09F770040A9CA981"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.04",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.04",
+    "sha256": "F962344297F45E7D5C90F1D060BC082B79BF738B46C9A71A85A1CF4C884DFD8A"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.03",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.03",
+    "sha256": "E8789043C03E5CF44154620192EB71963A0C48A6337FC4B4443E9CE65D93D835"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.02",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.02",
+    "sha256": "2668002845F4815EC1991A235F0A7E833F158573366D21150922E86AD36CFB0A"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.01",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.01",
+    "sha256": "F8008D299244404107E6FBB51A046421D09C1CF5844C64B57E24C7AFF85BB9FD"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.00",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/3.00",
+    "sha256": "82F7F43B361563F2F6B575D01BA4BB9E7AC094866C27EF32A16F131F71BC3501"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "2.73",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/2.73",
+    "sha256": "8E31909906FB3B2066B1326096E2603A89032F314E45B56BC2162267D9100573"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "2.72",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/2.72",
+    "sha256": "73D6A53B2226E5143C14DD9641CE0BC600D8212DE0F5E15EAC0ED39603562CF5"
+  },
+  {
+    "filename": "x264guiEx.auo",
+    "name": "拡張 x264 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "2.71",
+    "build": "",
+    "url": "https://github.com/rigaya/x264guiEx/releases/tag/2.71",
+    "sha256": "249F99D8BE0F9398AEF98CAFC9A7418786553F88C0D5C1D8042A306F162BD832"
+  },
+  {
+    "filename": "x265guiEx.auo",
+    "name": "拡張 x265 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "4.06",
+    "build": "",
+    "url": "https://github.com/rigaya/x265guiEx/releases/tag/4.06",
+    "sha256": "F43626F5CE3F55CCBB4B685DB050E3A28FB2A553C5D4A2C075DF47ABF3EDB0B1"
+  },
+  {
+    "filename": "x265guiEx.auo",
+    "name": "拡張 x265 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "4.05",
+    "build": "",
+    "url": "https://github.com/rigaya/x265guiEx/releases/tag/4.05",
+    "sha256": "98F75E9E9BB09A37B975C354B0159E136E29A96CF250A5F9D88BC553B87B7136"
+  },
+  {
+    "filename": "x265guiEx.auo",
+    "name": "拡張 x265 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "4.04",
+    "build": "",
+    "url": "https://github.com/rigaya/x265guiEx/releases/tag/4.04",
+    "sha256": "F57B484C36E7D0DC04D26C5A7712ED6DE4F2566B4ACF64F24FAAB85C4F2CD06D"
+  },
+  {
+    "filename": "x265guiEx.auo",
+    "name": "拡張 x265 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "4.03",
+    "build": "",
+    "url": "https://github.com/rigaya/x265guiEx/releases/tag/4.03",
+    "sha256": "D8ACB0A5781FB44F7E8B67A6A32A2CE68A9C85448E0CF00D85063C73056E269A"
+  },
+  {
+    "filename": "x265guiEx.auo",
+    "name": "拡張 x265 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "4.02",
+    "build": "",
+    "url": "https://github.com/rigaya/x265guiEx/releases/tag/4.02",
+    "sha256": "63B96BEA67952AEE4C4EB129B539719F4D029F4688AE218937AA15AB3E719FF1"
+  },
+  {
+    "filename": "x265guiEx.auo",
+    "name": "拡張 x265 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "4.01",
+    "build": "",
+    "url": "https://github.com/rigaya/x265guiEx/releases/tag/4.01",
+    "sha256": "896DB8474B451DB06184C736DCD364E5D1DE8A664705D3A845B103F86FE5B397"
+  },
+  {
+    "filename": "x265guiEx.auo",
+    "name": "拡張 x265 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "4.00",
+    "build": "",
+    "url": "https://github.com/rigaya/x265guiEx/releases/tag/4.00",
+    "sha256": "653605E4FE8A44D7519BF2B4417DEB6836BAB0598D8729CC32CCF8A358B23970"
+  },
+  {
+    "filename": "x265guiEx.auo",
+    "name": "拡張 x265 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.104",
+    "build": "",
+    "url": "https://github.com/rigaya/x265guiEx/releases/tag/3.104",
+    "sha256": "4D101BC39E7C5D1DBB2B52C1B8309722133857406A3B0BDA38F03A7BCFE945AA"
+  },
+  {
+    "filename": "x265guiEx.auo",
+    "name": "拡張 x265 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "3.103",
+    "build": "",
+    "url": "https://github.com/rigaya/x265guiEx/releases/tag/3.103",
+    "sha256": "6317ED5F70EAB123DE4331F14D8234CAAB8FA35C7378B9BC1C235BD3596384CE"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.16",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.16",
+    "sha256": "7E9A04AC2B4315492323D1147962756661E32855537E9059F47048528A70EA51"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.15",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.15",
+    "sha256": "CC4D3B97EF1A6295E02BECA6757E98BADF6368764C749D3192122B8315C38B9D"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.14",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.14",
+    "sha256": "BFBE869A576F06AD6B8552E91DB10A035E59E86FD34BEBF4EE300EF28FC23B1A"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.13",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.13",
+    "sha256": "8100DC9A89B6FA4B310E2530573A35C8D85169E10C5968F92999E19E65989643"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.12",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.12",
+    "sha256": "013ACB1755EAF92F7A98AA3951EC7EA60AB228E2EA137FAB28825651FA1CE7EB"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.11",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.11",
+    "sha256": "B770B23C6EC2655F7A6A2DBC3D24C463E77D90E3DD202542A5AE30B8C8EFF7C7"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.10",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.10",
+    "sha256": "1DD54F3055C41CF939EA1BD616E6C19AADBD651EA338DF03E256C5D99E277E18"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.09",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.09",
+    "sha256": "6A8194BD8FA83B9A89D9BF25FE71417E4EC4ACA955C8CDFA0FC1C4BF0F5B7E0A"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.08",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.08",
+    "sha256": "1DDEACBEE01AE2697B61E84B51ED067554D773D3E28591085449662D555B9F63"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.07",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.07",
+    "sha256": "7319A2945337BB5BD501DB89CF338A04156B6995DF66544FAB2256E1EBEC02E0"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.06",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.06",
+    "sha256": "96F418726C90243F7DB3951436C7A5BFF6256E2251EEDB4441165CDA1EE7786F"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.05",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.05",
+    "sha256": "3D1C87F2957BF582FE469097957E232E892F6AC75B081F80FD0A48AFE08724E7"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.04",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.04",
+    "sha256": "04C3741CC1E72BAF18D699244C8B60FC0404CAC8BF9CC3D0014F6B591B890538"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.03",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.03",
+    "sha256": "BA0E8644C31B8847622E8E549A69569D3BFA795D7737FBCA22E7CC3591F4C417"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.02",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.02",
+    "sha256": "62131A0FA29F685F019D63752965A2B09956E2824589B87CAA893CFCAEEFAF47"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.01",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.01",
+    "sha256": "2457A8AC8D57B413D4E02524429435D394B2EF18714841C51F009F9C00312158"
+  },
+  {
+    "filename": "QSVEnc.auo",
+    "name": "拡張 QSV 出力",
+    "author": "rigaya",
+    "version": "7.00",
+    "build": "",
+    "url": "https://github.com/rigaya/QSVEnc/releases/tag/7.00",
+    "sha256": "EA00421446F3EC1C40390FC21FCA0258DC8D12D7DC5C35259F120A03897E6FFC"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.10",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.10",
+    "sha256": "C6D92E62DDA5E6A254F3C8796CF2AE0E29C720347734784688347B6ABAE57F0E"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.09",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.09",
+    "sha256": "3E9FF1E52B649C9EF07B9D803F6766A9F22385291BA116F1B156BF74EC43F9BE"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.08",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.08",
+    "sha256": "5B6754AB5FE32157101F454DFBC2C31C3E34EB85C8D0F21A98EB1FF2CFC9738F"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.07",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.07",
+    "sha256": "DE4DDD4F7BA6D192457A3BDB46C520B55412959037F5C2BF46742091B91DB328"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.06",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.06",
+    "sha256": "17C9440A779ED8235DBDC5FFA74F9A6AB42F8B84EB6ED7E8DB9EFA69F413779F"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.05",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.05",
+    "sha256": "FD94D9C9FD1D1407BCC814F656EF32EDC48530DC9488705EFD8FE0E6A58A6AE5"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.04",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.04",
+    "sha256": "AB45E35E794E111909540B325B1938C653F26A093840234FE8AB3E3691732215"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.03",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.03",
+    "sha256": "47D41C83109B2C7E43B8F846D356BBD952BFABF91BB875B446289D4382E01F1D"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.02",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.02",
+    "sha256": "F95EBB8587C7771697E5C0EB9D579AF042E2D4C0ECEF38525E0F058534679BA8"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.01",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.01",
+    "sha256": "9CECC2DADC968FFB2183109EDD5C1A2E1B25525558D8F9918E7624E426D589D6"
+  },
+  {
+    "filename": "NVEnc.auo",
+    "name": "拡張 NVEnc 出力",
+    "author": "rigaya",
+    "version": "6.00",
+    "build": "",
+    "url": "https://github.com/rigaya/NVEnc/releases/tag/6.00",
+    "sha256": "FE56014E8592FDFFAC67D3F771964358FD98584D47097438057075F3F7278242"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.09",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.09",
+    "sha256": "EAC8368B00C5165B83C9B74EA3542A1F074133E40EAB121D0058742F81B4B1BA"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.08",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.08",
+    "sha256": "A3D523CE696097B9240271412425616EDAC512EB9A6EEC98A85F8DAD769A7743"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.07",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.07",
+    "sha256": "0AA5AD42B9140F8883EB1EE4ABF64680BF9756387D20BF04714FD28B441F6F9B"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.06",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.06",
+    "sha256": "A0AD95C5B4187688299C7BF4C7557E19B020F106F0D29F8D3C604EDC819BEEF2"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.05",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.05",
+    "sha256": "B2B384D7549B20E3D4434BF2DCE2F6266298A1A5741CF854B628E0933BADF8B8"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.04",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.04",
+    "sha256": "A3128F64EFC1D19026EFAB399D38048422D9AA5A6EA8803CC145A91791CB7255"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.03",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.03",
+    "sha256": "8035712ADD7977D0215D4D1C44DC9A94C587CA7E15ECEB9ED164FE12EC49C6A1"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.02",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.02",
+    "sha256": "48D8A5F59C6D2BD562BE0A44CA0E11DA6BAD7D5846140B7B76945B7465DC32F5"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.01",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.01",
+    "sha256": "9F955221037275F73D06921B8F1B911DEE940E453EBAA6B961A20F09C612D1BF"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.00",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.00",
+    "sha256": "06EAE8AB418B46CD3D4DB49F5D864EE38DF97B4DCE6811130C3A686A5B4C0840"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.09",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.09",
+    "sha256": "6FB4E700D6D7F1DCBAD22E1D71A63D744CC2A3ECD9DD70CA83D176F9FE0E1F65"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.08",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.08",
+    "sha256": "2039AEEC8040AAA6142FFA2D28F9502DBDC9CD55E3F7D39BD3AA45941B4D4EDD"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.07",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.07",
+    "sha256": "EBFC027156B5024E4740320AA67B62710B523736346CABD0939DD3150DC64DE0"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.06",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.06",
+    "sha256": "D37CB60DB361F66EB5C43DE15004FF7B451B6BE55C84B7C9EFEE4B6798282595"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.05",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.05",
+    "sha256": "6E0B919A503311268189BA1B77542F58FA9082D5E2A14009F56F32BB685E1B27"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.04",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.04",
+    "sha256": "C704213252C449D2C921FA80B7FD5E61F8DB77863A51A30CC63ADC0CA222902E"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.03",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.03",
+    "sha256": "DB9777B53762413E36CFADCB4F9D8EB0DE78C78F6058D7E3F0ABE964FE8C0A6E"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.02",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.02",
+    "sha256": "B333C2B605AE9326A48DC664C662BCC89AA7FAA55F4059F6A2823AD84C6C1B55"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.01",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.01",
+    "sha256": "4A05CD982872E68C81029AC7153FEED649E9BD027AE97C0AC9C49FD21D74F848"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "1.00",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/1.00",
+    "sha256": "22C1686303E9A18C3F27A3B154BD8C8834301DF152619E11F4C7229A4B7B8E06"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "0.12",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/0.12",
+    "sha256": "5F486F83B641A02401EA3A737A3768A79996227DAC62B7704928B1A2F9719A9C"
+  },
+  {
+    "filename": "svtAV1guiEx.auo",
+    "name": "拡張 SVT-AV1 出力(GUI) Ex",
+    "author": "rigaya",
+    "version": "0.11",
+    "build": "",
+    "url": "https://github.com/rigaya/svtAV1guiEx/releases/tag/0.11",
+    "sha256": "97C48538E5E649EB39CAEB34EC57D4FC50D8656F17D53B9EEBBF47D2FBA17E4C"
+  },
+  {
+    "filename": "ffmpegOut.auo",
+    "name": "ffmpeg 出力",
+    "author": "rigaya",
+    "version": "1.02",
+    "build": "",
+    "url": "https://github.com/rigaya/ffmpegOut/releases/tag/1.02",
+    "sha256": "D59E29D54D5D88DF1978DAE67924ADCC4F70587A2CF8AD1072E9696820056894"
+  },
+  {
+    "filename": "ffmpegOut.auo",
+    "name": "ffmpeg 出力",
+    "author": "rigaya",
+    "version": "1.01",
+    "build": "",
+    "url": "https://github.com/rigaya/ffmpegOut/releases/tag/1.01",
+    "sha256": "336B1B0DF2E162F83CDE8BD166E54670D9A9BA4B469B2626466B0FB7FDCD12F7"
+  },
+  {
+    "filename": "ffmpegOut.auo",
+    "name": "ffmpeg 出力",
+    "author": "rigaya",
+    "version": "1.00",
+    "build": "",
+    "url": "https://github.com/rigaya/ffmpegOut/releases/tag/1.00",
+    "sha256": "41EA3FA55F9575F0B8519B4D75A01C50E40D6DE59C21F12CE1D6DB803DC31875"
+  },
+  {
+    "filename": "ffmpegOut.auo",
+    "name": "ffmpeg 出力",
+    "author": "rigaya",
+    "version": "0.11",
+    "build": "",
+    "url": "https://github.com/rigaya/ffmpegOut/releases/tag/0.11",
+    "sha256": "B27F83B9ABCADA2334EEAD89BAF6769E2A259B93EC2B522540BEB36D9171FD87"
+  },
+  {
+    "filename": "clfilters.auf",
+    "name": "clfilters",
+    "author": "rigaya",
+    "version": "0.01",
+    "build": "",
+    "url": "https://github.com/rigaya/Aviutl-clfilters/releases/tag/0.01",
+    "sha256": "B9EB158E36DB3FCF76CD7B1365B7A97BE1824B126363667319DF7E2DD2CBCBE1"
+  },
+  {
+    "filename": "clfilters.auf",
+    "name": "clfilters",
+    "author": "rigaya",
+    "version": "0.00",
+    "build": "",
+    "url": "https://github.com/rigaya/Aviutl-clfilters/releases/tag/0.00",
+    "sha256": "24E611B699B91989AA94C391E60397C893B02EFB06BB1DDE05613C1A9D787348"
+  },
+  {
+    "filename": "pmd_mt.auf",
+    "name": "PMD_MT",
+    "author": "rigaya",
+    "version": "+7",
+    "build": "",
+    "url": "https://github.com/rigaya/pmd_mt/releases/tag/%2B7",
+    "sha256": "E3F071E6E536849EA7B1BF39EDF16590E265BCF6067DB05DBDD8D1358A6750C3"
+  },
+  {
+    "filename": "color_bt2020nc.auc",
+    "name": "AviutlColor BT.2020nc (st)",
+    "author": "rigaya",
+    "version": "0.02",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com/blog-category-25.html",
+    "sha256": "0B4287E6CB8698C694E43A25D0853079FE48C1F744B9B57526E97E83DDF62C43"
+  },
+  {
+    "filename": "color_bt2020nc.auc",
+    "name": "AviutlColor BT.2020nc (st)",
+    "author": "rigaya",
+    "version": "0.01",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com/blog-category-25.html",
+    "sha256": "D895A5E0AEE112318BADD1A9B23CCAD4C11D761E8F673C6C70B409E5FCBD9FA3"
+  },
+  {
+    "filename": "color_bt2020nc.auc",
+    "name": "AviutlColor BT.2020nc (st)",
+    "author": "rigaya",
+    "version": "0.00",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com/blog-category-25.html",
+    "sha256": "38F9B6013975F89075071907670545279BA62A3EFAF7AE9F52A03C40E944823E"
+  },
+  {
+    "filename": "color_bt601.auc",
+    "name": "AviutlColor BT.601 (st)",
+    "author": "rigaya",
+    "version": "0.02",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com/blog-category-25.html",
+    "sha256": "EE3B8C98E9CE09E1155EDDDE81CC13F5847404263CD92074CF4878E8767542E9"
+  },
+  {
+    "filename": "color_bt601.auc",
+    "name": "AviutlColor BT.601 (st)",
+    "author": "rigaya",
+    "version": "0.01",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com/blog-category-25.html",
+    "sha256": "85642DB9175200DBDF85893CAD23B9C7AE16F81795ACE1323BDF7BD7554343D6"
+  },
+  {
+    "filename": "color_bt601.auc",
+    "name": "AviutlColor BT.601 (st)",
+    "author": "rigaya",
+    "version": "0.00",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com/blog-category-25.html",
+    "sha256": "356B18FF66EB160E49A565BDB184CDCA932AD80C0C2DAEC848D584E7856A9E50"
+  },
+  {
+    "filename": "color_bt709.auc",
+    "name": "AviutlColor BT.709 (st)",
+    "author": "rigaya",
+    "version": "0.02",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com/blog-category-25.html",
+    "sha256": "C2AE4E64A2266B3E3BD52191B971508FFEB9086360E1D9AB4DC2C0CD80F1B5B7"
+  },
+  {
+    "filename": "color_bt709.auc",
+    "name": "AviutlColor BT.709 (st)",
+    "author": "rigaya",
+    "version": "0.01",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com/blog-category-25.html",
+    "sha256": "F25E699DE94F57AE41FD82E91DAB30429CFAAAE9812CACBE63A22950E20B6CB7"
+  },
+  {
+    "filename": "color_bt709.auc",
+    "name": "AviutlColor BT.709 (st)",
+    "author": "rigaya",
+    "version": "0.00",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com/blog-category-25.html",
+    "sha256": "73236B356A5B0F855C3085FF3CDC6D3162A14DFA56DAAAD3B39935D12EE99AAA"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+22",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "EF5C01DD5D03D26AD51CE09D36C0525FCE02535F07C20A52D7DFD34DBFD3F6E1"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+19",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "FA6EB6FA45DCACAB9709FDF51F317594A551DF2102E33EF724BA4252508AC6FD"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+18",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "02787EC84955FB2259E8FF9F29379F8CB59687E25A66AD8E7CC5294A20CDDB3F"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+17",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "9EAF8F007D66D2AC1150A49A4EB05EE1EB8C3BDA07B79A92EB7A28D12A43DFBA"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+16",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "7B65D7D8221F229F70CE7AB078083D734E88E0B1AC49A1116E200BF4DF48F9FC"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+14",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "AEA00E69380B7A65E7994FFF6EA26DBA469134AFF0967A6BEB9A33586EF9E6B8"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+13",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "4BB28A164DC67E161159745AF2B6C6EDDF4426224869AC5470F4432579574BBA"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+12",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "15611F91BB890D8F5E0448A5EF2B890BCD2925370A833B08EB00B2576A8B035F"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+10",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "63EFC723F122264D7E89806ADE625510183936A7DADC0453E79FF016C458BF0B"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+8",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "707E7280B73F3D92F0F5710B7105A2BBD5484CF59CE8B9F67D6B11E1B5FB1322"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+7",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "C1DD5A7CEE10A5AFAC961B4644B703946C0083C1A9E3F780011531FC919D09AF"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+6",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "C1DD5A7CEE10A5AFAC961B4644B703946C0083C1A9E3F780011531FC919D09AF"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+5",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "F6CF2B48198BBA44E2B52C3E820CC6E523D649F7A98DA6006638E20E2D9558BA"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+4",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "8580E969CECC048B3EFF1468DCCAC505A91ABEDD176B4E7A978A518E1359DF50"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+3",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "6247AC9E05FEBE9691DDE2B8512C5FE243EF0E82262B9789A21172039FF32160"
+  },
+  {
+    "filename": "afs.auf",
+    "name": "自動フィールドシフト",
+    "author": "rigaya",
+    "version": "7.5a+2",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "AD2CFFC126C8013AE5CD7A3A032CA5B206207CD91F0A8AA064AB25FFCB4DDA6E"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+22",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "7E96240E03C2EE7089DF9F39EC997FF624B1D856B83ACDA05B4BBEDE1214D69A"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+19",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "F4FB6CDA9F96D62DB6F41E31923C60832EE85CD31D2BCF27A087C05CE05F99D5"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+18",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "1272C2FAFFBCC559413F8B724503F63DFCC89ED0832B2E1C8BBAE21A36BFA13C"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+17",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "D5415981C00404B01CB4D78FE9D1FDCF00B12DC1A2A84379273670E5C5FC34F5"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+16",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "1705EFCE648660C586990610DF5532C101C96F3B253AA047F93FC661F2CAEBAC"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+14",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "D99E241CCEA6D50CAA0C926D5A06DABE0E01BC639F183041F19BE6248F64A66C"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+13",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "A92803F890957012CC490E030D9D91E28F6F89FA920B285C10DBABC5FE719677"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+12",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "C03FC09AE305835C4E34514DB4DE7B2BB2463B642CB952CA6D64DC52B62D7957"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+10",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "1A98018B053E680C06086605ACDF04D1C6B8C2633A2C8D2566E79A70F2AA29AB"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+8",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "13EA9A042226F73F086B57FBC2170D853BFA489ADB7515C985262DC32F39FBFB"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+7",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "6274219272DF2E8C463F1A259CA66B83145D16D6DCFE393199B698FAF39D668C"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+6",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "6274219272DF2E8C463F1A259CA66B83145D16D6DCFE393199B698FAF39D668C"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+5",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "3B899EFA2236D5A4EF6FA248CFD2B868CED3134E7ACAE85E7E1FA268B02D6BE6"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+4",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "94D790651B7B4B16743BFE421664008BC1A2AA606D4E4CB15DD71BBED4A02C10"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+3",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "E8C794289BD943B518E56E5D6C46DCB7BB878A2CD432CFE3DFDFB3E22F9B1EA0"
+  },
+  {
+    "filename": "afsvf.auf",
+    "name": "自動フィールドシフトVF",
+    "author": "rigaya",
+    "version": "7.5a+2",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "7F3CB9DE1FC18B633D21B3FAEEECF7B7A7EEA137EFCE91EE5EF9369018AD8D72"
+  },
+  {
+    "filename": "edgelevelMT.auf",
+    "name": "エッジレベル調整 MT",
+    "author": "rigaya",
+    "version": "0.7v9",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "704725E485E77BE01F3EED8908316DD1135107368D908F1622A8FC4F393345AD"
+  },
+  {
+    "filename": "edgelevelMT.auf",
+    "name": "エッジレベル調整 MT",
+    "author": "rigaya",
+    "version": "0.7v8",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "1361BBD8BEDACC1789BBB9558C3F310178C469EA2DCAE5E76A45CAB7F8F4C859"
+  },
+  {
+    "filename": "edgelevelMT.auf",
+    "name": "エッジレベル調整 MT",
+    "author": "rigaya",
+    "version": "0.7v7",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "F510F5543F692753946A054D91EDF56B158D490563D1D571E2EEDF59A9AF5E58"
+  },
+  {
+    "filename": "edgelevelMT.auf",
+    "name": "エッジレベル調整 MT",
+    "author": "rigaya",
+    "version": "0.7v5",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "308BA1D88B8A6FF2F3B6B8BCFA757095D28B4D1D308AC09A0FBC94CEE6732C0D"
+  },
+  {
+    "filename": "edgelevelMT.auf",
+    "name": "エッジレベル調整 MT",
+    "author": "rigaya",
+    "version": "0.7v4",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "97A76BDAFE9C05FC1AAB853B63BB4D2D3F415AA85961634F9FBB5FECBE282CAA"
+  },
+  {
+    "filename": "edgelevelMT.auf",
+    "name": "エッジレベル調整 MT",
+    "author": "rigaya",
+    "version": "0.7v3",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "AE2BAE8809C918494172E4C66E1FEBA3001B82347F8EEB306B43FCA5E4483AF1"
+  },
+  {
+    "filename": "edgelevelMT.auf",
+    "name": "エッジレベル調整 MT",
+    "author": "rigaya",
+    "version": "0.7",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "82CA1E1C634A0C6CEE51D6F79BB58ACCFC5E4C6C5AEB858DAC71CD85FD06FDDD"
+  },
+  {
+    "filename": "bandingMT_simd.auf",
+    "name": "バンディング低減MT SIMD",
+    "author": "rigaya",
+    "version": "0.7v17+8",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "B9F0F9A14DDEDF67006AE0C6F4F29D18C7D49A15876C6AE2B00FC6D5A97EA0FA"
+  },
+  {
+    "filename": "bandingMT_simd.auf",
+    "name": "バンディング低減MT SIMD",
+    "author": "rigaya",
+    "version": "0.7v17+7",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "01BC16A77EF3A266D3DCE5ADE1A84B5427F7D14F0C6883131840C1BD9498ED66"
+  },
+  {
+    "filename": "bandingMT_simd.auf",
+    "name": "バンディング低減MT SIMD",
+    "author": "rigaya",
+    "version": "0.7v17+6",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "815E1E10F261535741088C5C1419DBC4C8BB9B6ABCCEDD6D71FB3B30A159E21E"
+  },
+  {
+    "filename": "bandingMT_simd.auf",
+    "name": "バンディング低減MT SIMD",
+    "author": "rigaya",
+    "version": "0.7v17+5",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "2C57374875374A7A4938116FDB9874314C194567B788EB480F215835C8AB670C"
+  },
+  {
+    "filename": "bandingMT_simd.auf",
+    "name": "バンディング低減MT SIMD",
+    "author": "rigaya",
+    "version": "0.7v17+4",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "4416FE13749AC70F3D4825E1CD706F5D58DFB72A97395EB390F1F6EBEBFF8639"
+  },
+  {
+    "filename": "bandingMT_simd.auf",
+    "name": "バンディング低減MT SIMD",
+    "author": "rigaya",
+    "version": "0.7v17+2",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "CAD6CF9F9F7608A96AAE542F554D2811BBF655177BB89E0DDD8A0E47798FBA97"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r17",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "CE7AD015606B347F34EE1656A46FE365F14055DBBDC77C606944656DC78AB068"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r16",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "E44207AE668A5FAFDF121D58B3E4FDFCBDB1773F8BA270F22F331DFA5C518160"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r15",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "76BE3C64DDBD6EEB76E7BC883E6291289B7AC981D70A5CDE0EF9902E0AC334CE"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r14",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "DDFFED66EFC290913E2DE6582FF4A0A9E03795028FF915290492743D9B5BC891"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r13",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "A57317D4F586656B5F8C10512801C3707D11C7D209C7D2C0B87BF02EC777158D"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r12",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "8BCB052AA4583A05A25B15F7C13AAF4433283D6C83EBB9784669BD43839C98E7"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r10",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "D46312222B803324E7BFA1E3C502FC80DDBEB9936F5DC098C819F2C683AACF85"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r08",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "F719F659EEB98BEC2400B97A9CBEF90CF7753F8A880E6602453F4180E2EBBC78"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r07",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "4C22598F4DEDA72D1F03D92AE53B1AB1FEF8EC5080235E805064F9197F93C529"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r06",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "9F45B144C8F1D5ADC86BCA3872F74E2EAFDAA7915CD82BF629D0F85465DFEF7B"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r05",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "3F23F89968296417391ABF48F0DF420A211D3ACFF1621E01CDFB32EF6949E22B"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "r04",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "9E173992A02B9585112D24D53567D2B2DE67C7F9F17321A183D3B042A0B1DF88"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "20150110",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "7AFE7D0879F7A2830EAA401F38EEAF9A7300FE340B79B57E4AB1369AEEF565C8"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "20150108",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "97A0045FDC940BC51A9844D4033E3F39D0FCD9481F69FC2472B63902F090811C"
+  },
+  {
+    "filename": "delogo.auf",
+    "name": "透過性ロゴ",
+    "author": "rigaya",
+    "version": "20141006",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "B8F9A45C81C8747386B168B7C3DA2CD549B902BA6BC2418B34A3B71C8F8432C2"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr17",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "500BB69A26F2C985CB76532E90080E38F42968E107F95CDFBA2CACB2BB1F17DD"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr16",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "5F2B581973CBFF859CBEC2B56AC1A73B88C488E981DA6AD9B64E6D548EBAAD5A"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr15",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "6BCE1A10F676D933063DFE872738DC9DF8E4AE8A9707C326BCE3D0CA18EF7140"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr14",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "6C4AB82BE04A40836E2533F91076629770FBAFE1B23F8525A34CC3FDC14DF140"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr13",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "974A62153617CDC22DD19A4BF484DB658D778B7D823EC65D7C5266F672926214"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr12",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "82936F976FD0B346E36C569B010CA0BC756AFED11E3ACFB685694DBEF4EFA774"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr10",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "82936F976FD0B346E36C569B010CA0BC756AFED11E3ACFB685694DBEF4EFA774"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr08",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "3B2B3ED2E0111C09B62CAE982E110B9938001ADC0654DEA78FDD51AFEA027AB2"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr07",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "3B2B3ED2E0111C09B62CAE982E110B9938001ADC0654DEA78FDD51AFEA027AB2"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr06",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "48DD809801404A642B1C302D4E6F234E69D7002A9AB0966C631E9BFE0C58131C"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr05",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "E8A8BA14F2BE443C8B635CC710EC700DD0945613A61767CEB8D46F0B47E9B04A"
+  },
+  {
+    "filename": "logoscan.auf",
+    "name": "ロゴ解析",
+    "author": "rigaya",
+    "version": "透過性ロゴr04",
+    "build": "",
+    "url": "https://rigaya34589.blog.fc2.com",
+    "sha256": "6664FEB4DBCBC977BC39D098833F98323EB561119AA40FBD2D94016A5C64C0FF"
   },
   {
     "filename": "vsthost_1.auf",
