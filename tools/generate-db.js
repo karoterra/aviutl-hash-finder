@@ -18,6 +18,7 @@ import mtripg6666tdr from "./lib/db-generator/mtripg6666tdr.js";
 import n099 from "./lib/db-generator/n099.js";
 import nazonoSauna from "./lib/db-generator/nazono-sauna.js";
 import oov from "./lib/db-generator/oov.js";
+import rigaya from "./lib/db-generator/rigaya.js";
 import ritchan from "./lib/db-generator/ritchan.js";
 import yanagi from "./lib/db-generator/yanagi.js";
 
@@ -50,6 +51,7 @@ async function main() {
     n099,
     nazonoSauna,
     oov,
+    rigaya,
     ritchan,
     yanagi,
   });

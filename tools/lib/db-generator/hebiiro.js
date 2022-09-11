@@ -61,6 +61,10 @@ export default async () => {
       [{ filename: "OptimizeEditBox.auf", name: "エディットボックス最適化" }],
     ],
     [
+      "AviUtl-Plugin-OutputSeq",
+      [{ filename: "OutputSeq.auo", name: "連番出力" }],
+    ],
+    [
       "AviUtl-Plugin-script_sort_patch",
       [{ filename: "script_sort_patch.auf", name: "スクリプト並び替えパッチ" }],
     ],
