@@ -23,6 +23,7 @@ import rikky from "./lib/db-generator/rikky.js";
 import ritchan from "./lib/db-generator/ritchan.js";
 import suzune25254649 from "./lib/db-generator/suzune25254649.js";
 import yanagi from "./lib/db-generator/yanagi.js";
+import yumetodo from "./lib/db-generator/yumetodo.js";
 
 async function runGenerators(dist, generators) {
   const keys = Object.keys(generators).sort();
@@ -58,6 +59,7 @@ async function main() {
     ritchan,
     suzune25254649,
     yanagi,
+    yumetodo,
   });
 
   console.log("writing...");

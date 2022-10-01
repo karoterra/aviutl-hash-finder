@@ -98,6 +98,7 @@ async function calc7zSha256(archive, filenames) {
 async function appendGitHubReleases(dist, author, ghId, repo, items, opt = {}) {
   const defaultOpt = {
     downloadSource: false,
+    authorNamer: () => author,
     versionNamer: (data) => data.release.tag_name,
     buildNamer: () => "",
   };
@@ -152,7 +153,7 @@ async function appendGitHubReleases(dist, author, ghId, repo, items, opt = {}) {
             data[key] = {
               filename: item.filename,
               name: item.name,
-              author: author,
+              author: opt.authorNamer(namerData),
               version: opt.versionNamer(namerData),
               build: opt.buildNamer(namerData),
               url: release.html_url,
