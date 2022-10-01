@@ -58,9 +58,10 @@ async function calcZipSha256(zipPath, filenames) {
   return result;
 }
 
-async function extract7z(archive, output) {
+async function extract7z(archive, output, opt = {}) {
+  fs.mkdirSync(output, { recursive: true });
   return new Promise((resolve, reject) => {
-    const stream = Seven.extractFull(archive, output);
+    const stream = Seven.extractFull(archive, output, opt);
 
     stream.on("end", () => {
       resolve();
@@ -91,7 +92,9 @@ async function calcDirSha256(dir, filenames, result = []) {
 async function calc7zSha256(archive, filenames) {
   const archivePath = path.parse(archive);
   const output = path.join(archivePath.dir, archivePath.name);
-  await extract7z(archive, output);
+  await extract7z(archive, output, {
+    $cherryPick: filenames.map((x) => "*" + x),
+  });
   return await calcDirSha256(output, filenames);
 }
 
