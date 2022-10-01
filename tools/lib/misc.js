@@ -97,6 +97,7 @@ async function calc7zSha256(archive, filenames) {
 
 async function appendGitHubReleases(dist, author, ghId, repo, items, opt = {}) {
   const defaultOpt = {
+    downloadSource: false,
     versionNamer: (data) => data.release.tag_name,
     buildNamer: () => "",
   };
@@ -105,22 +106,29 @@ async function appendGitHubReleases(dist, author, ghId, repo, items, opt = {}) {
   const data = {};
   for await (const response of github.listReleases(ghId, repo)) {
     for (const release of response.data) {
-      for (const asset of release.assets) {
-        const assetExt = path.extname(asset.name).toLowerCase();
+      const tasks = release.assets.map((a) => {
+        return { name: a.name, url: a.browser_download_url };
+      });
+      if (opt.downloadSource) {
+        tasks.push({ name: "src.zip", url: release.zipball_url });
+      }
+
+      for (const task of tasks) {
+        const assetExt = path.extname(task.name).toLowerCase();
         const assetPath = path.join(
           "temp",
           ghId,
           repo,
           release.tag_name,
-          asset.name
+          task.name
         );
         if (!fs.existsSync(assetPath)) {
-          await downloadFile(asset.browser_download_url, assetPath);
+          await downloadFile(task.url, assetPath);
         }
 
         let hash = {};
-        if (items.some((x) => x.filename === asset.name)) {
-          hash[asset.name] = await calcSha256(createReadStream(assetPath));
+        if (items.some((x) => x.filename === task.name)) {
+          hash[task.name] = await calcSha256(createReadStream(assetPath));
         } else if (assetExt === ".zip") {
           hash = await calcZipSha256(
             assetPath,
@@ -138,7 +146,7 @@ async function appendGitHubReleases(dist, author, ghId, repo, items, opt = {}) {
             const namerData = {
               response,
               release,
-              asset,
+              task,
               item,
             };
             data[key] = {

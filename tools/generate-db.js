@@ -21,6 +21,7 @@ import oov from "./lib/db-generator/oov.js";
 import rigaya from "./lib/db-generator/rigaya.js";
 import rikky from "./lib/db-generator/rikky.js";
 import ritchan from "./lib/db-generator/ritchan.js";
+import suzune25254649 from "./lib/db-generator/suzune25254649.js";
 import yanagi from "./lib/db-generator/yanagi.js";
 
 async function runGenerators(dist, generators) {
@@ -55,6 +56,7 @@ async function main() {
     rigaya,
     rikky,
     ritchan,
+    suzune25254649,
     yanagi,
   });
 
