@@ -52,6 +52,20 @@ export default async () => {
   }
 
   const data = [
+    // pmd_mt (取り下げられたアセット)
+    {
+      filename: "pmd_mt.auf",
+      name: "PMD_MT",
+      url: "https://github.com/rigaya/pmd_mt",
+      v: [
+        {
+          version: "+7",
+          build: "before 2022-09-29",
+          sha256:
+            "E3F071E6E536849EA7B1BF39EDF16590E265BCF6067DB05DBDD8D1358A6750C3",
+        },
+      ],
+    },
     // AviutlColor
     {
       filename: "color_bt2020nc.auc",
