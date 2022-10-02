@@ -18,9 +18,14 @@ import mtripg6666tdr from "./lib/db-generator/mtripg6666tdr.js";
 import n099 from "./lib/db-generator/n099.js";
 import nazonoSauna from "./lib/db-generator/nazono-sauna.js";
 import oov from "./lib/db-generator/oov.js";
+import pachira762 from "./lib/db-generator/pachira762.js";
 import rigaya from "./lib/db-generator/rigaya.js";
+import rikky from "./lib/db-generator/rikky.js";
 import ritchan from "./lib/db-generator/ritchan.js";
+import suzune25254649 from "./lib/db-generator/suzune25254649.js";
 import yanagi from "./lib/db-generator/yanagi.js";
+import ysr from "./lib/db-generator/ysr.js";
+import yumetodo from "./lib/db-generator/yumetodo.js";
 
 async function runGenerators(dist, generators) {
   const keys = Object.keys(generators).sort();
@@ -51,9 +56,14 @@ async function main() {
     n099,
     nazonoSauna,
     oov,
+    pachira762,
     rigaya,
+    rikky,
     ritchan,
+    suzune25254649,
     yanagi,
+    ysr,
+    yumetodo,
   });
 
   console.log("writing...");

@@ -16,7 +16,7 @@ export default async () => {
       items: [{ filename: "shutdown_plugin.auf", name: "Shutdown" }],
       opt: {
         buildNamer: (data) =>
-          /AviUtl-Shutdown-Plugin-(.+)\.zip/.exec(data.asset.name)[1],
+          /AviUtl-Shutdown-Plugin-(.+)\.zip/.exec(data.task.name)[1],
       },
     },
   ];
