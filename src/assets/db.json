@@ -4555,7 +4555,7 @@
   },
   {
     "filename": "auls_confirmclose.auf",
-    "name": "Auls上限確認",
+    "name": "Auls終了確認",
     "author": "かろてら",
     "version": "v1.2",
     "build": "",
@@ -4564,7 +4564,7 @@
   },
   {
     "filename": "auls_confirmclose.auf",
-    "name": "Auls上限確認",
+    "name": "Auls終了確認",
     "author": "かろてら",
     "version": "v1.1",
     "build": "",

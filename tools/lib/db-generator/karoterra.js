@@ -20,7 +20,7 @@ export default async () => {
   }
 
   const CONFIRMCLOSE_FILE = "auls_confirmclose.auf";
-  const CONFIRMCLOSE_NAME = "Auls上限確認";
+  const CONFIRMCLOSE_NAME = "Auls終了確認";
   const CONFIRMCLOSE_URL =
     "https://scrapbox.io/karoterra/%E6%94%B9%E5%A4%89%E7%89%88Auls%E7%B5%82%E4%BA%86%E7%A2%BA%E8%AA%8D";
   dist.push(
