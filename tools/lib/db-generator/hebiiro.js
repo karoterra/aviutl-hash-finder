@@ -69,6 +69,10 @@ export default async () => {
       [{ filename: "script_sort_patch.auf", name: "スクリプト並び替えパッチ" }],
     ],
     [
+      "AviUtl-Plugin-SaveImage",
+      [{ filename: "SaveImage.auf", name: "画像保存" }],
+    ],
+    [
       "AviUtl-Plugin-SelectAliasFolder",
       [{ filename: "SelectAliasFolder.auf", name: "エイリアスフォルダ選択" }],
     ],

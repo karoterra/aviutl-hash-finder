@@ -15,6 +15,10 @@ export default async () => {
       repo: "patch.aul",
       items: [{ filename: "patch.aul", name: "patch.aul" }],
     },
+    {
+      repo: "switch_drawfilter_gui",
+      items: [{ filename: "switch_drawfilter_gui.auf", name: "描画GUI非表示" }],
+    },
   ];
   const ghr = new GitHubReleases(GITHUB_ID, AUTHOR);
   for (const args of ghrArgs) {
