@@ -3618,6 +3618,24 @@
     "sha256": "D31A4D0AC58074F4F5E8DCEC57820C271BC2893FF44FE407431E8EF2D83E272B"
   },
   {
+    "filename": "SaveImage.auf",
+    "name": "画像保存",
+    "author": "蛇色",
+    "version": "1.1.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SaveImage/releases/tag/1.1.0",
+    "sha256": "5DAB26ACEDE5EFB2A86FE2D0BCB2DF26C51AA713E152EAF7F3A11F8C9B6F265B"
+  },
+  {
+    "filename": "SaveImage.auf",
+    "name": "画像保存",
+    "author": "蛇色",
+    "version": "1.0.0",
+    "build": "",
+    "url": "https://github.com/hebiiro/AviUtl-Plugin-SaveImage/releases/tag/1.0.0",
+    "sha256": "0E5077A66564CFCA3D18985D99F1DE426C4EED4F834583B70BFC1703E854530F"
+  },
+  {
     "filename": "SelectAliasFolder.auf",
     "name": "エイリアスフォルダ選択",
     "author": "蛇色",
@@ -4555,7 +4573,7 @@
   },
   {
     "filename": "auls_confirmclose.auf",
-    "name": "Auls上限確認",
+    "name": "Auls終了確認",
     "author": "かろてら",
     "version": "v1.2",
     "build": "",
@@ -4564,7 +4582,7 @@
   },
   {
     "filename": "auls_confirmclose.auf",
-    "name": "Auls上限確認",
+    "name": "Auls終了確認",
     "author": "かろてら",
     "version": "v1.1",
     "build": "",
@@ -77821,6 +77839,15 @@
     "build": "",
     "url": "https://github.com/nazonoSAUNA/patch.aul/releases/tag/r41.1",
     "sha256": "618995FD097F6EBFD1B8C9C722C201631FC45481004E8901C16CCA49AB35AE76"
+  },
+  {
+    "filename": "switch_drawfilter_gui.auf",
+    "name": "描画GUI非表示",
+    "author": "謎の生物(さうなさうな)",
+    "version": "v1.0",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/switch_drawfilter_gui/releases/tag/v1.0",
+    "sha256": "3E3417DFFFF1502F65678FC85F1A00DC13EB6F131C1FAA15DD1D36704043765F"
   },
   {
     "filename": "Redo.auf",
