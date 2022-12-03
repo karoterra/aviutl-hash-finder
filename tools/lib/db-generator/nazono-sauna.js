@@ -19,6 +19,18 @@ export default async () => {
       repo: "switch_drawfilter_gui",
       items: [{ filename: "switch_drawfilter_gui.auf", name: "描画GUI非表示" }],
     },
+    {
+      repo: "mousehwheel",
+      items: [{ filename: "mousehwheel.auf", name: "マウス横ホイール" }],
+    },
+    {
+      repo: "buttonsc",
+      items: [{ filename: "buttonsc.auf", name: "ボタンショートカット追加" }],
+    },
+    {
+      repo: "SceneLayerCopy",
+      items: [{ filename: "SceneLayerCopy.auf", name: "レイヤー情報コピペ" }],
+    },
   ];
   const ghr = new GitHubReleases(GITHUB_ID, AUTHOR);
   for (const args of ghrArgs) {
