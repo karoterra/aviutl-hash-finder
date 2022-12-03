@@ -84573,6 +84573,33 @@
     "sha256": "3E3417DFFFF1502F65678FC85F1A00DC13EB6F131C1FAA15DD1D36704043765F"
   },
   {
+    "filename": "mousehwheel.auf",
+    "name": "マウス横ホイール",
+    "author": "謎の生物(さうなさうな)",
+    "version": "0.1",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/mousehwheel/releases/tag/0.1",
+    "sha256": "D00AFD0F649A62372E5B8F22A59595E7A0667080D55E9EDE9C11537212F696D8"
+  },
+  {
+    "filename": "buttonsc.auf",
+    "name": "ボタンショートカット追加",
+    "author": "謎の生物(さうなさうな)",
+    "version": "0.1",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/buttonsc/releases/tag/0.1",
+    "sha256": "B16D558246749D548E04F3E64FE54CED25F8C0B364726B80632B294FF8BDF177"
+  },
+  {
+    "filename": "SceneLayerCopy.auf",
+    "name": "レイヤー情報コピペ",
+    "author": "謎の生物(さうなさうな)",
+    "version": "0.1",
+    "build": "",
+    "url": "https://github.com/nazonoSAUNA/SceneLayerCopy/releases/tag/0.1",
+    "sha256": "FAA2FD1E643082FFE33487760C06E8A0E7C1ECE6D15CAB148AB125762F94272B"
+  },
+  {
     "filename": "Redo.auf",
     "name": "Redo",
     "author": "謎の生物(さうなさうな)",
