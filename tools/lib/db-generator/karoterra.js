@@ -11,6 +11,10 @@ export default async () => {
       "aviutl_WaveformPreview",
       [{ filename: "WaveformPreview.auf", name: "波形プレビュー" }],
     ],
+    [
+      "aviutl_ThrowException",
+      [{ filename: "ThrowException.auf", name: "ThrowException" }],
+    ],
   ];
 
   const ghR = new GitHubReleases("karoterra", "かろてら");

@@ -11,8 +11,10 @@ import hebiiro from "./lib/db-generator/hebiiro.js";
 import karoterra from "./lib/db-generator/karoterra.js";
 import khsk from "./lib/db-generator/khsk.js";
 import kumrnm from "./lib/db-generator/kumrnm.js";
+import kusaanko from "./lib/db-generator/kusaanko.js";
 import lsmash from "./lib/db-generator/lsmash.js";
 import maverickTse from "./lib/db-generator/maverick-tse.js";
+import mimaraka from "./lib/db-generator/mimaraka.js";
 import mrOjii from "./lib/db-generator/mr-ojii.js";
 import mtripg6666tdr from "./lib/db-generator/mtripg6666tdr.js";
 import n099 from "./lib/db-generator/n099.js";
@@ -49,8 +51,10 @@ async function main() {
     karoterra,
     khsk,
     kumrnm,
+    kusaanko,
     lsmash,
     maverickTse,
+    mimaraka,
     mrOjii,
     mtripg6666tdr,
     n099,
