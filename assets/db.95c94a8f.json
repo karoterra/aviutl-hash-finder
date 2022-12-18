@@ -87564,6 +87564,15 @@
     "filename": "curve_editor.auf",
     "name": "Curve Editor",
     "author": "みまらか",
+    "version": "v1.0",
+    "build": "",
+    "url": "https://github.com/mimaraka/aviutl-plugin-curve_editor/releases/tag/v1.0",
+    "sha256": "0F046DA49142FD2769A1D3AF6A296D8C5A82DDB804AA167E98FDBB6FD3DB34BB"
+  },
+  {
+    "filename": "curve_editor.auf",
+    "name": "Curve Editor",
+    "author": "みまらか",
     "version": "v0.4.3",
     "build": "",
     "url": "https://github.com/mimaraka/aviutl-plugin-curve_editor/releases/tag/v0.4.3",
@@ -91312,6 +91321,15 @@
     "build": "",
     "url": "https://github.com/rigaya/NVEnc/releases/tag/6.00",
     "sha256": "FE56014E8592FDFFAC67D3F771964358FD98584D47097438057075F3F7278242"
+  },
+  {
+    "filename": "VCEEnc.auo",
+    "name": "拡張 VCE 出力",
+    "author": "rigaya",
+    "version": "7.15",
+    "build": "",
+    "url": "https://github.com/rigaya/VCEEnc/releases/tag/7.15",
+    "sha256": "553932589C83D8E3D2B75B9A1AD6D9CEAA2103F76E34DA772975C5B6CA2A2403"
   },
   {
     "filename": "VCEEnc.auo",
